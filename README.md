@@ -12,22 +12,22 @@ LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
 
 # Ideias de projetos para o seu portfolio:
 
-https://www.frontendmentor.io/
-https://github.com/florinpop17/app-ideas
-https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/
-https://www.youtube.com/watch?v=fYR9L2ZmodM
-https://www.youtube.com/watch?v=VvyjQE7pJ8s
-https://www.youtube.com/watch?v=nZJXfnULZyI
+</br>https://www.frontendmentor.io/ 
+</br>https://github.com/florinpop17/app-ideas
+</br>https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/
+</br>https://www.youtube.com/watch?v=fYR9L2ZmodM
+</br>https://www.youtube.com/watch?v=VvyjQE7pJ8s
+</br>https://www.youtube.com/watch?v=nZJXfnULZyI
 
 # Referencias para design dos sites:
 
-https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped
-https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=web%20site
-https://elements.envato.com/pt-br/web-templates
-https://www.alura.com.br/artigos/as-8-melhores-ferramentas-gratuitas-de-design
-https://dribbble.com/
-https://figmaresource.com/
-https://haikei.app/
+</br>https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped
+</br>https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=web%20site
+</br>https://elements.envato.com/pt-br/web-templates
+</br>https://www.alura.com.br/artigos/as-8-melhores-ferramentas-gratuitas-de-design
+</br>https://dribbble.com/
+</br>https://figmaresource.com/
+</br>https://haikei.app/
 
 
 # Encontre combinações de cores legais para usar no seu projeto:
@@ -38,107 +38,106 @@ https://color.adobe.com/
 
 # Onde achar imagens para o seu projeto:
 
-https://www.freepik.com/
-https://unsplash.com/
-https://www.envato.com/
-https://tinypng.com/
-https://imgbox.com/
-https://imgbox.com/
+</br>https://www.freepik.com/
+</br>https://unsplash.com/
+</br>https://www.envato.com/
+</br>https://tinypng.com/
+</br>https://imgbox.com/
+</br>https://imgbox.com/
 
 
 # Onde achar icones para o seu projeto:
 
-https://www.streamlinehq.com/
-iconfinder.com
-https://emojipedia.org/
-https://www.cursor.cc/
-https://favpng.com/
-https://fontawesome.com/
+</br>https://www.streamlinehq.com/
+</br> https://iconfinder.com
+</br>https://emojipedia.org/
+</br>https://www.cursor.cc/
+</br>https://favpng.com/
+</br>https://fontawesome.com/
 
 
 # Editores de imagem simples de usar:
 
-https://www.canva.com/
-https://pixlr.com/br/
-https://www.adobe.com/br/express/feature/image/resize
-https://tinypng.com/
-https://www.screentogif.com/
-https://app.prntscr.com/pt-br/help.html
+</br>https://www.canva.com/
+</br>https://pixlr.com/br/
+</br>https://www.adobe.com/br/express/feature/image/resize
+</br>https://tinypng.com/
+</br>https://www.screentogif.com/
+</br>https://app.prntscr.com/pt-br/help.html
 
 
 #Hospede suas imagens gratuitamente:
 
-https://imgbox.com/
+</br>https://imgbox.com/
 
 
 
 # Treine o uso do flexbox no CSS de forma divertida:
-https://flexboxfroggy.com/
+</br>https://flexboxfroggy.com/
 
 
 # Gere textos para tests no seu site:
-https://www.lipsum.com/
+</br>https://www.lipsum.com/
 
 
 # APIs publicas para usar no seu projeto:
 
-https://public-apis.xyz/
-Teste se sua API esta funcionando:
-https://resttesttest.com/
+</br>https://public-apis.xyz/
+</br>Teste se sua API esta funcionando -> https://resttesttest.com/
 
 
 # Onde hospedar seu site gratuitamente:
 
-https://pages.github.com/
-https://herokuapp.com/
-https://www.netlify.com/
-https://vercel.com/
+</br>https://pages.github.com/
+</br>https://herokuapp.com/
+</br>https://www.netlify.com/
+</br>https://vercel.com/
 
 
 # SEO & Optimização:
 
-https://web.dev/measure/
-https://developers.google.com/web/tools/lighthouse?hl=pt-br
-Compare seu site com outros similares: https://www.similarweb.com/pt/ 
+</br>https://web.dev/measure/
+</br>https://developers.google.com/web/tools/lighthouse?hl=pt-br
+</br>Compare seu site com outros similares: https://www.similarweb.com/pt/ 
 
 
 # Encurtador de urls:
 
-https://bitly.com/
+</br>https://bitly.com/
 
 
 # Criar formulario de email e campanhas gratuitamente:
-https://mailchimp.com/
+</br>https://mailchimp.com/
 
 
 # Produtividade e Organização:
-https://www.notion.so/
-https://www.digitalhouse.com/br/blog/como-usar-o-notion/
+</br>https://www.notion.so/
+</br>https://www.digitalhouse.com/br/blog/como-usar-o-notion/
 
 
 # Extensões uteis para VSCode:
-https://x-team.com/blog/best-vscode-extensions
+</br>https://x-team.com/blog/best-vscode-extensions
 
 
 # Extensões para navegador uteis para devs:
 
-CSS Viewer - descubra facilmente o CSS dos elementos da pagina
-https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt
+</br>CSS Viewer - descubra facilmente o CSS dos elementos da pagina
+</br>https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt
 
-ColorZilla - descubra quais cores estão sendo usadas no site
-https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt
+</br>ColorZilla - descubra quais cores estão sendo usadas no site
+</br>https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt
 
-FontsNinja - descubra quais fontes estão usadas no site
-https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
+</br>FontsNinja - descubra quais fontes estão usadas no site
+</br>https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
 
-Windows Resizer - teste a responsividade do seu site em diferentes resoluções:
-https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR
+</br>Windows Resizer - teste a responsividade do seu site em diferentes resoluções:
+</br>https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR
 
-Smart Page Ruler - meça dimensões em pixels nas paginas
-https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg
+</br>Smart Page Ruler - meça dimensões em pixels nas paginas
+</br>https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg
 
-GoFullPage - Tire prints das suas paginas web por inteiro
-https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
+</br>GoFullPage - Tire prints das suas paginas web por inteiro
+</br>https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
 
 
 
@@ -147,25 +146,25 @@ https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaech
 
 # Dicas para arrumar Jobs:
 
-Curriculo online -> https://gitconnected.com/	
-Curriculo online -> https://cvkeep.com/
-https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/	dicas emprego exterior
-10 dicas para melhoras seu portfolio -> https://www.youtube.com/watch?v=ReKskgcdG5w	
-lista melhor empresas para se trabalhar	https://gptw.com.br/ranking/melhores-empresas/?ano=2020&tipo=Setorial&ranking=Tecnologia&corte=30+%C3%A0+99+funcion%C3%A1rios
-Personalize seu GitHub: https://www.youtube.com/watch?v=cRoBt6AZgjc
+</br>Curriculo online -> https://gitconnected.com/	
+</br>Curriculo online -> https://cvkeep.com/
+</br>https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/	dicas emprego exterior
+</br>10 dicas para melhoras seu portfolio -> https://www.youtube.com/watch?v=ReKskgcdG5w	
+</br>lista melhor empresas para se trabalhar	https://gptw.com.br/ranking/melhores-empresas/?ano=2020&tipo=Setorial&ranking=Tecnologia&corte=30+%C3%A0+99+funcion%C3%A1rios
+</br>Personalize seu GitHub: https://www.youtube.com/watch?v=cRoBt6AZgjc
 
 
 # Sites para procuras vagas:
 
-sites para buscar vagas	https://docs.google.com/document/d/1hSxsKe4D5eUIguhYgac5zMaLxSzEisgpwmNI6qvm4r8/edit
-vagas br react 	https://github.com/react-brasil/vagas
-vagas front end br 	https://github.com/frontendbr/vagas
-vagas back end br	https://github.com/backend-br/vagas
-lista empresas trabalho remoto internacional	https://github.com/remoteintech/remote-jobs
-lista empresas remoto nacional	https://github.com/thiagolucio/remote-jobs-brazil
-lista empresas trabalho remoto internacional	https://github.com/remoteintech/remote-jobs
-lista empresas remoto nacional	https://github.com/thiagolucio/remote-jobs-brazil
-https://programathor.com.br/
+</br>sites para buscar vagas	https://docs.google.com/document/d/1hSxsKe4D5eUIguhYgac5zMaLxSzEisgpwmNI6qvm4r8/edit
+</br>vagas br react 	https://github.com/react-brasil/vagas
+</br>vagas front end br 	https://github.com/frontendbr/vagas
+</br>vagas back end br	https://github.com/backend-br/vagas
+</br>lista empresas trabalho remoto internacional	https://github.com/remoteintech/remote-jobs
+</br>lista empresas remoto nacional	https://github.com/thiagolucio/remote-jobs-brazil
+</br>lista empresas trabalho remoto internacional	https://github.com/remoteintech/remote-jobs
+</br>lista empresas remoto nacional	https://github.com/thiagolucio/remote-jobs-brazil
+</br>https://programathor.com.br/
 
 
 
@@ -270,10 +269,10 @@ https://www.meetup.com/pt-BR/
 
 # Repositorios do GitHub:
 
-Roadmap para devs: https://github.com/kamranahmedse/developer-roadmap
-https://github.com/arthurspk/guiadevbrasil
-https://github.com/arthurspk/guiadofrontend
-https://www.youtube.com/watch?v=vGQSG_YnTOw
+</br>Roadmap para devs: https://github.com/kamranahmedse/developer-roadmap
+</br>https://github.com/arthurspk/guiadevbrasil
+</br>https://github.com/arthurspk/guiadofrontend
+</br>https://www.youtube.com/watch?v=vGQSG_YnTOw
 (...)
 
 
