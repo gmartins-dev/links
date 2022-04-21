@@ -259,6 +259,7 @@ Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
 
 # Cursos Gratuitos:
 
+www.opensourcecourses.com.br/
 (...)
 
 # Eventos para Devs:
