@@ -11,27 +11,29 @@ LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
 
 # Ideias de projetos para o seu portfolio:
 
-</br>https://www.frontendmentor.io/
-</br>https://github.com/florinpop17/app-ideas
-</br>https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/
-</br>https://www.youtube.com/watch?v=fYR9L2ZmodM
-</br>https://www.youtube.com/watch?v=VvyjQE7pJ8s
-</br>https://www.youtube.com/watch?v=nZJXfnULZyI
+</br>Desafios de códigos com foco em Front-end: https://www.frontendmentor.io/
+</br>Repositório com idéias para incrementar no seu código: https://github.com/florinpop17/app-ideas
+</br>Acervo com 40 projetos para começar na programação: https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/
+</br>10 ideias de projetos do canal Filipe Deschamps: https://www.youtube.com/watch?v=fYR9L2ZmodM
+</br>3 ideias de projetos projetos do canal Dev em Dobro: https://www.youtube.com/watch?v=VvyjQE7pJ8s
+</br>6 ideias de projetos projetos do canal Dev Batista:https://www.youtube.com/watch?v=nZJXfnULZyI
+</br>5 inspirações de projetos: https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996
 
 # Referencias para design dos sites:
 
-</br>https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped
-</br>https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=web%20site
-</br>https://elements.envato.com/pt-br/web-templates
-</br>https://www.alura.com.br/artigos/as-8-melhores-ferramentas-gratuitas-de-design
-</br>https://dribbble.com/
-</br>https://figmaresource.com/
-</br>https://haikei.app/
+</br>Acervo no Pinterest para inspirar seu Front-end: https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped
+</br>Acervo no Behance para inspirar seu Front-end: https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=web%20site
+</br>Acervo no Envato Elements para inspirar seu Front-end: https://elements.envato.com/pt-br/web-templates
+</br>Acervo na Alura para inspirar seu Front-end: https://www.alura.com.br/artigos/as-8-melhores-ferramentas-gratuitas-de-design
+</br>Acervo no Dribbble para inspirar seu Front-end: https://dribbble.com/
+</br>Acervo no Figma para inspirar seu Front-end: https://figmaresource.com/
+</br>Acervo no Haikei de SVG para inspirar seu Front-end: https://haikei.app/
 
 # Encontre combinações de cores legais para usar no seu projeto:
 
-https://mycolor.space/
-https://color.adobe.com/
+<br> Paleta de cores no MyColor: https://mycolor.space/
+<br> Paleta de cores na Adobe: https://color.adobe.com/
+<br> Paleta de cores na Couleur: https://couleur.io/
 
 # Onde achar imagens para o seu projeto:
 
@@ -50,9 +52,12 @@ https://color.adobe.com/
 </br>https://www.cursor.cc/
 </br>https://favpng.com/
 </br>https://fontawesome.com/
+</br>https://lordicon.com/
+
 
 # Editores de imagem simples de usar:
 
+</br>https://www.photopea.com/
 </br>https://www.canva.com/
 </br>https://pixlr.com/br/
 </br>https://www.adobe.com/br/express/feature/image/resize
@@ -63,10 +68,16 @@ https://color.adobe.com/
 #Hospede suas imagens gratuitamente:
 
 </br>https://imgbox.com/
+</br>https://postimages.org/
+
 
 # Treine o uso do flexbox no CSS de forma divertida:
 
 </br>https://flexboxfroggy.com/
+</br>https://cssgridgarden.com/
+</br>https://flukeout.github.io/
+</br>https://mastery.games/flexboxzombies/
+</br>http://www.flexboxdefense.com/
 
 # Gere textos para tests no seu site:
 
@@ -74,7 +85,9 @@ https://color.adobe.com/
 
 # APIs publicas para usar no seu projeto:
 
+</br>https://any-api.com/
 </br>https://public-apis.xyz/
+</br>https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 </br>Teste se sua API esta funcionando -> https://resttesttest.com/
 
 # Onde hospedar seu site gratuitamente:
@@ -94,6 +107,12 @@ https://color.adobe.com/
 
 </br>https://bitly.com/
 
+# Ferramentas e sites para aprender a desenvolver raciocinio lógico:
+
+</br> https://www.sololearn.com/
+</br> https://www.hackerrank.com/dashboard
+</br> https://www.beecrowd.com.br/judge/
+
 # Criar formulario de email e campanhas gratuitamente:
 
 </br>https://mailchimp.com/
@@ -101,6 +120,7 @@ https://color.adobe.com/
 # Produtividade e Organização:
 
 </br>https://www.notion.so/
+</br>Widgets para notion so: http://apption.co/
 </br>https://www.digitalhouse.com/br/blog/como-usar-o-notion/
 
 # Extensões uteis para VSCode:
@@ -151,6 +171,13 @@ https://color.adobe.com/
 </br>https://programathor.com.br/
 
 =============================================
+# Sites que possam ajudar na carreira dos Devs:
+</br>Crie sites 5x mais responsivos: https://responsively.app/
+</br>Adicione e personalize todas as seções no readme do seu projeto: https://readme.so/
+</br>Crie e compartilhe imagens do seu código: https://carbon.now.sh
+</br>Pesquise e veja imagens com base nas que você curtiu anteriormente: https://unsplash.com/developers
+</br>Saiba quais empresas visitaram seu site com relatórios semanais: https://clearbit.com/resources/tools/visitor-report
+</br>Remova o backgroud de imagens: https://www.remove.bg/pt-br
 
 # Canais do YouTube com conteúdo para Devs:
 
@@ -245,6 +272,7 @@ Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
 # Cursos Gratuitos:
 
 www.opensourcecourses.com.br/
+https://jornadadodev.com.br/
 (...)
 
 # Eventos para Devs:
