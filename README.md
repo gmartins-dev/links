@@ -42,7 +42,11 @@ LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
 </br>https://www.envato.com/
 </br>https://tinypng.com/
 </br>https://imgbox.com/
-</br>https://imgbox.com/
+</br>https://encr.pw/iKOuY
+</br>https://www.shopify.com.br/burst
+</br>https://cupcake.nilssonlee.se/
+</br>https://www.drawkit.io
+</br>https://nappy.co/
 
 # Onde achar icones para o seu projeto:
 
@@ -53,7 +57,11 @@ LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
 </br>https://favpng.com/
 </br>https://fontawesome.com/
 </br>https://lordicon.com/
-
+</br>https://drawkit.com/free-icons
+</br>https://feathericons.com/
+</br>https://heroicons.dev/
+</br>https://icons.getbootstrap.com/
+</br>https://icons8.com/line-awesome
 
 # Editores de imagem simples de usar:
 
@@ -69,7 +77,6 @@ LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
 
 </br>https://imgbox.com/
 </br>https://postimages.org/
-
 
 # Treine o uso do flexbox no CSS de forma divertida:
 
@@ -96,6 +103,11 @@ LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
 </br>https://herokuapp.com/
 </br>https://www.netlify.com/
 </br>https://vercel.com/
+</br>https://www.awardspace.com/
+</br>https://byet.host/
+</br>https://www.infinityfree.net/
+</br>https://aws.amazon.com/pt/
+</br>https://www.1freehosting.com/
 
 # SEO & Optimização:
 
@@ -147,6 +159,12 @@ LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
 </br>GoFullPage - Tire prints das suas paginas web por inteiro
 </br>https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
 
+</br>File Icons for GitHub and GitLab - extensão simples para substituir o ícone do arquivo original por ícones específicos do tipo de arquivo. Isso melhora o reconhecimento visual no GitHub e GitLab
+</br>https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe
+
+<br>Web Developer - A extensão Web Developer adiciona um botão de barra de ferramentas ao navegador com várias ferramentas de desenvolvedor Web
+</br>https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR
+
 =============================================
 
 # Dicas para arrumar Jobs:
@@ -171,7 +189,9 @@ LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
 </br>https://programathor.com.br/
 
 =============================================
+
 # Sites que possam ajudar na carreira dos Devs:
+
 </br>Crie sites 5x mais responsivos: https://responsively.app/
 </br>Adicione e personalize todas as seções no readme do seu projeto: https://readme.so/
 </br>Crie e compartilhe imagens do seu código: https://carbon.now.sh
@@ -265,14 +285,21 @@ https://github.com/ielepassos/comunidades-TI
 Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
 (...)
 
-# Grupros do Whatsapp:
+# Grupos do Whatsapp:
 
 (...)
 
 # Cursos Gratuitos:
 
-www.opensourcecourses.com.br/
-https://jornadadodev.com.br/
+</br>www.opensourcecourses.com.br/
+</br>https://jornadadodev.com.br/
+</br>https://www.rocketseat.com.br/
+</br>https://www.dio.me/
+</br>https://www.cursoemvideo.com/
+</br>https://www.origamid.com/
+</br>https://www.coursera.org/
+</br>https://www.freecodecamp.org/
+
 (...)
 
 # Eventos para Devs:
