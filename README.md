@@ -5,8 +5,8 @@ mas que eu espero que seja algo construído de forma colaborativa por toda a com
 
 Então por favor contribuam (através de pull requests ou issues nesse repositório) sempre que possível enviando suas sugestões de links a serem adicionados na lista.
   
-# Tópicos
-- [Tópicos](#tópicos)
+# Tópicos <!-- omit in toc -->
+
 - [Ideias de projetos para o seu portfolio:](#ideias-de-projetos-para-o-seu-portfolio)
 - [Referências para design de sites:](#referências-para-design-de-sites)
 - [Encontre combinações de cores legais para usar no seu projeto:](#encontre-combinações-de-cores-legais-para-usar-no-seu-projeto)
@@ -40,7 +40,6 @@ Então por favor contribuam (através de pull requests ou issues nesse repositó
 - [Eventos para Devs:](#eventos-para-devs)
 - [Repositórios do GitHub:](#repositórios-do-github)
 - [Links que não se encaixaram em nenhuma das categorias acima:](#links-que-não-se-encaixaram-em-nenhuma-das-categorias-acima)
-    - [Projeto colaborativo!](#projeto-colaborativo)
   
   
 ---
@@ -371,6 +370,6 @@ Guia de TI (Guia para cursos gartuitos): https://guiadeti.com.br/
 
 
 ---
-### Projeto colaborativo! 
+### Projeto colaborativo!  <!-- omit in toc -->
 
 Envie suas sugestões de links a serem adicionados na lista através de pull requests ou issues nesse repositório.
