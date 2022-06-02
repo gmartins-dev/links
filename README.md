@@ -202,6 +202,8 @@ https://bitly.com/
 https://www.sololearn.com/
 </br> https://www.hackerrank.com/dashboard
 </br> https://www.beecrowd.com.br/judge/
+</br> https://exercism.org/
+</br> https://www.codingame.com/start
 </div>
 
 # Criar formulario de email e campanhas gratuitamente:
