@@ -282,6 +282,9 @@ https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnm
 FontsNinja - descubra quais fontes estão usadas no site: 
 https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
 
+WhatFont - descubra a fonte usada no site (mais leve):
+https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
+
 Windows Resizer - teste a responsividade do seu site em diferentes resoluções: 
 https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR
 
