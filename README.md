@@ -493,7 +493,7 @@ Guia do Front-End -> https://github.com/arthurspk/guiadofrontend
 
 Guia de TI (Guia para cursos gartuitos): https://guiadeti.com.br/
 
-
+contrib.rocks - exiba os contribuidores de um repo no README: https://contrib.rocks
 
 ---
 
