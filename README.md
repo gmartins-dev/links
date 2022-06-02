@@ -48,46 +48,47 @@ Obrigado aos devs que já contribuiram com projeto! -> https://github.com/guilhe
 # Ideias de projetos para o seu portfolio:
 
 
-Desafios de códigos com foco em Front-end: https://www.frontendmentor.io/
+[Desafios de códigos com foco em Front-end](https://www.frontendmentor.io/)
 
-Repositório com idéias para incrementar no seu código: https://github.com/florinpop17/app-ideas
-Acervo com 40 projetos para começar na programação: https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/
+[Repositório com idéias para incrementar no seu código](https://github.com/florinpop17/app-ideas)
 
-10 ideias de projetos do canal Filipe Deschamps: https://www.youtube.com/watch?v=fYR9L2ZmodM
+[Acervo com 40 projetos para começar na programação](https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/)
 
-3 ideias de projetos projetos do canal Dev em Dobro: https://www.youtube.com/watch?v=VvyjQE7pJ8s
+[10 ideias de projetos do canal Filipe Deschamps](https://www.youtube.com/watch?v=fYR9L2ZmodM)
 
-6 ideias de projetos projetos do canal Dev Batista:https://www.youtube.com/watch?v=nZJXfnULZyI
+[3 ideias de projetos projetos do canal Dev em Dobro](https://www.youtube.com/watch?v=VvyjQE7pJ8s)
 
-5 inspirações de projetos: https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996
+[6 ideias de projetos projetos do canal Dev Batista](https://www.youtube.com/watch?v=nZJXfnULZyI)
+
+[5 inspirações de projetos](https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996)
 
 
 # Referências para design de sites:
 
 
-Acervo no Pinterest para inspirar seu Front-end: https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped
+[Acervo no Pinterest para inspirar seu Front-end](https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped)
 
-Acervo no Behance para inspirar seu Front-end: https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=web%20site
+[Acervo no Behance para inspirar seu Front-end](https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=web%20site)
 
-Acervo no Envato Elements para inspirar seu Front-end: https://elements.envato.com/pt-br/web-templates</br>
+[Acervo no Envato Elements para inspirar seu Front-end](https://elements.envato.com/pt-br/web-templates)
 
-Acervo na Alura para inspirar seu Front-end: https://www.alura.com.br/artigos/as-8-melhores-ferramentas-gratuitas-de-design</br>
+[Acervo na Alura para inspirar seu Front-end](https://www.alura.com.br/artigos/as-8-melhores-ferramentas-gratuitas-de-design)
 
-Acervo no Dribbble para inspirar seu Front-end: https://dribbble.com/
+[Acervo no Dribbble para inspirar seu Front-end](https://dribbble.com/)
 
-Acervo no Figma para inspirar seu Front-end: https://figmaresource.com/
+[Acervo no Figma para inspirar seu Front-end](https://figmaresource.com/)
 
-Acervo no Haikei de SVG para inspirar seu Front-end: https://haikei.app/
+[Acervo no Haikei de SVG para inspirar seu Front-end](https://haikei.app/)
 
 
 # Encontre combinações de cores legais para usar no seu projeto:
 
 
-Paleta de cores no MyColor: https://mycolor.space/
+[Paleta de cores no MyColor](https://mycolor.space/)
 
-Paleta de cores na Adobe: https://color.adobe.com/
+[Paleta de cores na Adobe](https://color.adobe.com/)
 
-Paleta de cores na Couleur: https://couleur.io/
+[Paleta de cores na Couleur](https://couleur.io/)
 
 
 # Onde achar imagens para o seu projeto:
@@ -261,7 +262,7 @@ https://mailchimp.com/
 
 hhttps://www.notion.so/
 
-Widgets para notion so: http://apption.co/
+[Widgets para notion so](http://apption.co/)
 
 https://www.digitalhouse.com/br/blog/como-usar-o-notion/
 
@@ -275,181 +276,190 @@ https://x-team.com/blog/best-vscode-extensions
 # Extensões para navegador úteis para devs:
 
 
-CSS Viewer - descubra facilmente o CSS dos elementos da página: 
-https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt
+[CSS Viewer - descubra facilmente o CSS dos elementos da página](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt)
 
-ColorZilla - descubra quais cores estão sendo usadas no site: 
-https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt
+[ColorZilla - descubra quais cores estão sendo usadas no site](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt)
 
-FontsNinja - descubra quais fontes estão usadas no site: 
-https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
+[FontsNinja - descubra quais fontes estão usadas no site](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
 
-WhatFont - descubra a fonte usada no site (mais leve):
-https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
+[WhatFont - descubra a fonte usada no site (mais leve)](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 
-Windows Resizer - teste a responsividade do seu site em diferentes resoluções: 
-https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR
+[Windows Resizer - teste a responsividade do seu site em diferentes resoluções](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR)
 
-Smart Page Ruler - meça dimensões em pixels nas paginas:  
-https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg
+[Smart Page Ruler - meça dimensões em pixels nas paginas](https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg)
 
-GoFullPage - Tire prints das suas paginas web por inteiro: 
-https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
+[GoFullPage - Tire prints das suas paginas web por inteiro](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
 
-File Icons for GitHub and GitLab - extensão simples para substituir o ícone do arquivo original por ícones específicos do tipo de arquivo. Isso melhora o reconhecimento visual no GitHub e GitLab: 
-https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe
+[File Icons for GitHub and GitLab - extensão simples para substituir o ícone do arquivo original por ícones específicos do tipo de arquivo. Isso melhora o reconhecimento visual no GitHub e GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe)
 
-Web Developer - A extensão Web Developer adiciona um botão de barra de ferramentas ao navegador com várias ferramentas de desenvolvedor Web: 
-https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR
+[Web Developer - A extensão Web Developer adiciona um botão de barra de ferramentas ao navegador com várias ferramentas de desenvolvedor Web](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)
 
 
 
 # Dicas para arrumar Jobs:
 
 
-Currículo online -> https://gitconnected.com/
+[Currículo online 1](https://gitconnected.com/)
 
-Currículo online -> https://cvkeep.com/
+[Currículo online 2](https://cvkeep.com/)
 
-Currículo online -> https://www.resumemaker.online/pt
+[Currículo online](https://www.resumemaker.online/pt)
 
-dicas emprego exterior -> https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/ 
+[Dicas emprego exterior](https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/) 
 
-10 dicas para melhorar seu portfolio -> https://www.youtube.com/watch?v=ReKskgcdG5w
+[10 dicas para melhorar seu portfolio](https://www.youtube.com/watch?v=ReKskgcdG5w)
 
-Lista melhor empresas para se trabalhar https://gptw.com.br/ranking/melhores-empresas/?ano=2020&tipo=Setorial&ranking=Tecnologia&corte=30+%C3%A0+99+funcion%C3%A1rios
+[Lista melhor empresas para se trabalhar](https://gptw.com.br/ranking/melhores-empresas/?ano=2020&tipo=Setorial&ranking=Tecnologia&corte=30+%C3%A0+99+funcion%C3%A1rios)
 
-Personalize seu GitHub: https://www.youtube.com/watch?v=cRoBt6AZgjc
+[Personalize seu GitHub](https://www.youtube.com/watch?v=cRoBt6AZgjc)
 
 
 # Sites para procurar vagas:
 
-Sites gerais https://docs.google.com/document/d/1hSxsKe4D5eUIguhYgac5zMaLxSzEisgpwmNI6qvm4r8/edit
+[Sites gerais](https://docs.google.com/document/d/1hSxsKe4D5eUIguhYgac5zMaLxSzEisgpwmNI6qvm4r8/edit)
 
-Vagas BR React https://github.com/react-brasil/vagas
+[Vagas BR React](https://github.com/react-brasil/vagas)
 
-Vagas Front-End BR https://github.com/frontendbr/vagas
+[Vagas Front-End BR](https://github.com/frontendbr/vagas)
 
-Vagas Back-End BR https://github.com/backend-br/vagas
+[Vagas Back-End BR](https://github.com/backend-br/vagas)
 
-Lista empresas trabalho remoto internacional https://github.com/remoteintech/remote-jobs
+[Lista empresas trabalho remoto internacional](https://github.com/remoteintech/remote-jobs)
 
-Lista empresas remoto nacional https://github.com/thiagolucio/remote-jobs-brazil
+[Lista empresas remoto nacional](https://github.com/thiagolucio/remote-jobs-brazil)
 
-Lista empresas trabalho remoto internacional https://github.com/remoteintech/remote-jobs
+[Lista empresas trabalho remoto internacional](https://github.com/remoteintech/remote-jobs)
 
-Lista empresas remoto nacional https://github.com/thiagolucio/remote-jobs-brazil
+[Lista empresas remoto nacional](https://github.com/thiagolucio/remote-jobs-brazil)
 
-Programathor https://programathor.com.br/
+[Programathor](https://programathor.com.br/)
 
 
 # Sites que podem ajudar na sua carreira dev:
 
 
-Crie sites 5x mais responsivos: https://responsively.app/
+[Crie sites 5x mais responsivos](https://responsively.app/)
 
-Adicione e personalize todas as seções no readme do seu projeto: https://readme.so/
+[Adicione e personalize todas as seções no readme do seu projeto](https://readme.so/)
 
-Crie e compartilhe imagens do seu código: https://carbon.now.sh
+[Crie e compartilhe imagens do seu código](https://carbon.now.sh)
 
-Pesquise e veja imagens com base nas que você curtiu anteriormente: https://unsplash.com/developers
+[Pesquise e veja imagens com base nas que você curtiu anteriormente](https://unsplash.com/developers)
 
-Saiba quais empresas visitaram seu site com relatórios semanais: https://clearbit.com/resources/tools/visitor-report
+[Saiba quais empresas visitaram seu site com relatórios semanais](https://clearbit.com/resources/tools/visitor-report)
 
-Remova o backgroud de imagens: https://www.remove.bg/pt-br
+[Remova o backgroud de imagens](https://www.remove.bg/pt-br)
 
 # Canais do YouTube com conteúdo para Devs:
 
-Adriana Saty
+[Adriana Saty](https://www.youtube.com/c/AdrianaSaty)
 
-Alura
+[Alura](https://www.youtube.com/c/Alura)
 
-Arthur PC
+[Arthur PC](https://www.youtube.com/c/ARTHURPC)
 
-Attekita Dev
+[Attekita Dev](https://www.youtube.com/c/AttekitaDev)
 
-Bonieky
+[Bonieky](https://www.youtube.com/c/BoniekyLacerdaLeal)
 
-cod3r
+[cod3r](https://www.youtube.com/c/COD3RCURSOS)
 
-CodarMe
+[CodarMe](https://www.youtube.com/c/CodarMe)
 
-Codigo Fonte
+[Codigo Fonte](https://www.youtube.com/c/codigofontetv)
 
-Daniel Berg
+[Daniel Berg](https://www.youtube.com/c/DanielBergholz)
 
-Daniel Castro
+[Daniel Castro](https://www.youtube.com/c/odanieldcs)
 
-Dev Aprender
+[Dev Aprender](https://www.youtube.com/c/DevAprender)
 
-Dev em dobro
+[Dev em dobro](https://www.youtube.com/c/DevemDobro)
 
-Dev Jr Br
+[Dev Jr Br](https://www.youtube.com/c/DevemDobro)
 
-Dev Soutinho
+[Dev Soutinho](https://www.youtube.com/c/DevSoutinho)
 
-Dio
+[Dio](https://www.youtube.com/c/DigitalInnovationOne)
 
-Fabio Akita
+[Fabio Akita](https://www.youtube.com/c/FabioAkita1990)
 
-Felipe Dechamps
+[Felipe Dechamps](https://www.youtube.com/c/FilipeDeschamps)
 
-Guilherme Rodz
+[Guilherme Rodz](https://www.youtube.com/channel/UCbJAKfdCHqjrM63VgTNGYOA)
 
-Huriel Lopes
+[Huriel Lopes](https://www.youtube.com/c/Huriel)
 
-Lucas Montano
+[Lucas Montano](https://www.youtube.com/c/LucasMontano)
 
-Lucas Nhimi
+[Lucas Nhimi](https://www.youtube.com/c/LucasNhimi)
 
-Matheus Battisti
+[Matheus Battisti](https://www.youtube.com/c/MatheusBattisti)
 
-PasquaDev
+[PasquaDev](https://www.youtube.com/c/pasquadev)
 
-ProgramadorBR
+[ProgramadorBR](https://www.youtube.com/c/Programadorbr)
 
-Programação dinamica
+[Programação dinamica](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica)
 
-Rafaella Balerini
+[Rafaella Balerini](https://www.youtube.com/c/rafaellaballerini)
 
-Rocketseat
+[Rocketseat](https://www.youtube.com/c/RocketSeat)
 
-SejaDev
+[SejaDev](https://www.youtube.com/c/SejaDev)
 
-SerFrontEnd
+[SerFrontEnd](https://www.youtube.com/c/serfrontend)
 
-Sujeito Programador
+[Sujeito Programador](https://www.youtube.com/c/Sujeitoprogramador)
 
-Tsunode
+[Tsunode](https://www.youtube.com/channel/UCPu8oBgt5blL98v04N1loVQ)
 
+[Jakeliny Gracielly](https://www.youtube.com/c/JakelinyGracielly)
+
+[Ania Kubów](https://www.youtube.com/c/AniaKub%C3%B3w/featured)
+
+[Sonny Sangha](https://www.youtube.com/c/SonnySangha)
+
+[The Coding Train](https://www.youtube.com/c/TheCodingTrain)
+
+[Fireship](https://www.youtube.com/c/Fireship/featured)
+
+[Mayk Brito](https://www.youtube.com/c/MaykBrito)
+
+[Loiane Groner](https://www.youtube.com/c/loianegroner)
+
+[Computerphile](https://www.youtube.com/user/Computerphile)
+
+[Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 
 # Páginas do Instagram com Conteúdo para Devs:
 
-One Bit Code -> https://www.instagram.com/onebitcode/
+[One Bit Code](https://www.instagram.com/onebitcode/)
 
 # Diversas comunidades Brs:
 
-https://github.com/ielepassos/comunidades-TI
+[COMUNIDADES TECH(Repositório)](https://github.com/ielepassos/comunidades-TI)
 
 
 # Comunidades no Discord:
 
-Dev Jr Br -> https://discord.gg/6FcqV4q6
+[Dev Jr Br](https://discord.gg/6FcqV4q6)
 
-Digital Innovation one -> https://discord.gg/VTZpDjwN
+[Digital Innovation one](https://discord.gg/VTZpDjwN)
 
-Let's Code -> https://discord.gg/VXYEKdb7
+[Let's Code](https://discord.gg/VXYEKdb7)
 
-Codelândia -> https://discord.gg/9HgRe4D5
+[Codelândia](https://discord.gg/9HgRe4D5)
 
-Portal DEV -> https://discord.gg/zV2ATsJxH7
+[Portal DEV](https://discord.gg/zV2ATsJxH7)
 
-Guia Dev Brasil -> https://discord.gg/RnJC9wAq
+[Guia Dev Brasil](https://discord.gg/RnJC9wAq)
 
 # Grupos do Telegram:
 
 Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
 
+[Cafeina Vagas](https://t.me/CafeinaVagas)
 
 # Grupos do Whatsapp:
 
@@ -482,16 +492,16 @@ https://www.meetup.com/pt-BR/
 
 # Repositórios do GitHub:
 
-Roadmap para devs -> https://github.com/kamranahmedse/developer-roadmap
+[Roadmap para devs](https://github.com/kamranahmedse/developer-roadmap)
 
-Guia Dev Brasil -> https://github.com/arthurspk/guiadevbrasil
+[Guia Dev Brasil](https://github.com/arthurspk/guiadevbrasil)
 
-Guia do Front-End -> https://github.com/arthurspk/guiadofrontend
+[Guia do Front-End](https://github.com/arthurspk/guiadofrontend)
 
 
 # Links que não se encaixaram em nenhuma das categorias acima:
 
-Guia de TI (Guia para cursos gartuitos): https://guiadeti.com.br/
+[Guia de TI (Guia para cursos gartuitos)](https://guiadeti.com.br/)
 
 
 
