@@ -12,7 +12,8 @@ Então por favor contribuam (através de pull requests ou issues nesse repositó
 Envie suas sugestões de links a serem adicionados na lista através de pull requests ou issues nesse repositório.
 </p>
 <p align="center">
- Muito obrigado!!! aos devs que já contribuiram com projeto!
+ Muito obrigado!!! a todos os devs que já contribuiram com o projeto </br>
+ 👏👏👏🤗👨‍💻👩‍💻💙
   
 </p>
 </br>
