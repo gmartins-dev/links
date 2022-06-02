@@ -3,9 +3,9 @@
 Sejam bem vindos Devs, esse é um projeto colaborativo criado inicialmente por mim @guilhermemm-dev
 mas que eu espero que seja algo construído de forma colaborativa por toda a comunidade de devs brs.
 
-Obrigado aos devs que já contribuiram com projeto! -> https://github.com/guilhermemm-dev/links/graphs/contributors
-
 Então por favor contribuam (através de pull requests ou issues nesse repositório) sempre que possível enviando suas sugestões de links a serem adicionados na lista.
+
+Obrigado aos devs que já contribuiram com projeto! -> https://github.com/guilhermemm-dev/links/graphs/contributors
   
 # Tópicos <!-- omit in toc -->
 
