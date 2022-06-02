@@ -69,7 +69,7 @@ Desafios de códigos com foco em Front-end: https://www.frontendmentor.io/</br>
 </br>5 inspirações de projetos: https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996</br>
 </div>
 
-# Referências para design dos sites:
+# Referências para design de sites:
 
 <div id="websites-design">
 Acervo no Pinterest para inspirar seu Front-end: https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped</br>
@@ -104,7 +104,7 @@ https://www.freepik.com/
 </br>https://nappy.co/
 </div>
 
-# Onde achar icones para o seu projeto:
+# Onde achar ícones para o seu projeto:
 
 <div id="find-icons">
 https://www.streamlinehq.com/
@@ -155,7 +155,7 @@ https://flexboxfroggy.com/
 https://www.lipsum.com/
 </div>
 
-# APIs publicas para usar no seu projeto:
+# APIs públicas para usar no seu projeto:
 
 <div id="public-apis">
 https://any-api.com/
@@ -163,7 +163,7 @@ https://any-api.com/
 </br>https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 </div>
 
-# Teste se sua API esta funcionando:
+# Teste se sua API está funcionando:
 
 <div id="api-test">
 </br>https://resttesttest.com/
@@ -209,7 +209,7 @@ https://www.sololearn.com/
 </br> https://www.beecrowd.com.br/judge/
 </div>
 
-# Criar formulario de email e campanhas gratuitamente:
+# Criar formulários de email e campanhas gratuitamente:
 
 <div id="create-a-form">
 https://mailchimp.com/
@@ -229,7 +229,7 @@ https://www.notion.so/
 https://x-team.com/blog/best-vscode-extensions
 </div>
 
-# Extensões para navegador uteis para devs:
+# Extensões para navegador úteis para devs:
 
 <div id="browser-extensions">
 CSS Viewer - descubra facilmente o CSS dos elementos da pagina
@@ -330,7 +330,7 @@ Sujeito Programador
 Tsunode
 </div>
 
-# Paginas do Instagram com Conteudo para Devs:
+# Páginas do Instagram com Conteúdo para Devs:
 
 <div id="instagram-pages">
 One Bit Code -> https://www.instagram.com/onebitcode/
@@ -384,7 +384,7 @@ www.opensourcecourses.com.br/
 https://www.meetup.com/pt-BR/
 </div>
 
-# Repositorios do GitHub:
+# Repositórios do GitHub:
 
 <div id="github-repos">
 Roadmap para devs -> https://github.com/kamranahmedse/developer-roadmap
@@ -392,7 +392,7 @@ Roadmap para devs -> https://github.com/kamranahmedse/developer-roadmap
 </br>Guia do Front-End -> https://github.com/arthurspk/guiadofrontend
 </div>
 
-# Links que não se encaixaram em nenhum das categorias acima:
+# Links que não se encaixaram em nenhuma das categorias acima:
 
 <div id="geral-links"> 
 Guia de TI (Guia para cursos gartuitos): https://guiadeti.com.br/
