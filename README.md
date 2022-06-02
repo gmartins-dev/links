@@ -1,43 +1,82 @@
 Sejam bem vindos Devs, esse é um projeto colaborativo criado inicialmente por mim @guilhermemm-dev
-mas que eu espero que seja algo construido de forma colaborativa por toda a comunidade de devs br.
+mas que eu espero que seja algo construido de forma colaborativa por toda a comunidade de devs brs.
 
 Então por favor contribuam sempre que possivel enviando suas sugestões de links a serem adicionados na lista.
+# Tópicos
+<ul>
+  <li><a href="#public-apis">APIs publicas para usar no seu projeto</a></li>
+   <li><a href="#youtube-channels">Canais do YouTube com conteúdo para Devs</a></li>
+   <li><a href="#compare-your-website">Compare seu site com outros similares</a></li>
+   <li><a href="#discord-communities">Comunidades no Discord</a></li>
+   <li><a href="#create-a-form">Criar formulario de email e campanhas gratuitamente</a></li>
+   <li><a href="#free-courses">Cursos Gratuitos</a></li>
+   <li><a href="#jobs-tips">Dicas para arrumar Jobs</a></li>
+   <li><a href="#br-communities">Diversas comunidades Brs</a></li>
+   <li><a href="#image-editor">Editores de imagem simples de usar</a></li>
+   <li><a href="#url">Encurtador de urls</a></li>
+   <li><a href="#cool-colors">Encontre combinações de cores legais para usar no seu projeto</a></li>
+   <li><a href="#events-for-devs">Eventos para Devs</a></li>
+   <li><a href="#browser-extensions">Extensões para navegador uteis para devs</a></li>
+   <li><a href="#vscode-extensions">Extensões úteis para VSCode</a></li>
+   <li><a href="#logical-reasioning">Ferramentas e sites para aprender a desenvolver raciocinio lógico</a></li>
+   <li><a href="#lorem-ipsum">Gere textos para tests no seu site</a></li>
+   <li><a href="#telegram-groups">Grupos do Telegram</a></li>
+   <li><a href="#whatsapp-groups">Grupos do Whatsapp</a></li>
+   <li><a href="#images-host">Hospede suas imagens gratuitamente</a></li>
+   <li><a href="#project-ideas">Ideias de projetos para o seu portfolio</a></li>
+   <li><a href="#find-icons">Onde achar icones para o seu projeto</a></li>
+   <li><a href="#find-images">Onde achar imagens para o seu projeto</a></li>
+   <li><a href="#website-host">Onde hospedar seu site gratuitamente</a></li>
+   <li><a href="#instagram-pages">Paginas do Instagram com Conteudo para Devs</a></li>
+   <li><a href="#productivity-organization">Produtividade e Organização</a></li>
+   <li><a href="#websites-design">Referencias para design dos sites</a></li>
+   <li><a href="#github-repos">Repositorios do GitHub</a></li>
+   <li><a href="#seo-otimization">SEO & Otimização</a></li>
+   <li><a href="#jobs-websites">Sites para procuras vagas</a></li>
+   <li><a href="#websites-that-should-help">Sites que podem ajudar na sua carreira dev</a></li>
+   <li><a href="#api-test">Teste se sua API esta funcionando</a></li>
+   <li><a href="#fun-flexbox">Treine o uso do flexbox no CSS de forma divertida</a></li>
+   <li><a href="#geral-links">Links que não se encaixaram em nenhum das categorias acima</a></li>
+</ul>
 
-#############################################
-
-LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
-
-#############################################
-
+  
+  
 # Ideias de projetos para o seu portfolio:
 
-</br>Desafios de códigos com foco em Front-end: https://www.frontendmentor.io/
-</br>Repositório com idéias para incrementar no seu código: https://github.com/florinpop17/app-ideas
-</br>Acervo com 40 projetos para começar na programação: https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/
-</br>10 ideias de projetos do canal Filipe Deschamps: https://www.youtube.com/watch?v=fYR9L2ZmodM
-</br>3 ideias de projetos projetos do canal Dev em Dobro: https://www.youtube.com/watch?v=VvyjQE7pJ8s
-</br>6 ideias de projetos projetos do canal Dev Batista:https://www.youtube.com/watch?v=nZJXfnULZyI
-</br>5 inspirações de projetos: https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996
+<div id="project-ideas">
+Desafios de códigos com foco em Front-end: https://www.frontendmentor.io/</br>
+</br>Repositório com idéias para incrementar no seu código: https://github.com/florinpop17/app-ideas</br>
+</br>Acervo com 40 projetos para começar na programação: https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/</br>
+</br>10 ideias de projetos do canal Filipe Deschamps: https://www.youtube.com/watch?v=fYR9L2ZmodM</br>
+</br>3 ideias de projetos projetos do canal Dev em Dobro: https://www.youtube.com/watch?v=VvyjQE7pJ8s</br>
+</br>6 ideias de projetos projetos do canal Dev Batista:https://www.youtube.com/watch?v=nZJXfnULZyI</br>
+</br>5 inspirações de projetos: https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996</br>
+</div>
 
 # Referencias para design dos sites:
 
-</br>Acervo no Pinterest para inspirar seu Front-end: https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped
-</br>Acervo no Behance para inspirar seu Front-end: https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=web%20site
-</br>Acervo no Envato Elements para inspirar seu Front-end: https://elements.envato.com/pt-br/web-templates
-</br>Acervo na Alura para inspirar seu Front-end: https://www.alura.com.br/artigos/as-8-melhores-ferramentas-gratuitas-de-design
-</br>Acervo no Dribbble para inspirar seu Front-end: https://dribbble.com/
-</br>Acervo no Figma para inspirar seu Front-end: https://figmaresource.com/
-</br>Acervo no Haikei de SVG para inspirar seu Front-end: https://haikei.app/
+<div id="websites-design">
+Acervo no Pinterest para inspirar seu Front-end: https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped</br>
+</br>Acervo no Behance para inspirar seu Front-end: https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=web%20site</br>
+</br>Acervo no Envato Elements para inspirar seu Front-end: https://elements.envato.com/pt-br/web-templates</br>
+</br>Acervo na Alura para inspirar seu Front-end: https://www.alura.com.br/artigos/as-8-melhores-ferramentas-gratuitas-de-design</br>
+</br>Acervo no Dribbble para inspirar seu Front-end: https://dribbble.com/</br>
+</br>Acervo no Figma para inspirar seu Front-end: https://figmaresource.com/</br>
+</br>Acervo no Haikei de SVG para inspirar seu Front-end: https://haikei.app/</br>
+</div>
 
 # Encontre combinações de cores legais para usar no seu projeto:
 
-<br> Paleta de cores no MyColor: https://mycolor.space/
-<br> Paleta de cores na Adobe: https://color.adobe.com/
-<br> Paleta de cores na Couleur: https://couleur.io/
+<div id="cool-colors">
+Paleta de cores no MyColor: https://mycolor.space/</br>
+<br> Paleta de cores na Adobe: https://color.adobe.com/</br>
+<br> Paleta de cores na Couleur: https://couleur.io/</br>
+</div>
 
 # Onde achar imagens para o seu projeto:
 
-</br>https://www.freepik.com/
+<div id="find-images">
+https://www.freepik.com/
 </br>https://unsplash.com/
 </br>https://www.envato.com/
 </br>https://tinypng.com/
@@ -47,11 +86,13 @@ LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
 </br>https://cupcake.nilssonlee.se/
 </br>https://www.drawkit.io
 </br>https://nappy.co/
+</div>
 
 # Onde achar icones para o seu projeto:
 
-</br>https://www.streamlinehq.com/
-</br> https://iconfinder.com
+<div id="find-icons">
+https://www.streamlinehq.com/
+</br>https://iconfinder.com
 </br>https://emojipedia.org/
 </br>https://www.cursor.cc/
 </br>https://favpng.com/
@@ -62,44 +103,60 @@ LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
 </br>https://heroicons.dev/
 </br>https://icons.getbootstrap.com/
 </br>https://icons8.com/line-awesome
+</div>
 
 # Editores de imagem simples de usar:
 
-</br>https://www.photopea.com/
+<div id="image-editor">
+https://www.photopea.com/
 </br>https://www.canva.com/
 </br>https://pixlr.com/br/
 </br>https://www.adobe.com/br/express/feature/image/resize
 </br>https://tinypng.com/
 </br>https://www.screentogif.com/
 </br>https://app.prntscr.com/pt-br/help.html
+</div>
 
-#Hospede suas imagens gratuitamente:
+# Hospede suas imagens gratuitamente:
 
-</br>https://imgbox.com/
+<div id="images-host">
+https://imgbox.com/
 </br>https://postimages.org/
 
 # Treine o uso do flexbox no CSS de forma divertida:
 
-</br>https://flexboxfroggy.com/
+<div id="fun-flexbox">
+https://flexboxfroggy.com/
 </br>https://cssgridgarden.com/
 </br>https://flukeout.github.io/
 </br>https://mastery.games/flexboxzombies/
 </br>http://www.flexboxdefense.com/
+</div>
 
 # Gere textos para tests no seu site:
 
-</br>https://www.lipsum.com/
+<div id="lorem-ipsum">
+https://www.lipsum.com/
+</div>
 
 # APIs publicas para usar no seu projeto:
 
-</br>https://any-api.com/
+<div id="public-apis">
+https://any-api.com/
 </br>https://public-apis.xyz/
 </br>https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
-</br>Teste se sua API esta funcionando -> https://resttesttest.com/
+</div>
+
+# Teste se sua API esta funcionando:
+
+<div id="api-test">
+</br>https://resttesttest.com/
+</div>
 
 # Onde hospedar seu site gratuitamente:
 
-</br>https://pages.github.com/
+<div id="website-host">
+https://pages.github.com/
 </br>https://herokuapp.com/
 </br>https://www.netlify.com/
 </br>https://vercel.com/
@@ -108,40 +165,58 @@ LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
 </br>https://www.infinityfree.net/
 </br>https://aws.amazon.com/pt/
 </br>https://www.1freehosting.com/
+</div>
 
-# SEO & Optimização:
+# SEO & Otimização:
 
-</br>https://web.dev/measure/
+<div id="seo-otimization">
+https://web.dev/measure/
 </br>https://developers.google.com/web/tools/lighthouse?hl=pt-br
-</br>Compare seu site com outros similares: https://www.similarweb.com/pt/
+</div>
+
+# Compare seu site com outros similares:
+
+<div id="compare-your-website">
+https://www.similarweb.com/pt/
 
 # Encurtador de urls:
 
-</br>https://bitly.com/
+<div id="url">
+https://bitly.com/
+</div>
 
 # Ferramentas e sites para aprender a desenvolver raciocinio lógico:
 
-</br> https://www.sololearn.com/
+<div id="logical-reasioning">
+https://www.sololearn.com/
 </br> https://www.hackerrank.com/dashboard
 </br> https://www.beecrowd.com.br/judge/
+</div>
 
 # Criar formulario de email e campanhas gratuitamente:
 
-</br>https://mailchimp.com/
+<div id="create-a-form">
+https://mailchimp.com/
+</div>
 
 # Produtividade e Organização:
 
-</br>https://www.notion.so/
+<div id="productivity-organization">
+https://www.notion.so/
 </br>Widgets para notion so: http://apption.co/
 </br>https://www.digitalhouse.com/br/blog/como-usar-o-notion/
+</div>
 
-# Extensões uteis para VSCode:
+# Extensões úteis para VSCode:
 
-</br>https://x-team.com/blog/best-vscode-extensions
+<div id="vscode-extensions">
+https://x-team.com/blog/best-vscode-extensions
+</div>
 
 # Extensões para navegador uteis para devs:
 
-</br>CSS Viewer - descubra facilmente o CSS dos elementos da pagina
+<div id="browser-extensions">
+CSS Viewer - descubra facilmente o CSS dos elementos da pagina
 </br>https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt
 
 </br>ColorZilla - descubra quais cores estão sendo usadas no site
@@ -165,133 +240,119 @@ LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
 <br>Web Developer - A extensão Web Developer adiciona um botão de barra de ferramentas ao navegador com várias ferramentas de desenvolvedor Web
 </br>https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR
 
-=============================================
+</div>
 
 # Dicas para arrumar Jobs:
 
-</br>Curriculo online -> https://gitconnected.com/
+<div id="jobs-tips">
+Curriculo online -> https://gitconnected.com/
 </br>Curriculo online -> https://cvkeep.com/
 </br>https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/ dicas emprego exterior
 </br>10 dicas para melhoras seu portfolio -> https://www.youtube.com/watch?v=ReKskgcdG5w
 </br>lista melhor empresas para se trabalhar https://gptw.com.br/ranking/melhores-empresas/?ano=2020&tipo=Setorial&ranking=Tecnologia&corte=30+%C3%A0+99+funcion%C3%A1rios
 </br>Personalize seu GitHub: https://www.youtube.com/watch?v=cRoBt6AZgjc
+</div>
 
 # Sites para procuras vagas:
 
-</br>sites para buscar vagas https://docs.google.com/document/d/1hSxsKe4D5eUIguhYgac5zMaLxSzEisgpwmNI6qvm4r8/edit
-</br>vagas br react https://github.com/react-brasil/vagas
-</br>vagas front end br https://github.com/frontendbr/vagas
-</br>vagas back end br https://github.com/backend-br/vagas
-</br>lista empresas trabalho remoto internacional https://github.com/remoteintech/remote-jobs
-</br>lista empresas remoto nacional https://github.com/thiagolucio/remote-jobs-brazil
-</br>lista empresas trabalho remoto internacional https://github.com/remoteintech/remote-jobs
-</br>lista empresas remoto nacional https://github.com/thiagolucio/remote-jobs-brazil
-</br>https://programathor.com.br/
+<div id="jobs-websites">
+Sites gerais https://docs.google.com/document/d/1hSxsKe4D5eUIguhYgac5zMaLxSzEisgpwmNI6qvm4r8/edit
+</br>Vagas BR React https://github.com/react-brasil/vagas
+</br>Vagas Front-End BR https://github.com/frontendbr/vagas
+</br>Vagas Back-End BR https://github.com/backend-br/vagas
+</br>Lista empresas trabalho remoto internacional https://github.com/remoteintech/remote-jobs
+</br>Lista empresas remoto nacional https://github.com/thiagolucio/remote-jobs-brazil
+</br>Lista empresas trabalho remoto internacional https://github.com/remoteintech/remote-jobs
+</br>Lista empresas remoto nacional https://github.com/thiagolucio/remote-jobs-brazil
+</br>Programathor https://programathor.com.br/
+</div>
 
-=============================================
+# Sites que podem ajudar na sua carreira dev:
 
-# Sites que possam ajudar na carreira dos Devs:
-
-</br>Crie sites 5x mais responsivos: https://responsively.app/
+<div id="websites-that-should-help">
+Crie sites 5x mais responsivos: https://responsively.app/
 </br>Adicione e personalize todas as seções no readme do seu projeto: https://readme.so/
 </br>Crie e compartilhe imagens do seu código: https://carbon.now.sh
 </br>Pesquise e veja imagens com base nas que você curtiu anteriormente: https://unsplash.com/developers
 </br>Saiba quais empresas visitaram seu site com relatórios semanais: https://clearbit.com/resources/tools/visitor-report
 </br>Remova o backgroud de imagens: https://www.remove.bg/pt-br
+</div>
 
 # Canais do YouTube com conteúdo para Devs:
 
-Alura
-
-Dio
-
-Lucas Montano
-
-ProgramadorBR
-
-Rocketseat
-
-Felipe Dechamps
-
-Codigo Fonte
-
-cod3r
-
-Fabio Akita
-
-Dev Aprender
-
-Dev Soutinho
-
-Programação dinamica
-
-Bonieky
-
-Rafaella Balerini
-
-Dev em dobro
-
-Attekita Dev
-
-Lucas Nhimi
-
-Daniel Berg
-
-CodarMe
-
-Matheus Battisti
-
-SerFrontEnd
-
-Huriel Lopes
-
-Guilherme Rodz
-
-Sujeito Programador
-
-Tsunode
-
+<div id="youtube-channels">
 Adriana Saty
-
-SejaDev
-
-PasquaDev
-
+Alura
+Arthur PC
+Attekita Dev
+Bonieky
+cod3r
+CodarMe
+Codigo Fonte
+Daniel Berg
 Daniel Castro
-
+Dev Aprender
+Dev em dobro
 Dev Jr Br
+Dev Soutinho
+Dio
+Fabio Akita
+Felipe Dechamps
+Guilherme Rodz
+Huriel Lopes
+Lucas Montano
+Lucas Nhimi
+Matheus Battisti
+PasquaDev
+ProgramadorBR
+Programação dinamica
+Rafaella Balerini
+Rocketseat
+SejaDev
+SerFrontEnd
+Sujeito Programador
+Tsunode
+</div>
 
 # Paginas do Instagram com Conteudo para Devs:
 
+<div id="instagram-pages">
 One Bit Code -> https://www.instagram.com/onebitcode/
-(...)
+</div>
 
 # Diversas comunidades Brs:
 
+<div id="br-communities">
 https://github.com/ielepassos/comunidades-TI
+</div>
 
 # Comunidades no Discord:
 
-</br>Dev Jr Br -> https://discord.gg/6FcqV4q6
+<div id="discord-communities">
+Dev Jr Br -> https://discord.gg/6FcqV4q6
 </br>Digital Innovation one -> https://discord.gg/VTZpDjwN
 </br>Let's Code -> https://discord.gg/VXYEKdb7
 </br>Codelândia -> https://discord.gg/9HgRe4D5
 </br>Portal DEV -> https://discord.gg/zV2ATsJxH7
 </br>Guia Dev Brasil -> https://discord.gg/RnJC9wAq
-(...)
+</div>
 
 # Grupos do Telegram:
 
+<div id="telegram-groups">
 Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
-(...)
+</div>
 
 # Grupos do Whatsapp:
 
+<div id="whatsapp-groups">
 (...)
+</div>
 
 # Cursos Gratuitos:
 
-</br>www.opensourcecourses.com.br/
+<div id="free-courses">
+www.opensourcecourses.com.br/
 </br>https://jornadadodev.com.br/
 </br>https://www.rocketseat.com.br/
 </br>https://www.dio.me/
@@ -299,25 +360,26 @@ Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
 </br>https://www.origamid.com/
 </br>https://www.coursera.org/
 </br>https://www.freecodecamp.org/
-
-(...)
+</div>
 
 # Eventos para Devs:
 
+<div id="events-for-devs">
 https://www.meetup.com/pt-BR/
-(...)
+</div>
 
 # Repositorios do GitHub:
 
-</br>Roadmap para devs: https://github.com/kamranahmedse/developer-roadmap
-</br>https://github.com/arthurspk/guiadevbrasil
-</br>https://github.com/arthurspk/guiadofrontend
-</br>https://www.youtube.com/watch?v=vGQSG_YnTOw
-(...)
+<div id="github-repos">
+Roadmap para devs -> https://github.com/kamranahmedse/developer-roadmap
+</br>Guia Dev Brasil -> https://github.com/arthurspk/guiadevbrasil
+</br>Guia do Front-End -> https://github.com/arthurspk/guiadofrontend
+</div>
 
 # Links que não se encaixaram em nenhum das categorias acima:
 
-</br>Guia de TI (Guia para cursos gartuitos): https://guiadeti.com.br/
-(...)
+<div id="geral-links"> 
+Guia de TI (Guia para cursos gartuitos): https://guiadeti.com.br/
+</div>
 
 Projeto colaborativo, envie suas sugestões de links a serem adicionados na lista.
