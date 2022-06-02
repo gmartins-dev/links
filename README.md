@@ -11,7 +11,7 @@ Então por favor contribuam (através de pull requests ou issues nesse repositó
 <p align="center">
 Envie suas sugestões de links a serem adicionados na lista através de pull requests ou issues nesse repositório.
 </p>
-<p>
+<p align="center">
  Muito obrigado!!! aos devs que já contribuiram com projeto! </br>
   https://github.com/guilhermemm-dev/links/graphs/contributors
 </p>
