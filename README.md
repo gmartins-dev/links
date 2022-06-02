@@ -1,11 +1,9 @@
 ![github-header-image (3)](https://user-images.githubusercontent.com/86871991/171687067-bf02ff1b-abae-495f-a578-f9dbbe34a8c0.png)
 
-
 Sejam bem vindos Devs, esse é um projeto colaborativo criado inicialmente por mim @guilhermemm-dev
 mas que eu espero que seja algo construído de forma colaborativa por toda a comunidade de devs brs.
 
-<main>
-Então por favor contribuam sempre que possível enviando suas sugestões de links a serem adicionados na lista.
+Então por favor contribuam (através de pull requests ou issues nesse repositório) sempre que possível enviando suas sugestões de links a serem adicionados na lista.
   
 # Tópicos
 - [Tópicos](#tópicos)
@@ -42,19 +40,10 @@ Então por favor contribuam sempre que possível enviando suas sugestões de lin
 - [Eventos para Devs:](#eventos-para-devs)
 - [Repositórios do GitHub:](#repositórios-do-github)
 - [Links que não se encaixaram em nenhuma das categorias acima:](#links-que-não-se-encaixaram-em-nenhuma-das-categorias-acima)
+    - [Projeto colaborativo!](#projeto-colaborativo)
   
   
-=======
-Então por favor contribuam (através de pull/request nesse repositório) sempre que possível enviando suas sugestões de links a serem adicionados na lista.
-
-#############################################
-
-LISTA DE SITES E FERRAMENTAS ÚTEIS PARA DEVS:
-
-#############################################
-
-</main>
-
+---
 # Ideias de projetos para o seu portfolio:
 
 <div id="project-ideas">
@@ -396,4 +385,8 @@ Roadmap para devs -> https://github.com/kamranahmedse/developer-roadmap
 Guia de TI (Guia para cursos gartuitos): https://guiadeti.com.br/
 </div>
 
-Projeto colaborativo, envie suas sugestões de links a serem adicionados na lista.
+
+---
+### Projeto colaborativo! 
+
+Envie suas sugestões de links a serem adicionados na lista através de pull requests ou issues nesse repositório.
