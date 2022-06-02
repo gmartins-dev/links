@@ -92,31 +92,51 @@ Paleta de cores na Couleur: https://couleur.io/
 
 
 https://www.freepik.com/
+
 https://unsplash.com/
-ttps://www.envato.com/
-ttps://tinypng.com/
-ttps://imgbox.com/
-ttps://encr.pw/iKOuY
-ttps://www.shopify.com.br/burst
-ttps://cupcake.nilssonlee.se/
-ttps://www.drawkit.io
-ttps://nappy.co/
+
+https://www.envato.com/
+
+https://tinypng.com/
+
+https://imgbox.com/
+
+https://encr.pw/iKOuY
+
+https://www.shopify.com.br/burst
+
+https://cupcake.nilssonlee.se/
+
+https://www.drawkit.io
+
+https://nappy.co/
 
 
 # Onde achar ícones para o seu projeto:
 
 
 https://www.streamlinehq.com/
+
 https://iconfinder.com
+
 https://emojipedia.org/
+
 https://www.cursor.cc/
+
 https://favpng.com/
+
 https://fontawesome.com/
+
 https://lordicon.com/
+
 https://drawkit.com/free-icons
+
 https://feathericons.com/
+
 https://heroicons.dev/
+
 https://icons.getbootstrap.com/
+
 https://icons8.com/line-awesome
 
 
@@ -124,25 +144,36 @@ https://icons8.com/line-awesome
 
 
 https://www.photopea.com/
+
 https://www.canva.com/
+
 https://pixlr.com/br/
+
 https://www.screentogif.com/
+
 https://www.adobe.com/br/express/feature/image/resize
+
 https://tinypng.com/
+
 https://app.prntscr.com/pt-br/help.html
 
 
 # Hospede suas imagens gratuitamente:
 
 https://imgbox.com/
+
 https://postimages.org/
 
 # Treine o uso do flexbox no CSS de forma divertida:
 
 https://flexboxfroggy.com/
+
 https://cssgridgarden.com/
+
 https://flukeout.github.io/
+
 https://mastery.games/flexboxzombies/
+
 http://www.flexboxdefense.com/
 
 
@@ -156,7 +187,9 @@ https://www.lipsum.com/
 
 
 https://any-api.com/
+
 https://public-apis.xyz/
+
 https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 
 
@@ -169,13 +202,21 @@ https://resttesttest.com/
 # Onde hospedar seu site gratuitamente:
 
 https://pages.github.com/
+
 https://herokuapp.com/
+
 https://www.netlify.com/
+
 https://vercel.com/
+
 https://www.awardspace.com/
+
 https://byet.host/
+
 https://www.infinityfree.net/
+
 https://aws.amazon.com/pt/
+
 https://www.1freehosting.com/
 
 
@@ -183,6 +224,7 @@ https://www.1freehosting.com/
 
 
 https://web.dev/measure/
+
 https://developers.google.com/web/tools/lighthouse?hl=pt-br
 
 
@@ -200,7 +242,9 @@ https://bitly.com/
 
 
 https://www.sololearn.com/
+
 https://www.hackerrank.com/dashboard
+
 https://www.beecrowd.com.br/judge/
 
 
@@ -213,8 +257,10 @@ https://mailchimp.com/
 # Produtividade e Organização:
 
 
-https://www.notion.so/
+hhttps://www.notion.so/
+
 Widgets para notion so: http://apption.co/
+
 https://www.digitalhouse.com/br/blog/como-usar-o-notion/
 
 
@@ -227,28 +273,28 @@ https://x-team.com/blog/best-vscode-extensions
 # Extensões para navegador úteis para devs:
 
 
-CSS Viewer - descubra facilmente o CSS dos elementos da página
+CSS Viewer - descubra facilmente o CSS dos elementos da página: 
 https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt
 
-ColorZilla - descubra quais cores estão sendo usadas no site
+ColorZilla - descubra quais cores estão sendo usadas no site: 
 https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt
 
-FontsNinja - descubra quais fontes estão usadas no site
+FontsNinja - descubra quais fontes estão usadas no site: 
 https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
 
-Windows Resizer - teste a responsividade do seu site em diferentes resoluções:
+Windows Resizer - teste a responsividade do seu site em diferentes resoluções: 
 https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR
 
-Smart Page Ruler - meça dimensões em pixels nas paginas
+Smart Page Ruler - meça dimensões em pixels nas paginas:  
 https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg
 
-GoFullPage - Tire prints das suas paginas web por inteiro
+GoFullPage - Tire prints das suas paginas web por inteiro: 
 https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
 
-File Icons for GitHub and GitLab - extensão simples para substituir o ícone do arquivo original por ícones específicos do tipo de arquivo. Isso melhora o reconhecimento visual no GitHub e GitLab
+File Icons for GitHub and GitLab - extensão simples para substituir o ícone do arquivo original por ícones específicos do tipo de arquivo. Isso melhora o reconhecimento visual no GitHub e GitLab: 
 https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe
 
-Web Developer - A extensão Web Developer adiciona um botão de barra de ferramentas ao navegador com várias ferramentas de desenvolvedor Web
+Web Developer - A extensão Web Developer adiciona um botão de barra de ferramentas ao navegador com várias ferramentas de desenvolvedor Web: 
 https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR
 
 
@@ -382,10 +428,15 @@ https://github.com/ielepassos/comunidades-TI
 # Comunidades no Discord:
 
 Dev Jr Br -> https://discord.gg/6FcqV4q6
+
 Digital Innovation one -> https://discord.gg/VTZpDjwN
+
 Let's Code -> https://discord.gg/VXYEKdb7
+
 Codelândia -> https://discord.gg/9HgRe4D5
+
 Portal DEV -> https://discord.gg/zV2ATsJxH7
+
 Guia Dev Brasil -> https://discord.gg/RnJC9wAq
 
 # Grupos do Telegram:
@@ -401,12 +452,19 @@ Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
 # Cursos Gratuitos:
 
 https://www.opensourcecourses.com.br/
+
 https://jornadadodev.com.br/
+
 https://www.rocketseat.com.br/
+
 https://www.dio.me/
+
 https://www.cursoemvideo.com/
+
 https://www.origamid.com/
+
 https://www.coursera.org/
+
 https://www.freecodecamp.org/
 
 
@@ -418,7 +476,9 @@ https://www.meetup.com/pt-BR/
 # Repositórios do GitHub:
 
 Roadmap para devs -> https://github.com/kamranahmedse/developer-roadmap
+
 Guia Dev Brasil -> https://github.com/arthurspk/guiadevbrasil
+
 Guia do Front-End -> https://github.com/arthurspk/guiadofrontend
 
 
