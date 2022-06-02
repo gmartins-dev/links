@@ -1,7 +1,7 @@
 Sejam bem vindos Devs, esse é um projeto colaborativo criado inicialmente por mim @guilhermemm-dev
 mas que eu espero que seja algo construido de forma colaborativa por toda a comunidade de devs br.
 
-Então por favor contribuam sempre que possivel enviando suas sugestões de links a serem adicionados na lista.
+Então por favor contribuam(através de pull/request nesse repositório) sempre que possivel enviando suas sugestões de links a serem adicionados na lista.
 
 #############################################
 
