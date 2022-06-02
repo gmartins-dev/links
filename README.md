@@ -5,7 +5,24 @@ mas que eu espero que seja algo construído de forma colaborativa por toda a com
 
 Então por favor contribuam (através de pull requests ou issues nesse repositório) sempre que possível enviando suas sugestões de links a serem adicionados na lista.
 
-Obrigado aos devs que já contribuiram com projeto! -> https://github.com/guilhermemm-dev/links/graphs/contributors
+</hr>
+
+<h3 align="center"> Projeto colaborativo!  </h3>
+<p align="center">
+Envie suas sugestões de links a serem adicionados na lista através de pull requests ou issues nesse repositório.
+</p>
+<p>
+ Muito obrigado!!! aos devs que já contribuiram com projeto! </br>
+  https://github.com/guilhermemm-dev/links/graphs/contributors
+</p>
+</br>
+<p align="center">
+<a href="https://github.com/guilhermemm-dev/links/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=guilhermemm-dev/links" />
+</a>
+</p>
+
+</hr>
   
 # Tópicos <!-- omit in toc -->
 
@@ -498,13 +515,4 @@ contrib.rocks - exiba os contribuidores de um repo no README: https://contrib.ro
 ---
 
 
-<h3 align="center"> Projeto colaborativo!  </h3>
-<p align="center">
-Envie suas sugestões de links a serem adicionados na lista através de pull requests ou issues nesse repositório.
-</p>
-</br>
-<p align="center">
-<a href="https://github.com/guilhermemm-dev/links/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=guilhermemm-dev/links" />
-</a>
-</p>
+
