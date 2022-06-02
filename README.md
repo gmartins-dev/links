@@ -309,6 +309,8 @@ Currículo online -> https://gitconnected.com/
 
 Currículo online -> https://cvkeep.com/
 
+Currículo online -> https://www.resumemaker.online/pt
+
 dicas emprego exterior -> https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/ 
 
 10 dicas para melhorar seu portfolio -> https://www.youtube.com/watch?v=ReKskgcdG5w
