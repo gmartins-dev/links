@@ -1,6 +1,7 @@
 Sejam bem vindos Devs, esse é um projeto colaborativo criado inicialmente por mim @guilhermemm-dev
 mas que eu espero que seja algo construido de forma colaborativa por toda a comunidade de devs brs.
 
+<main>
 Então por favor contribuam sempre que possivel enviando suas sugestões de links a serem adicionados na lista.
 # Tópicos
 <ul>
@@ -41,6 +42,16 @@ Então por favor contribuam sempre que possivel enviando suas sugestões de link
 
   
   
+=======
+Então por favor contribuam(através de pull/request nesse repositório) sempre que possivel enviando suas sugestões de links a serem adicionados na lista.
+
+#############################################
+
+LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
+
+#############################################
+
+</main>
 # Ideias de projetos para o seu portfolio:
 
 <div id="project-ideas">
