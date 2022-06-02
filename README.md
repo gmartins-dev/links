@@ -8,42 +8,40 @@ mas que eu espero que seja algo construído de forma colaborativa por toda a com
 Então por favor contribuam sempre que possível enviando suas sugestões de links a serem adicionados na lista.
   
 # Tópicos
-<ul>
-  <li><a href="#public-apis">APIs publicas para usar no seu projeto</a></li>
-   <li><a href="#youtube-channels">Canais do YouTube com conteúdo para Devs</a></li>
-   <li><a href="#compare-your-website">Compare seu site com outros similares</a></li>
-   <li><a href="#discord-communities">Comunidades no Discord</a></li>
-   <li><a href="#create-a-form">Criar formulario de email e campanhas gratuitamente</a></li>
-   <li><a href="#free-courses">Cursos Gratuitos</a></li>
-   <li><a href="#jobs-tips">Dicas para arrumar Jobs</a></li>
-   <li><a href="#br-communities">Diversas comunidades Brs</a></li>
-   <li><a href="#image-editor">Editores de imagem simples de usar</a></li>
-   <li><a href="#url">Encurtador de urls</a></li>
-   <li><a href="#cool-colors">Encontre combinações de cores legais para usar no seu projeto</a></li>
-   <li><a href="#events-for-devs">Eventos para Devs</a></li>
-   <li><a href="#browser-extensions">Extensões para navegador uteis para devs</a></li>
-   <li><a href="#vscode-extensions">Extensões úteis para VSCode</a></li>
-   <li><a href="#logical-reasioning">Ferramentas e sites para aprender a desenvolver raciocinio lógico</a></li>
-   <li><a href="#lorem-ipsum">Gere textos para tests no seu site</a></li>
-   <li><a href="#telegram-groups">Grupos do Telegram</a></li>
-   <li><a href="#whatsapp-groups">Grupos do Whatsapp</a></li>
-   <li><a href="#images-host">Hospede suas imagens gratuitamente</a></li>
-   <li><a href="#project-ideas">Ideias de projetos para o seu portfolio</a></li>
-   <li><a href="#find-icons">Onde achar icones para o seu projeto</a></li>
-   <li><a href="#find-images">Onde achar imagens para o seu projeto</a></li>
-   <li><a href="#website-host">Onde hospedar seu site gratuitamente</a></li>
-   <li><a href="#instagram-pages">Paginas do Instagram com Conteudo para Devs</a></li>
-   <li><a href="#productivity-organization">Produtividade e Organização</a></li>
-   <li><a href="#websites-design">Referencias para design dos sites</a></li>
-   <li><a href="#github-repos">Repositorios do GitHub</a></li>
-   <li><a href="#seo-otimization">SEO & Otimização</a></li>
-   <li><a href="#jobs-websites">Sites para procuras vagas</a></li>
-   <li><a href="#websites-that-should-help">Sites que podem ajudar na sua carreira dev</a></li>
-   <li><a href="#api-test">Teste se sua API esta funcionando</a></li>
-   <li><a href="#fun-flexbox">Treine o uso do flexbox no CSS de forma divertida</a></li>
-   <li><a href="#geral-links">Links que não se encaixaram em nenhum das categorias acima</a></li>
-</ul>
-
+- [Tópicos](#tópicos)
+- [Ideias de projetos para o seu portfolio:](#ideias-de-projetos-para-o-seu-portfolio)
+- [Referências para design de sites:](#referências-para-design-de-sites)
+- [Encontre combinações de cores legais para usar no seu projeto:](#encontre-combinações-de-cores-legais-para-usar-no-seu-projeto)
+- [Onde achar imagens para o seu projeto:](#onde-achar-imagens-para-o-seu-projeto)
+- [Onde achar ícones para o seu projeto:](#onde-achar-ícones-para-o-seu-projeto)
+- [Editores de imagem simples de usar:](#editores-de-imagem-simples-de-usar)
+- [Hospede suas imagens gratuitamente:](#hospede-suas-imagens-gratuitamente)
+- [Treine o uso do flexbox no CSS de forma divertida:](#treine-o-uso-do-flexbox-no-css-de-forma-divertida)
+- [Gere textos para tests no seu site:](#gere-textos-para-tests-no-seu-site)
+- [APIs públicas para usar no seu projeto:](#apis-públicas-para-usar-no-seu-projeto)
+- [Teste se sua API está funcionando:](#teste-se-sua-api-está-funcionando)
+- [Onde hospedar seu site gratuitamente:](#onde-hospedar-seu-site-gratuitamente)
+- [SEO & Otimização:](#seo--otimização)
+- [Compare seu site com outros similares:](#compare-seu-site-com-outros-similares)
+- [Encurtador de urls:](#encurtador-de-urls)
+- [Ferramentas e sites para aprender a desenvolver raciocinio lógico:](#ferramentas-e-sites-para-aprender-a-desenvolver-raciocinio-lógico)
+- [Criar formulários de email e campanhas gratuitamente:](#criar-formulários-de-email-e-campanhas-gratuitamente)
+- [Produtividade e Organização:](#produtividade-e-organização)
+- [Extensões úteis para VSCode:](#extensões-úteis-para-vscode)
+- [Extensões para navegador úteis para devs:](#extensões-para-navegador-úteis-para-devs)
+- [Dicas para arrumar Jobs:](#dicas-para-arrumar-jobs)
+- [Sites para procuras vagas:](#sites-para-procuras-vagas)
+- [Sites que podem ajudar na sua carreira dev:](#sites-que-podem-ajudar-na-sua-carreira-dev)
+- [Canais do YouTube com conteúdo para Devs:](#canais-do-youtube-com-conteúdo-para-devs)
+- [Páginas do Instagram com Conteúdo para Devs:](#páginas-do-instagram-com-conteúdo-para-devs)
+- [Diversas comunidades Brs:](#diversas-comunidades-brs)
+- [Comunidades no Discord:](#comunidades-no-discord)
+- [Grupos do Telegram:](#grupos-do-telegram)
+- [Grupos do Whatsapp:](#grupos-do-whatsapp)
+- [Cursos Gratuitos:](#cursos-gratuitos)
+- [Eventos para Devs:](#eventos-para-devs)
+- [Repositórios do GitHub:](#repositórios-do-github)
+- [Links que não se encaixaram em nenhuma das categorias acima:](#links-que-não-se-encaixaram-em-nenhuma-das-categorias-acima)
   
   
 =======
