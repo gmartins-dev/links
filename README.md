@@ -1,8 +1,9 @@
 Sejam bem vindos Devs, esse é um projeto colaborativo criado inicialmente por mim @guilhermemm-dev
-mas que eu espero que seja algo construido de forma colaborativa por toda a comunidade de devs brs.
+mas que eu espero que seja algo construído de forma colaborativa por toda a comunidade de devs brs.
 
 <main>
-Então por favor contribuam sempre que possivel enviando suas sugestões de links a serem adicionados na lista.
+Então por favor contribuam sempre que possível enviando suas sugestões de links a serem adicionados na lista.
+  
 # Tópicos
 <ul>
   <li><a href="#public-apis">APIs publicas para usar no seu projeto</a></li>
@@ -43,15 +44,16 @@ Então por favor contribuam sempre que possivel enviando suas sugestões de link
   
   
 =======
-Então por favor contribuam(através de pull/request nesse repositório) sempre que possivel enviando suas sugestões de links a serem adicionados na lista.
+Então por favor contribuam (através de pull/request nesse repositório) sempre que possível enviando suas sugestões de links a serem adicionados na lista.
 
 #############################################
 
-LISTA DE SITES E FERRAMENTAS UTEIS PARA DEVS:
+LISTA DE SITES E FERRAMENTAS ÚTEIS PARA DEVS:
 
 #############################################
 
 </main>
+
 # Ideias de projetos para o seu portfolio:
 
 <div id="project-ideas">
@@ -64,7 +66,7 @@ Desafios de códigos com foco em Front-end: https://www.frontendmentor.io/</br>
 </br>5 inspirações de projetos: https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996</br>
 </div>
 
-# Referencias para design dos sites:
+# Referências para design dos sites:
 
 <div id="websites-design">
 Acervo no Pinterest para inspirar seu Front-end: https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped</br>
@@ -202,8 +204,6 @@ https://bitly.com/
 https://www.sololearn.com/
 </br> https://www.hackerrank.com/dashboard
 </br> https://www.beecrowd.com.br/judge/
-</br> https://exercism.org/
-</br> https://www.codingame.com/start
 </div>
 
 # Criar formulario de email e campanhas gratuitamente:
