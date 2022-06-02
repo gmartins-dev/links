@@ -12,14 +12,15 @@ Então por favor contribuam (através de pull requests ou issues nesse repositó
 Envie suas sugestões de links a serem adicionados na lista através de pull requests ou issues nesse repositório.
 </p>
 <p align="center">
- Muito obrigado!!! aos devs que já contribuiram com projeto! </br>
-  https://github.com/guilhermemm-dev/links/graphs/contributors
+ Muito obrigado!!! aos devs que já contribuiram com projeto!
+  
 </p>
 </br>
 <p align="center">
 <a href="https://github.com/guilhermemm-dev/links/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=guilhermemm-dev/links" />
 </a>
+ </br> https://github.com/guilhermemm-dev/links/graphs/contributors
 </p>
 
 </hr>
