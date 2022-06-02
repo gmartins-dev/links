@@ -201,7 +201,7 @@ http://www.flexboxdefense.com/
 # Gere textos para tests no seu site:
 
 
-https://www.lipsum.com/
+https://www.lipsum.com
 
 
 # APIs públicas para usar no seu projeto:
