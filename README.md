@@ -60,8 +60,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 - [Cursos Gratuitos:](#cursos-gratuitos)
 - [Eventos para Devs:](#eventos-para-devs)
 - [Repositórios do GitHub:](#repositórios-do-github)
+- [Banco de Dados em Cloud:](#banco-de-dados-em-cloud)
 - [Links que não se encaixaram em nenhuma das categorias acima:](#links-que-não-se-encaixaram-em-nenhuma-das-categorias-acima)
-  
   
 
 # Ideias de projetos para o seu portfolio
@@ -275,6 +275,7 @@ https://www.hackerrank.com/dashboard
 
 https://www.beecrowd.com.br/judge/
 
+https://leetcode.com/problemset/all/
 
 # Criar formulários de email e campanhas gratuitamente:
 
@@ -462,6 +463,8 @@ https://lnkd.in/erXSzbVa
 
 [Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 
+[The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+
 # Páginas do Instagram com Conteúdo para Devs:
 
 [One Bit Code](https://www.instagram.com/onebitcode/)
@@ -485,6 +488,11 @@ https://lnkd.in/erXSzbVa
 
 [Guia Dev Brasil](https://discord.gg/RnJC9wAq)
 
+[RocketSeat](https://discord.gg/9hxCfTAC)
+
+[CollabCode](https://discord.gg/2FERKT7p)
+
+[Ballerini](https://discord.gg/ballerini)
 # Grupos do Telegram:
 
 Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
@@ -528,6 +536,13 @@ https://www.meetup.com/pt-BR/
 
 [Guia do Front-End](https://github.com/arthurspk/guiadofrontend)
 
+# Banco de Dados em Cloud:
+
+Supabase -> https://supabase.com/
+
+Fauna -> https://fauna.com/
+
+Planetscale -> https://planetscale.com/pricing
 
 # Links que não se encaixaram em nenhuma das categorias acima:
 
@@ -536,6 +551,3 @@ https://www.meetup.com/pt-BR/
 contrib.rocks - exiba os contribuidores de um repo no README: https://contrib.rocks
 
 ---
-
-
-
