@@ -44,24 +44,24 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 - [Compare seu site com outros similares](#compare-seu-site-com-outros-similares)
 - [Encurtador de urls](#encurtador-de-urls)
 - [Ferramentas e sites para aprender e desenvolver raciocínio lógico](#ferramentas-e-sites-para-aprender-e-desenvolver-raciocínio-lógico)
-- [Criar formulários de email e campanhas gratuitamente:](#criar-formulários-de-email-e-campanhas-gratuitamente)
-- [Produtividade e Organização:](#produtividade-e-organização)
-- [Extensões úteis para VSCode:](#extensões-úteis-para-vscode)
+- [Criar formulários de email e campanhas gratuitamente](#criar-formulários-de-email-e-campanhas-gratuitamente)
+- [Produtividade e Organização](#produtividade-e-organização)
+- [Extensões úteis para VSCode](#extensões-úteis-para-vscode)
 - [Extensões para navegador úteis para devs:](#extensões-para-navegador-úteis-para-devs)
-- [Dicas para arrumar Jobs:](#dicas-para-arrumar-jobs)
-- [Sites para procurar vagas:](#sites-para-procurar-vagas)
-- [Sites que podem ajudar na sua carreira dev:](#sites-que-podem-ajudar-na-sua-carreira-dev)
-- [Canais do YouTube com conteúdo para Devs:](#canais-do-youtube-com-conteúdo-para-devs)
-- [Páginas do Instagram com Conteúdo para Devs:](#páginas-do-instagram-com-conteúdo-para-devs)
-- [Diversas comunidades Brs:](#diversas-comunidades-brs)
-- [Comunidades no Discord:](#comunidades-no-discord)
-- [Grupos do Telegram:](#grupos-do-telegram)
-- [Grupos do Whatsapp:](#grupos-do-whatsapp)
-- [Cursos Gratuitos:](#cursos-gratuitos)
-- [Eventos para Devs:](#eventos-para-devs)
-- [Repositórios do GitHub:](#repositórios-do-github)
-- [Banco de Dados em Cloud:](#banco-de-dados-em-cloud)
-- [Links que não se encaixaram em nenhuma das categorias acima:](#links-que-não-se-encaixaram-em-nenhuma-das-categorias-acima)
+- [Dicas para arrumar Jobs](#dicas-para-arrumar-jobs)
+- [Sites para procurar vagas](#sites-para-procurar-vagas)
+- [Sites que podem ajudar na sua carreira dev](#sites-que-podem-ajudar-na-sua-carreira-dev)
+- [Canais do YouTube com conteúdo para Devs](#canais-do-youtube-com-conteúdo-para-devs)
+- [Páginas do Instagram com Conteúdo para Devs](#páginas-do-instagram-com-conteúdo-para-devs)
+- [Comunidades Tech brasileirass:](#comunidades-tech-brasileirass)
+  - [Comunidades no Discord:](#comunidades-no-discord)
+  - [Grupos do Telegram:](#grupos-do-telegram)
+  - [Grupos do Whatsapp:](#grupos-do-whatsapp)
+- [Cursos Gratuitos](#cursos-gratuitos)
+- [Eventos para Devs](#eventos-para-devs)
+- [Repositórios do GitHub](#repositórios-do-github)
+- [Banco de Dados em Cloud](#banco-de-dados-em-cloud)
+- [Links que não se encaixaram em nenhuma das categorias acima](#links-que-não-se-encaixaram-em-nenhuma-das-categorias-acima)
   
 
 # Ideias de projetos para o seu portfolio
@@ -265,43 +265,39 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 # Ferramentas e sites para aprender e desenvolver raciocínio lógico
 
-https://www.sololearn.com/
+[Sololearn](https://www.sololearn.com/)
 
-https://www.hackerrank.com/dashboard
+[HackerRank](https://www.hackerrank.com/dashboard)
 
-https://www.beecrowd.com.br/judge/
+[BeeCrowd](https://www.beecrowd.com.br/judge/)
 
-https://leetcode.com/problemset/all/
-
-# Criar formulários de email e campanhas gratuitamente:
+[LeetCode](https://leetcode.com/problemset/all/)
 
 
-https://mailchimp.com/
+# Criar formulários de email e campanhas gratuitamente
+
+[MailChimp](https://mailchimp.com/)
 
 
-# Produtividade e Organização:
+# Produtividade e Organização
+
+[Notion.so](https://www.notion.so/)
+
+[Widgets para notion.so](http://apption.co/)
+
+[Como usar o Notion](https://www.digitalhouse.com/br/blog/como-usar-o-notion/)
 
 
-hhttps://www.notion.so/
+# Extensões úteis para VSCode
 
-[Widgets para notion so](http://apption.co/)
-
-https://www.digitalhouse.com/br/blog/como-usar-o-notion/
-
-
-# Extensões úteis para VSCode:
-
-
-https://x-team.com/blog/best-vscode-extensions
+[X-Team - Best VSCode Extensions](https://x-team.com/blog/best-vscode-extensions)
 
 
 # Extensões para navegador úteis para devs:
 
-Wappalyzer - descubra quais tecnologias estão sendo utilizadas na página:
-https://lnkd.in/ehxsbHWm
+[Wappalyzer - descubra quais tecnologias estão sendo utilizadas na página](https://www.wappalyzer.com/)
 
-React Developer Tools - confirme se o webapp está utilizando React:
-https://lnkd.in/erXSzbVa
+[React Developer Tools - confirme se o webapp está utilizando React](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
 [CSS Viewer - descubra facilmente o CSS dos elementos da página](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt)
 
@@ -323,14 +319,13 @@ https://lnkd.in/erXSzbVa
 
 
 
-# Dicas para arrumar Jobs:
-
+# Dicas para arrumar Jobs
 
 [Currículo online 1](https://gitconnected.com/)
 
 [Currículo online 2](https://cvkeep.com/)
 
-[Currículo online](https://www.resumemaker.online/pt)
+[Currículo online 3](https://www.resumemaker.online/pt)
 
 [Dicas emprego exterior](https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/) 
 
@@ -341,7 +336,7 @@ https://lnkd.in/erXSzbVa
 [Personalize seu GitHub](https://www.youtube.com/watch?v=cRoBt6AZgjc)
 
 
-# Sites para procurar vagas:
+# Sites para procurar vagas
 
 [Sites gerais](https://docs.google.com/document/d/1hSxsKe4D5eUIguhYgac5zMaLxSzEisgpwmNI6qvm4r8/edit)
 
@@ -362,8 +357,7 @@ https://lnkd.in/erXSzbVa
 [Programathor](https://programathor.com.br/)
 
 
-# Sites que podem ajudar na sua carreira dev:
-
+# Sites que podem ajudar na sua carreira dev
 
 [Crie sites 5x mais responsivos](https://responsively.app/)
 
@@ -377,7 +371,7 @@ https://lnkd.in/erXSzbVa
 
 [Remova o backgroud de imagens](https://www.remove.bg/pt-br)
 
-# Canais do YouTube com conteúdo para Devs:
+# Canais do YouTube com conteúdo para Devs
 
 [Adriana Saty](https://www.youtube.com/c/AdrianaSaty)
 
@@ -461,16 +455,16 @@ https://lnkd.in/erXSzbVa
 
 [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 
-# Páginas do Instagram com Conteúdo para Devs:
+
+# Páginas do Instagram com Conteúdo para Devs
 
 [One Bit Code](https://www.instagram.com/onebitcode/)
 
-# Diversas comunidades Brs:
+# Comunidades Tech brasileirass:
 
-[COMUNIDADES TECH(Repositório)](https://github.com/ielepassos/comunidades-TI)
+[COMUNIDADES TECH (Repositório)](https://github.com/ielepassos/comunidades-TI)
 
-
-# Comunidades no Discord:
+## Comunidades no Discord:
 
 [Dev Jr Br](https://discord.gg/6FcqV4q6)
 
@@ -489,42 +483,45 @@ https://lnkd.in/erXSzbVa
 [CollabCode](https://discord.gg/2FERKT7p)
 
 [Ballerini](https://discord.gg/ballerini)
-# Grupos do Telegram:
 
-Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
 
-[Cafeina Vagas](https://t.me/CafeinaVagas)
+## Grupos do Telegram:
 
-# Grupos do Whatsapp:
+[Dev Jr Br](https://t.me/+-V6Xw29WpU9lZjU5)
+
+[Cafeína Vagas](https://t.me/CafeinaVagas)
+
+
+## Grupos do Whatsapp:
 
 (...)
 
 
-# Cursos Gratuitos:
+# Cursos Gratuitos
 
-https://www.opensourcecourses.com.br/
+[OpenSourceCourses](https://www.opensourcecourses.com.br/)
 
-https://jornadadodev.com.br/
+[Jornada do Dev](https://jornadadodev.com.br/)
 
-https://www.rocketseat.com.br/
+[Rocketseat](https://www.rocketseat.com.br/)
 
-https://www.dio.me/
+[Dio.me](https://www.dio.me/)
 
-https://www.cursoemvideo.com/
+[Curso em Vídeo](https://www.cursoemvideo.com/)
 
-https://www.origamid.com/
+[Origamid](https://www.origamid.com/)
 
-https://www.coursera.org/
+[Coursera](https://www.coursera.org/)
 
-https://www.freecodecamp.org/
-
-
-# Eventos para Devs:
-
-https://www.meetup.com/pt-BR/
+[FreeCodeCamp](https://www.freecodecamp.org/)
 
 
-# Repositórios do GitHub:
+# Eventos para Devs
+
+[MeetUp](https://www.meetup.com/pt-BR/)
+
+
+# Repositórios do GitHub
 
 [Roadmap para devs](https://github.com/kamranahmedse/developer-roadmap)
 
@@ -532,18 +529,19 @@ https://www.meetup.com/pt-BR/
 
 [Guia do Front-End](https://github.com/arthurspk/guiadofrontend)
 
-# Banco de Dados em Cloud:
 
-Supabase -> https://supabase.com/
+# Banco de Dados em Cloud
 
-Fauna -> https://fauna.com/
+[Supabase](https://supabase.com/)
 
-Planetscale -> https://planetscale.com/pricing
+[Fauna](https://fauna.com/)
 
-# Links que não se encaixaram em nenhuma das categorias acima:
+[Planetscale](https://planetscale.com/pricing)
+
+# Links que não se encaixaram em nenhuma das categorias acima
 
 [Guia de TI (Guia para cursos gartuitos)](https://guiadeti.com.br/)
 
-contrib.rocks - exiba os contribuidores de um repo no README: https://contrib.rocks
+[Contrib.rocks - exiba os contribuidores de um repo dinamicamente no README](https://contrib.rocks) ➡️ Usado neste README ✨
 
 ---
