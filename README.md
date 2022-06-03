@@ -62,7 +62,6 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 - [Repositórios do GitHub:](#repositórios-do-github)
 - [Banco de Dados em Cloud:](#banco-de-dados-em-cloud)
 - [Links que não se encaixaram em nenhuma das categorias acima:](#links-que-não-se-encaixaram-em-nenhuma-das-categorias-acima)
-  - [Extensão para Chrome e visualizar os recursos que foram utilizados no site: https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en-US](#extensão-para-chrome-e-visualizar-os-recursos-que-foram-utilizados-no-site-httpschromegooglecomwebstoredetailwappalyzer-technology-progppongmhjkpfnbhagpmjfkannfbllamghlen-us)
   
 
 # Ideias de projetos para o seu portfolio
