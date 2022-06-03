@@ -488,11 +488,11 @@ https://lnkd.in/erXSzbVa
 
 [Guia Dev Brasil](https://discord.gg/RnJC9wAq)
 
-RocketSeat -> https://discord.gg/9hxCfTAC
+[RocketSeat](https://discord.gg/9hxCfTAC)
 
-CollabCode -> https://discord.gg/2FERKT7p
+[CollabCode](https://discord.gg/2FERKT7p)
 
-Ballerini -> https://discord.gg/ballerini
+[Ballerini](https://discord.gg/ballerini)
 # Grupos do Telegram:
 
 Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
