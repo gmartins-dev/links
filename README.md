@@ -320,7 +320,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [GitConnected(Currículo online 1)](https://gitconnected.com/)
 
-[CV Keep(Currículo online 2)](https://cvkeep.com/)
+[CV Keep (Currículo online 2)](https://cvkeep.com/)
 
 [ResumeMaker.online(Currículo online 3)](https://www.resumemaker.online/pt)
 
