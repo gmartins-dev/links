@@ -28,12 +28,12 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
   
 # Tópicos <!-- omit in toc -->
 
-- [Ideias de projetos para o seu portfolio:](#ideias-de-projetos-para-o-seu-portfolio)
-- [Referências para design de sites:](#referências-para-design-de-sites)
-- [Encontre combinações de cores legais para usar no seu projeto:](#encontre-combinações-de-cores-legais-para-usar-no-seu-projeto)
+- [Ideias de projetos para o seu portfolio](#ideias-de-projetos-para-o-seu-portfolio)
+- [Referências para design de sites](#referências-para-design-de-sites)
+- [Encontre combinações de cores legais para usar no seu projeto](#encontre-combinações-de-cores-legais-para-usar-no-seu-projeto)
 - [Onde achar imagens para o seu projeto:](#onde-achar-imagens-para-o-seu-projeto)
-- [Onde achar ícones para o seu projeto:](#onde-achar-ícones-para-o-seu-projeto)
-- [Editores de imagem simples de usar:](#editores-de-imagem-simples-de-usar)
+- [Onde achar ícones para o seu projeto](#onde-achar-ícones-para-o-seu-projeto)
+- [Editores de imagem simples de usar](#editores-de-imagem-simples-de-usar)
 - [Hospede suas imagens gratuitamente:](#hospede-suas-imagens-gratuitamente)
 - [Treine o uso do flexbox no CSS de forma divertida:](#treine-o-uso-do-flexbox-no-css-de-forma-divertida)
 - [Gere textos para tests no seu site:](#gere-textos-para-tests-no-seu-site)
@@ -64,110 +64,104 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
   
   
 ---
-# Ideias de projetos para o seu portfolio:
+# Ideias de projetos para o seu portfolio
 
 
-Desafios de códigos com foco em Front-end: https://www.frontendmentor.io/
+[Frontend mentor - Desafios de códigos com foco em Front-end](https://www.frontendmentor.io/)
 
-Repositório com idéias para incrementar no seu código: https://github.com/florinpop17/app-ideas
-Acervo com 40 projetos para começar na programação: https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/
+[Repositório com idéias para incrementar no seu código](https://github.com/florinpop17/app-ideas)
 
-10 ideias de projetos do canal Filipe Deschamps: https://www.youtube.com/watch?v=fYR9L2ZmodM
+[Acervo com 40 projetos para começar na programação (FreeCodeCamp)](https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/)
 
-3 ideias de projetos projetos do canal Dev em Dobro: https://www.youtube.com/watch?v=VvyjQE7pJ8s
+[10 ideias de projetos do canal Filipe Deschamps](https://www.youtube.com/watch?v=fYR9L2ZmodM)
 
-6 ideias de projetos projetos do canal Dev Batista:https://www.youtube.com/watch?v=nZJXfnULZyI
+[3 ideias de projetos projetos do canal Dev em Dobro](https://www.youtube.com/watch?v=VvyjQE7pJ8s)
 
-5 inspirações de projetos: https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996
+[6 ideias de projetos projetos do canal Dev Batista](https://www.youtube.com/watch?v=nZJXfnULZyI)
 
+[5 inspirações de projetos](https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996)
 
-# Referências para design de sites:
+# Referências para design de sites
 
+[Acervo no Pinterest para inspirar seu Front-end](https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped)
 
-Acervo no Pinterest para inspirar seu Front-end: https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped
+[Acervo no Behance para inspirar seu Front-end](https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=web%20site)
 
-Acervo no Behance para inspirar seu Front-end: https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=web%20site
+[Acervo no Envato Elements para inspirar seu Front-end](https://elements.envato.com/pt-br/web-templates)
 
-Acervo no Envato Elements para inspirar seu Front-end: https://elements.envato.com/pt-br/web-templates</br>
+[Acervo na Alura para inspirar seu Front-end](https://www.alura.com.br/artigos/as-8-melhores-ferramentas-gratuitas-de-design)
 
-Acervo na Alura para inspirar seu Front-end: https://www.alura.com.br/artigos/as-8-melhores-ferramentas-gratuitas-de-design</br>
+[Dribbble - acervo para inspirar seu Front-end](https://dribbble.com/)
 
-Acervo no Dribbble para inspirar seu Front-end: https://dribbble.com/
+[Figma - acervo para inspirar seu Front-end](https://figmaresource.com/)
 
-Acervo no Figma para inspirar seu Front-end: https://figmaresource.com/
-
-Acervo no Haikei de SVG para inspirar seu Front-end: https://haikei.app/
-
-
-# Encontre combinações de cores legais para usar no seu projeto:
+[Acervo no Haikei de SVG para inspirar seu Front-end](https://haikei.app/)
 
 
-Paleta de cores no MyColor: https://mycolor.space/
+# Encontre combinações de cores legais para usar no seu projeto
 
-Paleta de cores na Adobe: https://color.adobe.com/
+[Paleta de cores no MyColor](https://mycolor.space/)
 
-Paleta de cores na Couleur: https://couleur.io/
+[Paleta de cores na Adobe](https://color.adobe.com/)
 
+[Paleta de cores na Couleur](https://couleur.io/)
 
 # Onde achar imagens para o seu projeto:
 
+[Freepik.com](https://www.freepik.com/)
 
-https://www.freepik.com/
+[Unsplash.com](https://unsplash.com/)
 
-https://unsplash.com/
+[Envato.com](https://www.envato.com/)
 
-https://www.envato.com/
+[Tinypng.com](https://tinypng.com/)
 
-https://tinypng.com/
+[Imgbox.com](https://imgbox.com/)
 
-https://imgbox.com/
+[500px.com](https://500px.com/)
 
-https://encr.pw/iKOuY
+[Shopify - burst](https://www.shopify.com.br/burst)
 
-https://www.shopify.com.br/burst
+[Cupcake - royalty free images](https://cupcake.nilssonlee.se/)
 
-https://cupcake.nilssonlee.se/
+[Drawkit.io](https://www.drawkit.io)
 
-https://www.drawkit.io
+[Nappy.co](https://nappy.co/)
 
-https://nappy.co/
-
-https://undraw.co/
-
-
-# Onde achar ícones para o seu projeto:
+[Undraw.com](https://undraw.co/)
 
 
-https://www.streamlinehq.com/
+# Onde achar ícones para o seu projeto
 
-https://iconfinder.com
+[Streamline](https://www.streamlinehq.com/)
 
-https://emojipedia.org/
+[Iconfinder](https://iconfinder.com)
 
-https://www.cursor.cc/
+[Emojipedia.org](https://emojipedia.org/)
 
-https://favpng.com/
+[Cursor.cc](https://www.cursor.cc/)
 
-https://fontawesome.com/
+[Favpng.com](https://favpng.com/)
 
-https://lordicon.com/
+[Fontawesome.com](https://fontawesome.com/)
 
-https://drawkit.com/free-icons
+[Lordicon.com](https://lordicon.com/)
 
-https://feathericons.com/
+[Drawkit.com](https://drawkit.com/free-icons)
 
-https://heroicons.dev/
+[Feathericons](https://feathericons.com/)
 
-https://icons.getbootstrap.com/
+[Heroicons](https://heroicons.dev/)
 
-https://icons8.com/line-awesome
+[Bootstrap Icons](https://icons.getbootstrap.com/)
 
-https://www.flaticon.com/
+[Icons8.com](https://icons8.com/line-awesome)
 
-https://phosphoricons.com/
+[Flaticon.com](https://www.flaticon.com/)
 
-# Editores de imagem simples de usar:
+[Phospor icons](https://phosphoricons.com/)
 
+# Editores de imagem simples de usar
 
 https://www.photopea.com/
 
