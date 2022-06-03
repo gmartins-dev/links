@@ -550,5 +550,4 @@ Planetscale -> https://planetscale.com/pricing
 
 contrib.rocks - exiba os contribuidores de um repo no README: https://contrib.rocks
 
-Extensão para Chrome e visualizar os recursos que foram utilizados no site: https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en-US
 ---
