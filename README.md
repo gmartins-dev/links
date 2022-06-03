@@ -132,6 +132,8 @@ https://www.drawkit.io
 
 https://nappy.co/
 
+https://undraw.co/
+
 
 # Onde achar ícones para o seu projeto:
 
@@ -160,6 +162,9 @@ https://icons.getbootstrap.com/
 
 https://icons8.com/line-awesome
 
+https://www.flaticon.com/
+
+https://phosphoricons.com/
 
 # Editores de imagem simples de usar:
 
@@ -212,6 +217,14 @@ https://any-api.com/
 https://public-apis.xyz/
 
 https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+
+http://www.omdbapi.com/
+
+https://developer.nytimes.com/
+
+https://openweathermap.org/api
+
+https://jsonplaceholder.typicode.com/
 
 
 # Teste se sua API está funcionando:
