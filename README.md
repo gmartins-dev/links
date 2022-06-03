@@ -566,7 +566,7 @@ Tsunode
 
 # Diversas comunidades Brs:
 
-https://github.com/ielepassos/comunidades-TI
+[Repositorio com Comunidades](https://github.com/ielepassos/comunidades-TI)
 
 
 # Comunidades no Discord:
@@ -631,7 +631,7 @@ https://www.meetup.com/pt-BR/
 
 [Roadmap para devs](https://github.com/kamranahmedse/developer-roadmap)
 
-[Guia Dev Brasil](ttps://github.com/arthurspk/guiadevbrasil)
+[Guia Dev Brasil](https://github.com/arthurspk/guiadevbrasil)
 
 [Guia do Front-End](https://github.com/arthurspk/guiadofrontend)
 
