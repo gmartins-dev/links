@@ -318,7 +318,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 # Dicas para arrumar Jobs
 
-[GitConnected(Currículo online 1)](https://gitconnected.com/)
+[GitConnected (Currículo online 1)](https://gitconnected.com/)
 
 [CV Keep (Currículo online 2)](https://cvkeep.com/)
 
