@@ -1,6 +1,6 @@
 ![github-header-image (3)](https://user-images.githubusercontent.com/86871991/171687067-bf02ff1b-abae-495f-a578-f9dbbe34a8c0.png)
 
-Sejam bem vindos Devs, esse é um projeto colaborativo criado inicialmente por mim @guilhermemm-dev
+Sejam bem vindos Devs, esse é um projeto colaborativo criado inicialmente por mim [@guilhermemm-dev](https://github.com/guilhermemm-dev),
 mas que eu espero que seja algo construído de forma colaborativa por toda a comunidade de devs brs.
 
 Então por favor contribuam (através de pull requests ou issues nesse repositório) sempre que possível enviando suas sugestões de links a serem adicionados na lista.
@@ -21,7 +21,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 <a href="https://github.com/guilhermemm-dev/links/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=guilhermemm-dev/links" />
 </a></p>
-<p align="center">https://github.com/guilhermemm-dev/links/graphs/contributors</p>
+<p align="center"><a href="https://github.com/guilhermemm-dev/links/graphs/contributors">Veja mais sobre nossos contribuidores aqui!</a></p>
 
 
 
@@ -34,38 +34,37 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 - [Onde achar imagens para o seu projeto:](#onde-achar-imagens-para-o-seu-projeto)
 - [Onde achar ícones para o seu projeto](#onde-achar-ícones-para-o-seu-projeto)
 - [Editores de imagem simples de usar](#editores-de-imagem-simples-de-usar)
-- [Hospede suas imagens gratuitamente:](#hospede-suas-imagens-gratuitamente)
-- [Treine o uso do flexbox no CSS de forma divertida:](#treine-o-uso-do-flexbox-no-css-de-forma-divertida)
-- [Gere textos para tests no seu site:](#gere-textos-para-tests-no-seu-site)
-- [APIs públicas para usar no seu projeto:](#apis-públicas-para-usar-no-seu-projeto)
-- [Teste se sua API está funcionando:](#teste-se-sua-api-está-funcionando)
-- [Onde hospedar seu site gratuitamente:](#onde-hospedar-seu-site-gratuitamente)
-- [SEO & Otimização:](#seo--otimização)
-- [Compare seu site com outros similares:](#compare-seu-site-com-outros-similares)
-- [Encurtador de urls:](#encurtador-de-urls)
-- [Ferramentas e sites para aprender a desenvolver raciocinio lógico:](#ferramentas-e-sites-para-aprender-a-desenvolver-raciocinio-lógico)
-- [Criar formulários de email e campanhas gratuitamente:](#criar-formulários-de-email-e-campanhas-gratuitamente)
-- [Produtividade e Organização:](#produtividade-e-organização)
-- [Extensões úteis para VSCode:](#extensões-úteis-para-vscode)
+- [Hospede suas imagens gratuitamente](#hospede-suas-imagens-gratuitamente)
+- [Treine o uso do flexbox no CSS de forma divertida](#treine-o-uso-do-flexbox-no-css-de-forma-divertida)
+- [Gere textos para tests no seu site](#gere-textos-para-tests-no-seu-site)
+- [APIs públicas para usar no seu projeto](#apis-públicas-para-usar-no-seu-projeto)
+- [Teste se sua API está funcionando](#teste-se-sua-api-está-funcionando)
+- [Onde hospedar seu site gratuitamente](#onde-hospedar-seu-site-gratuitamente)
+- [SEO & Otimização](#seo--otimização)
+- [Compare seu site com outros similares](#compare-seu-site-com-outros-similares)
+- [Encurtador de urls](#encurtador-de-urls)
+- [Ferramentas e sites para aprender e desenvolver raciocínio lógico](#ferramentas-e-sites-para-aprender-e-desenvolver-raciocínio-lógico)
+- [Criar formulários de email e campanhas gratuitamente](#criar-formulários-de-email-e-campanhas-gratuitamente)
+- [Produtividade e Organização](#produtividade-e-organização)
+- [Extensões úteis para VSCode](#extensões-úteis-para-vscode)
 - [Extensões para navegador úteis para devs:](#extensões-para-navegador-úteis-para-devs)
-- [Dicas para arrumar Jobs:](#dicas-para-arrumar-jobs)
-- [Sites para procurar vagas:](#sites-para-procurar-vagas)
-- [Sites que podem ajudar na sua carreira dev:](#sites-que-podem-ajudar-na-sua-carreira-dev)
-- [Canais do YouTube com conteúdo para Devs:](#canais-do-youtube-com-conteúdo-para-devs)
-- [Páginas do Instagram com Conteúdo para Devs:](#páginas-do-instagram-com-conteúdo-para-devs)
-- [Diversas comunidades Brs:](#diversas-comunidades-brs)
-- [Comunidades no Discord:](#comunidades-no-discord)
-- [Grupos do Telegram:](#grupos-do-telegram)
-- [Grupos do Whatsapp:](#grupos-do-whatsapp)
-- [Cursos Gratuitos:](#cursos-gratuitos)
-- [Eventos para Devs:](#eventos-para-devs)
-- [Repositórios do GitHub:](#repositórios-do-github)
-- [Banco de Dados em Cloud:](#banco-de-dados-em-cloud)
-- [Links que não se encaixaram em nenhuma das categorias acima:](#links-que-não-se-encaixaram-em-nenhuma-das-categorias-acima)
+- [Dicas para arrumar Jobs](#dicas-para-arrumar-jobs)
+- [Sites para procurar vagas](#sites-para-procurar-vagas)
+- [Sites que podem ajudar na sua carreira dev](#sites-que-podem-ajudar-na-sua-carreira-dev)
+- [Canais do YouTube com conteúdo para Devs](#canais-do-youtube-com-conteúdo-para-devs)
+- [Páginas do Instagram com Conteúdo para Devs](#páginas-do-instagram-com-conteúdo-para-devs)
+- [Comunidades Tech brasileirass:](#comunidades-tech-brasileirass)
+  - [Comunidades no Discord:](#comunidades-no-discord)
+  - [Grupos do Telegram:](#grupos-do-telegram)
+  - [Grupos do Whatsapp:](#grupos-do-whatsapp)
+- [Cursos Gratuitos](#cursos-gratuitos)
+- [Eventos para Devs](#eventos-para-devs)
+- [Repositórios do GitHub](#repositórios-do-github)
+- [Banco de Dados em Cloud](#banco-de-dados-em-cloud)
+- [Links que não se encaixaram em nenhuma das categorias acima](#links-que-não-se-encaixaram-em-nenhuma-das-categorias-acima)
   
 
 # Ideias de projetos para o seu portfolio
-
 
 [Frontend mentor - Desafios de códigos com foco em Front-end](https://www.frontendmentor.io/)
 
@@ -80,6 +79,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [6 ideias de projetos projetos do canal Dev Batista](https://www.youtube.com/watch?v=nZJXfnULZyI)
 
 [5 inspirações de projetos](https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996)
+
 
 # Referências para design de sites
 
@@ -107,6 +107,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Paleta de cores na Couleur](https://couleur.io/)
 
 [Paleta de cores na Design Seeds](https://www.design-seeds.com/)
+
 
 # Onde achar imagens para o seu projeto:
 
@@ -165,151 +166,139 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Phospor icons](https://phosphoricons.com/)
 
+
 # Editores de imagem simples de usar
 
-https://www.photopea.com/
+[Photopea](https://www.photopea.com/)
 
-https://www.canva.com/
+[Canva](https://www.canva.com/)
 
-https://pixlr.com/br/
+[Pixlr](https://pixlr.com/br/)
 
-https://www.screentogif.com/
+[ScreenToGIF](https://www.screentogif.com/)
 
-https://www.adobe.com/br/express/feature/image/resize
+[AdobeExpress](https://www.adobe.com/br/express/feature/image/resize)
 
-https://tinypng.com/
+[TinyPNG](https://tinypng.com/)
 
-https://app.prntscr.com/pt-br/help.html
+[LightShot](https://app.prntscr.com/pt-br/)
 
 
-# Hospede suas imagens gratuitamente:
+# Hospede suas imagens gratuitamente
 
-https://imgbox.com/
+[ImgBox](https://imgbox.com/)
 
-https://postimages.org/
+[PostImages](https://postimages.org/)
 
-# Treine o uso do flexbox no CSS de forma divertida:
+# Treine o uso do flexbox no CSS de forma divertida
 
-https://flexboxfroggy.com/
+[FlexBoxFroggy](https://flexboxfroggy.com/)
 
-https://cssgridgarden.com/
+[CSSGridGarden](https://cssgridgarden.com/)
 
-https://flukeout.github.io/
+[FlukeOut](https://flukeout.github.io/)
 
-https://mastery.games/flexboxzombies/
+[FlexBoxZombies](https://mastery.games/flexboxzombies/)
 
-http://www.flexboxdefense.com/
+[FlexBoxDefense](http://www.flexboxdefense.com/)
 
 
-# Gere textos para tests no seu site:
+# Gere textos para tests no seu site
 
+[Lipsum](https://www.lipsum.com)
 
-https://www.lipsum.com
 
+# APIs públicas para usar no seu projeto
 
-# APIs públicas para usar no seu projeto:
+[Any API](https://any-api.com/)
 
+[Public APIs](https://public-apis.xyz/)
 
-https://any-api.com/
+[Big List of Free and Open Public APIs (No Auth Needed) by Ana Kravitz](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 
-https://public-apis.xyz/
+[Open Movie Database API](http://www.omdbapi.com/)
 
-https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+[The NY Times Developer Network](https://developer.nytimes.com/)
 
-http://www.omdbapi.com/
+[Weather API](https://openweathermap.org/api)
 
-https://developer.nytimes.com/
+[{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 
-https://openweathermap.org/api
 
-https://jsonplaceholder.typicode.com/
+# Teste se sua API está funcionando
 
+[REST test test...](https://resttesttest.com/)
 
-# Teste se sua API está funcionando:
 
+# Onde hospedar seu site gratuitamente
 
-https://resttesttest.com/
+[GitHub Pages](https://pages.github.com/)
 
+[Heroku](https://herokuapp.com/)
 
-# Onde hospedar seu site gratuitamente:
+[Netlify](https://www.netlify.com/)
 
-https://pages.github.com/
+[Vercel](https://vercel.com/)
 
-https://herokuapp.com/
+[AwardSpace](https://www.awardspace.com/)
 
-https://www.netlify.com/
+[BYET](https://byet.host/)
 
-https://vercel.com/
+[InfinityFree](https://www.infinityfree.net/)
 
-https://www.awardspace.com/
+[Amazon Web Services](https://aws.amazon.com/pt/)
 
-https://byet.host/
+[1FreeHosting](https://www.1freehosting.com/)
 
-https://www.infinityfree.net/
 
-https://aws.amazon.com/pt/
+# SEO & Otimização
 
-https://www.1freehosting.com/
+[Web.Dev - Measure page quality](https://web.dev/measure/)
 
+[Google Lighthouse](https://developers.google.com/web/tools/lighthouse?hl=pt-br)
 
-# SEO & Otimização:
+# Compare seu site com outros similares
 
+[similarweb](https://www.similarweb.com/pt/)
 
-https://web.dev/measure/
+# Encurtador de urls
 
-https://developers.google.com/web/tools/lighthouse?hl=pt-br
+[Bit.ly](https://bitly.com/)
 
+# Ferramentas e sites para aprender e desenvolver raciocínio lógico
 
-# Compare seu site com outros similares:
+[Sololearn](https://www.sololearn.com/)
 
-https://www.similarweb.com/pt/
 
-# Encurtador de urls:
+[HackerRank](https://www.hackerrank.com/dashboard)
 
+[BeeCrowd](https://www.beecrowd.com.br/judge/)
 
-https://bitly.com/
+[LeetCode](https://leetcode.com/problemset/all/)
 
+# Criar formulários de email e campanhas gratuitamente
 
-# Ferramentas e sites para aprender a desenvolver raciocinio lógico:
+[MailChimp](https://mailchimp.com/)
 
+# Produtividade e Organização
 
-https://www.sololearn.com/
+[Notion Website](https://www.notion.so/)
 
-https://www.hackerrank.com/dashboard
+[Widgets para Notion](http://apption.co/)
 
-https://www.beecrowd.com.br/judge/
+[Como usar o Notion by DigitalHouse](https://www.digitalhouse.com/br/blog/como-usar-o-notion/)
 
-https://leetcode.com/problemset/all/
 
-# Criar formulários de email e campanhas gratuitamente:
+# Extensões úteis para VSCode
 
-
-https://mailchimp.com/
-
-
-# Produtividade e Organização:
-
-
-hhttps://www.notion.so/
-
-[Widgets para notion so](http://apption.co/)
-
-https://www.digitalhouse.com/br/blog/como-usar-o-notion/
-
-
-# Extensões úteis para VSCode:
-
-
-https://x-team.com/blog/best-vscode-extensions
+[Best VSCode Extensions by X-Team](https://x-team.com/blog/best-vscode-extensions)
 
 
 # Extensões para navegador úteis para devs:
 
-Wappalyzer - descubra quais tecnologias estão sendo utilizadas na página:
-https://lnkd.in/ehxsbHWm
+[Wappalyzer - descubra quais tecnologias estão sendo utilizadas na página](https://www.wappalyzer.com/)
 
-React Developer Tools - confirme se o webapp está utilizando React:
-https://lnkd.in/erXSzbVa
+[React Developer Tools - confirme se o webapp está utilizando React](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
 [CSS Viewer - descubra facilmente o CSS dos elementos da página](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt)
 
@@ -331,14 +320,13 @@ https://lnkd.in/erXSzbVa
 
 
 
-# Dicas para arrumar Jobs:
+# Dicas para arrumar Jobs
 
+[GitConnected (Currículo online 1)](https://gitconnected.com/)
 
-[Currículo online 1](https://gitconnected.com/)
+[CV Keep (Currículo online 2)](https://cvkeep.com/)
 
-[Currículo online 2](https://cvkeep.com/)
-
-[Currículo online](https://www.resumemaker.online/pt)
+[ResumeMaker.online (Currículo online 3)](https://www.resumemaker.online/pt)
 
 [Dicas emprego exterior](https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/) 
 
@@ -349,7 +337,7 @@ https://lnkd.in/erXSzbVa
 [Personalize seu GitHub](https://www.youtube.com/watch?v=cRoBt6AZgjc)
 
 
-# Sites para procurar vagas:
+# Sites para procurar vagas
 
 [Sites gerais](https://docs.google.com/document/d/1hSxsKe4D5eUIguhYgac5zMaLxSzEisgpwmNI6qvm4r8/edit)
 
@@ -370,8 +358,7 @@ https://lnkd.in/erXSzbVa
 [Programathor](https://programathor.com.br/)
 
 
-# Sites que podem ajudar na sua carreira dev:
-
+# Sites que podem ajudar na sua carreira dev
 
 [Crie sites 5x mais responsivos](https://responsively.app/)
 
@@ -385,7 +372,7 @@ https://lnkd.in/erXSzbVa
 
 [Remova o backgroud de imagens](https://www.remove.bg/pt-br)
 
-# Canais do YouTube com conteúdo para Devs:
+# Canais do YouTube com conteúdo para Devs
 
 [Adriana Saty](https://www.youtube.com/c/AdrianaSaty)
 
@@ -471,16 +458,16 @@ https://lnkd.in/erXSzbVa
 
 [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 
-# Páginas do Instagram com Conteúdo para Devs:
+
+# Páginas do Instagram com Conteúdo para Devs
 
 [One Bit Code](https://www.instagram.com/onebitcode/)
 
-# Diversas comunidades Brs:
+# Comunidades Tech brasileirass:
 
-[COMUNIDADES TECH(Repositório)](https://github.com/ielepassos/comunidades-TI)
+[COMUNIDADES TECH (Repositório)](https://github.com/ielepassos/comunidades-TI)
 
-
-# Comunidades no Discord:
+## Comunidades no Discord:
 
 [Dev Jr Br](https://discord.gg/6FcqV4q6)
 
@@ -499,42 +486,46 @@ https://lnkd.in/erXSzbVa
 [CollabCode](https://discord.gg/2FERKT7p)
 
 [Ballerini](https://discord.gg/ballerini)
-# Grupos do Telegram:
 
-Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
+## Grupos do Telegram:
 
-[Cafeina Vagas](https://t.me/CafeinaVagas)
+[Dev Jr Br](https://t.me/+-V6Xw29WpU9lZjU5)
 
-# Grupos do Whatsapp:
+[Cafeína Vagas](https://t.me/CafeinaVagas)
+
+
+## Grupos do Whatsapp:
 
 (...)
 
 
-# Cursos Gratuitos:
+# Cursos Gratuitos
 
-https://www.opensourcecourses.com.br/
+[OpenSourceCourses](https://www.opensourcecourses.com.br/)
 
-https://jornadadodev.com.br/
+[Jornada do Dev](https://jornadadodev.com.br/)
 
-https://www.rocketseat.com.br/
+[Rocketseat](https://www.rocketseat.com.br/)
 
-https://www.dio.me/
+[Dio.me](https://www.dio.me/)
 
-https://www.cursoemvideo.com/
+[Curso em Vídeo](https://www.cursoemvideo.com/)
 
-https://www.origamid.com/
+[Origamid](https://www.origamid.com/)
 
-https://www.coursera.org/
+[Coursera](https://www.coursera.org/)
 
-https://www.freecodecamp.org/
-
-
-# Eventos para Devs:
-
-https://www.meetup.com/pt-BR/
+[FreeCodeCamp](https://www.freecodecamp.org/)
 
 
-# Repositórios do GitHub:
+# Eventos para Devs
+
+[Shawee](https://shawee.io/)
+
+[MeetUp](https://www.meetup.com/pt-BR/)
+
+
+# Repositórios do GitHub
 
 [Roadmap para devs](https://github.com/kamranahmedse/developer-roadmap)
 
@@ -542,18 +533,19 @@ https://www.meetup.com/pt-BR/
 
 [Guia do Front-End](https://github.com/arthurspk/guiadofrontend)
 
-# Banco de Dados em Cloud:
 
-Supabase -> https://supabase.com/
+# Banco de Dados em Cloud
 
-Fauna -> https://fauna.com/
+[Supabase](https://supabase.com/)
 
-Planetscale -> https://planetscale.com/pricing
+[Fauna](https://fauna.com/)
 
-# Links que não se encaixaram em nenhuma das categorias acima:
+[Planetscale](https://planetscale.com/pricing)
+
+# Links que não se encaixaram em nenhuma das categorias acima
 
 [Guia de TI (Guia para cursos gartuitos)](https://guiadeti.com.br/)
 
-contrib.rocks - exiba os contribuidores de um repo no README: https://contrib.rocks
+[Contrib.rocks - exiba os contribuidores de um repo dinamicamente no README](https://contrib.rocks) ➡️ Usado neste README ✨
 
 ---
