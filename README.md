@@ -106,6 +106,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Paleta de cores na Couleur](https://couleur.io/)
 
+[Paleta de cores na Design Seeds](https://www.design-seeds.com/)
+
 # Onde achar imagens para o seu projeto:
 
 [Freepik.com](https://www.freepik.com/)
@@ -129,6 +131,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Nappy.co](https://nappy.co/)
 
 [Undraw.com](https://undraw.co/)
+
+[Pexels.com](https://www.pexels.com/pt-br/)
 
 
 # Onde achar ícones para o seu projeto
@@ -426,6 +430,8 @@ https://lnkd.in/erXSzbVa
 [Lucas Nhimi](https://www.youtube.com/c/LucasNhimi)
 
 [Matheus Battisti](https://www.youtube.com/c/MatheusBattisti)
+
+[Micael Mota](https://www.youtube.com/user/micaelomota)
 
 [PasquaDev](https://www.youtube.com/c/pasquadev)
 
