@@ -287,7 +287,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 # Extensões úteis para VSCode
 
-[X-Team - Best VSCode Extensions by X-Team](https://x-team.com/blog/best-vscode-extensions)
+[Best VSCode Extensions by X-Team](https://x-team.com/blog/best-vscode-extensions)
 
 
 # Extensões para navegador úteis para devs:
