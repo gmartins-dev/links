@@ -377,8 +377,27 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 # Extensões úteis para VSCode:
 
+[Deprecated - Veja Suas aspas, colchetes e chaves organizadas](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
-https://x-team.com/blog/best-vscode-extensions
+[Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+
+[Veja as cores que selecionou](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+[Veja o preview da imagem no codigo](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+
+[Codigo inteligente](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+[Tabnine uma das melhores extensões](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+
+[Prettier para melhorar o codigo](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+[Veja onde abre e fecha seus parenteses, chaves e colchetes](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
+
+[VS Code Icons - Icones de pastas e linguagens](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+[X Team - Melhores extensoes](https://x-team.com/blog/best-vscode-extensions)
 
 
 # Extensões para navegador úteis para devs:
