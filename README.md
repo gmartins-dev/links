@@ -210,9 +210,9 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Public APIs](https://public-apis.xyz/)
 
-[Big List of Free and Open Public APIs (No Auth Needed)](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
+[Big List of Free and Open Public APIs (No Auth Needed) by Ana Kravitz](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 
-[OMDb API](http://www.omdbapi.com/)
+[Open Movie Database API](http://www.omdbapi.com/)
 
 [The NY Times Developer Network](https://developer.nytimes.com/)
 
@@ -253,7 +253,6 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Google Lighthouse](https://developers.google.com/web/tools/lighthouse?hl=pt-br)
 
-
 # Compare seu site com outros similares
 
 [similarweb](https://www.similarweb.com/pt/)
@@ -262,10 +261,10 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Bit.ly](https://bitly.com/)
 
-
 # Ferramentas e sites para aprender e desenvolver raciocínio lógico
 
 [Sololearn](https://www.sololearn.com/)
+
 
 [HackerRank](https://www.hackerrank.com/dashboard)
 
@@ -273,24 +272,22 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [LeetCode](https://leetcode.com/problemset/all/)
 
-
 # Criar formulários de email e campanhas gratuitamente
 
 [MailChimp](https://mailchimp.com/)
 
-
 # Produtividade e Organização
 
-[Notion.so](https://www.notion.so/)
+[Notion Website](https://www.notion.so/)
 
-[Widgets para notion.so](http://apption.co/)
+[Widgets para Notion](http://apption.co/)
 
-[Como usar o Notion](https://www.digitalhouse.com/br/blog/como-usar-o-notion/)
+[Como usar o Notion by DigitalHouse](https://www.digitalhouse.com/br/blog/como-usar-o-notion/)
 
 
 # Extensões úteis para VSCode
 
-[X-Team - Best VSCode Extensions](https://x-team.com/blog/best-vscode-extensions)
+[Best VSCode Extensions by X-Team](https://x-team.com/blog/best-vscode-extensions)
 
 
 # Extensões para navegador úteis para devs:
@@ -321,11 +318,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 # Dicas para arrumar Jobs
 
-[Currículo online 1](https://gitconnected.com/)
+[GitConnected (Currículo online 1)](https://gitconnected.com/)
 
-[Currículo online 2](https://cvkeep.com/)
+[CV Keep (Currículo online 2)](https://cvkeep.com/)
 
-[Currículo online 3](https://www.resumemaker.online/pt)
+[ResumeMaker.online (Currículo online 3)](https://www.resumemaker.online/pt)
 
 [Dicas emprego exterior](https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/) 
 
@@ -484,7 +481,6 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Ballerini](https://discord.gg/ballerini)
 
-
 ## Grupos do Telegram:
 
 [Dev Jr Br](https://t.me/+-V6Xw29WpU9lZjU5)
@@ -517,6 +513,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 
 # Eventos para Devs
+
+[Shawee](https://shawee.io/)
 
 [MeetUp](https://www.meetup.com/pt-BR/)
 
