@@ -53,10 +53,10 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 - [Sites que podem ajudar na sua carreira dev](#sites-que-podem-ajudar-na-sua-carreira-dev)
 - [Canais do YouTube com conteúdo para Devs](#canais-do-youtube-com-conteúdo-para-devs)
 - [Páginas do Instagram com Conteúdo para Devs](#páginas-do-instagram-com-conteúdo-para-devs)
-- [Comunidades Tech brasileirass:](#comunidades-tech-brasileirass)
-  - [Comunidades no Discord:](#comunidades-no-discord)
-  - [Grupos do Telegram:](#grupos-do-telegram)
-  - [Grupos do Whatsapp:](#grupos-do-whatsapp)
+- [Comunidades Tech brasileiras](#comunidades-tech-brasileiras)
+  - [Comunidades no Discord](#comunidades-no-discord)
+  - [Grupos do Telegram](#grupos-do-telegram)
+  - [Grupos do Whatsapp](#grupos-do-whatsapp)
 - [Cursos Gratuitos](#cursos-gratuitos)
 - [Eventos para Devs](#eventos-para-devs)
 - [Repositórios do GitHub](#repositórios-do-github)
@@ -463,11 +463,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [One Bit Code](https://www.instagram.com/onebitcode/)
 
-# Comunidades Tech brasileirass:
+# Comunidades Tech brasileiras
 
 [COMUNIDADES TECH (Repositório)](https://github.com/ielepassos/comunidades-TI)
 
-## Comunidades no Discord:
+## Comunidades no Discord
 
 [Dev Jr Br](https://discord.gg/6FcqV4q6)
 
@@ -487,14 +487,15 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Ballerini](https://discord.gg/ballerini)
 
-## Grupos do Telegram:
+
+## Grupos do Telegram
 
 [Dev Jr Br](https://t.me/+-V6Xw29WpU9lZjU5)
 
 [Cafeína Vagas](https://t.me/CafeinaVagas)
 
 
-## Grupos do Whatsapp:
+## Grupos do Whatsapp
 
 (...)
 
