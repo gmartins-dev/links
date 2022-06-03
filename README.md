@@ -300,6 +300,11 @@ https://x-team.com/blog/best-vscode-extensions
 
 # Extensões para navegador úteis para devs:
 
+Wappalyzer - descubra quais tecnologias estão sendo utilizadas na página:
+https://lnkd.in/ehxsbHWm
+
+React Developer Tools - confirme se o webapp está utilizando React:
+https://lnkd.in/erXSzbVa
 
 CSS Viewer - descubra facilmente o CSS dos elementos da página: 
 https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt
