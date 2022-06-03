@@ -463,7 +463,7 @@ https://lnkd.in/erXSzbVa
 
 [Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 
-The Net Ninja
+[The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 
 # Páginas do Instagram com Conteúdo para Devs:
 
