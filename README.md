@@ -31,7 +31,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 - [Ideias de projetos para o seu portfolio](#ideias-de-projetos-para-o-seu-portfolio)
 - [Referências para design de sites](#referências-para-design-de-sites)
 - [Encontre combinações de cores legais para usar no seu projeto](#encontre-combinações-de-cores-legais-para-usar-no-seu-projeto)
-- [Onde achar imagens para o seu projeto:](#onde-achar-imagens-para-o-seu-projeto)
+- [Onde achar imagens para o seu projeto](#onde-achar-imagens-para-o-seu-projeto)
 - [Onde achar ícones para o seu projeto](#onde-achar-ícones-para-o-seu-projeto)
 - [Editores de imagem simples de usar](#editores-de-imagem-simples-de-usar)
 - [Hospede suas imagens gratuitamente](#hospede-suas-imagens-gratuitamente)
@@ -47,7 +47,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 - [Criar formulários de email e campanhas gratuitamente](#criar-formulários-de-email-e-campanhas-gratuitamente)
 - [Produtividade e Organização](#produtividade-e-organização)
 - [Extensões úteis para VSCode](#extensões-úteis-para-vscode)
-- [Extensões para navegador úteis para devs:](#extensões-para-navegador-úteis-para-devs)
+- [Extensões para navegador úteis para devs](#extensões-para-navegador-úteis-para-devs)
 - [Dicas para arrumar Jobs](#dicas-para-arrumar-jobs)
 - [Sites para procurar vagas](#sites-para-procurar-vagas)
 - [Sites que podem ajudar na sua carreira dev](#sites-que-podem-ajudar-na-sua-carreira-dev)
@@ -109,7 +109,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Paleta de cores na Design Seeds](https://www.design-seeds.com/)
 
 
-# Onde achar imagens para o seu projeto:
+# Onde achar imagens para o seu projeto
 
 [Freepik.com](https://www.freepik.com/)
 
@@ -269,7 +269,6 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Sololearn](https://www.sololearn.com/)
 
-
 [HackerRank](https://www.hackerrank.com/dashboard)
 
 [BeeCrowd](https://www.beecrowd.com.br/judge/)
@@ -294,7 +293,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Best VSCode Extensions by X-Team](https://x-team.com/blog/best-vscode-extensions)
 
 
-# Extensões para navegador úteis para devs:
+# Extensões para navegador úteis para devs
 
 [Wappalyzer - descubra quais tecnologias estão sendo utilizadas na página](https://www.wappalyzer.com/)
 
