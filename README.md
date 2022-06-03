@@ -34,16 +34,16 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 - [Onde achar imagens para o seu projeto:](#onde-achar-imagens-para-o-seu-projeto)
 - [Onde achar ícones para o seu projeto](#onde-achar-ícones-para-o-seu-projeto)
 - [Editores de imagem simples de usar](#editores-de-imagem-simples-de-usar)
-- [Hospede suas imagens gratuitamente:](#hospede-suas-imagens-gratuitamente)
-- [Treine o uso do flexbox no CSS de forma divertida:](#treine-o-uso-do-flexbox-no-css-de-forma-divertida)
-- [Gere textos para tests no seu site:](#gere-textos-para-tests-no-seu-site)
-- [APIs públicas para usar no seu projeto:](#apis-públicas-para-usar-no-seu-projeto)
-- [Teste se sua API está funcionando:](#teste-se-sua-api-está-funcionando)
-- [Onde hospedar seu site gratuitamente:](#onde-hospedar-seu-site-gratuitamente)
-- [SEO & Otimização:](#seo--otimização)
-- [Compare seu site com outros similares:](#compare-seu-site-com-outros-similares)
-- [Encurtador de urls:](#encurtador-de-urls)
-- [Ferramentas e sites para aprender a desenvolver raciocinio lógico:](#ferramentas-e-sites-para-aprender-a-desenvolver-raciocinio-lógico)
+- [Hospede suas imagens gratuitamente](#hospede-suas-imagens-gratuitamente)
+- [Treine o uso do flexbox no CSS de forma divertida](#treine-o-uso-do-flexbox-no-css-de-forma-divertida)
+- [Gere textos para tests no seu site](#gere-textos-para-tests-no-seu-site)
+- [APIs públicas para usar no seu projeto](#apis-públicas-para-usar-no-seu-projeto)
+- [Teste se sua API está funcionando](#teste-se-sua-api-está-funcionando)
+- [Onde hospedar seu site gratuitamente](#onde-hospedar-seu-site-gratuitamente)
+- [SEO & Otimização](#seo--otimização)
+- [Compare seu site com outros similares](#compare-seu-site-com-outros-similares)
+- [Encurtador de urls](#encurtador-de-urls)
+- [Ferramentas e sites para aprender e desenvolver raciocínio lógico](#ferramentas-e-sites-para-aprender-e-desenvolver-raciocínio-lógico)
 - [Criar formulários de email e campanhas gratuitamente:](#criar-formulários-de-email-e-campanhas-gratuitamente)
 - [Produtividade e Organização:](#produtividade-e-organização)
 - [Extensões úteis para VSCode:](#extensões-úteis-para-vscode)
@@ -66,7 +66,6 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 # Ideias de projetos para o seu portfolio
 
-
 [Frontend mentor - Desafios de códigos com foco em Front-end](https://www.frontendmentor.io/)
 
 [Repositório com idéias para incrementar no seu código](https://github.com/florinpop17/app-ideas)
@@ -80,6 +79,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [6 ideias de projetos projetos do canal Dev Batista](https://www.youtube.com/watch?v=nZJXfnULZyI)
 
 [5 inspirações de projetos](https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996)
+
 
 # Referências para design de sites
 
@@ -105,6 +105,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Paleta de cores na Adobe](https://color.adobe.com/)
 
 [Paleta de cores na Couleur](https://couleur.io/)
+
 
 # Onde achar imagens para o seu projeto:
 
@@ -161,113 +162,108 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Phospor icons](https://phosphoricons.com/)
 
+
 # Editores de imagem simples de usar
 
-https://www.photopea.com/
+[Photopea](https://www.photopea.com/)
 
-https://www.canva.com/
+[Canva](https://www.canva.com/)
 
-https://pixlr.com/br/
+[Pixlr](https://pixlr.com/br/)
 
-https://www.screentogif.com/
+[ScreenToGIF](https://www.screentogif.com/)
 
-https://www.adobe.com/br/express/feature/image/resize
+[AdobeExpress](https://www.adobe.com/br/express/feature/image/resize)
 
-https://tinypng.com/
+[TinyPNG](https://tinypng.com/)
 
-https://app.prntscr.com/pt-br/help.html
-
-
-# Hospede suas imagens gratuitamente:
-
-https://imgbox.com/
-
-https://postimages.org/
-
-# Treine o uso do flexbox no CSS de forma divertida:
-
-https://flexboxfroggy.com/
-
-https://cssgridgarden.com/
-
-https://flukeout.github.io/
-
-https://mastery.games/flexboxzombies/
-
-http://www.flexboxdefense.com/
+[LightShot](https://app.prntscr.com/pt-br/)
 
 
-# Gere textos para tests no seu site:
+# Hospede suas imagens gratuitamente
+
+[ImgBox](https://imgbox.com/)
+
+[PostImages](https://postimages.org/)
+
+# Treine o uso do flexbox no CSS de forma divertida
+
+[FlexBoxFroggy](https://flexboxfroggy.com/)
+
+[CSSGridGarden](https://cssgridgarden.com/)
+
+[FlukeOut](https://flukeout.github.io/)
+
+[FlexBoxZombies](https://mastery.games/flexboxzombies/)
+
+[FlexBoxDefense](http://www.flexboxdefense.com/)
 
 
-https://www.lipsum.com
+# Gere textos para tests no seu site
+
+[Lipsum](https://www.lipsum.com)
 
 
-# APIs públicas para usar no seu projeto:
+# APIs públicas para usar no seu projeto
+
+[Any API](https://any-api.com/)
+
+[Public APIs](https://public-apis.xyz/)
+
+[Big List of Free and Open Public APIs (No Auth Needed)](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
+
+[OMDb API](http://www.omdbapi.com/)
+
+[The NY Times Developer Network](https://developer.nytimes.com/)
+
+[Weather API](https://openweathermap.org/api)
+
+[{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 
 
-https://any-api.com/
+# Teste se sua API está funcionando
 
-https://public-apis.xyz/
-
-https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
-
-http://www.omdbapi.com/
-
-https://developer.nytimes.com/
-
-https://openweathermap.org/api
-
-https://jsonplaceholder.typicode.com/
+[REST test test...](https://resttesttest.com/)
 
 
-# Teste se sua API está funcionando:
+# Onde hospedar seu site gratuitamente
+
+[GitHub Pages](https://pages.github.com/)
+
+[Heroku](https://herokuapp.com/)
+
+[Netlify](https://www.netlify.com/)
+
+[Vercel](https://vercel.com/)
+
+[AwardSpace](https://www.awardspace.com/)
+
+[BYET](https://byet.host/)
+
+[InfinityFree](https://www.infinityfree.net/)
+
+[Amazon Web Services](https://aws.amazon.com/pt/)
+
+[1FreeHosting](https://www.1freehosting.com/)
 
 
-https://resttesttest.com/
+# SEO & Otimização
+
+[Web.Dev - Measure page quality](https://web.dev/measure/)
+
+[Google Lighthouse](https://developers.google.com/web/tools/lighthouse?hl=pt-br)
 
 
-# Onde hospedar seu site gratuitamente:
+# Compare seu site com outros similares
 
-https://pages.github.com/
+[similarweb](https://www.similarweb.com/pt/)
 
-https://herokuapp.com/
+# Encurtador de urls
 
-https://www.netlify.com/
-
-https://vercel.com/
-
-https://www.awardspace.com/
-
-https://byet.host/
-
-https://www.infinityfree.net/
-
-https://aws.amazon.com/pt/
-
-https://www.1freehosting.com/
+[Bit.ly](https://bitly.com/)
 
 
-# SEO & Otimização:
-
-
-https://web.dev/measure/
-
-https://developers.google.com/web/tools/lighthouse?hl=pt-br
-
-
-# Compare seu site com outros similares:
-
-https://www.similarweb.com/pt/
-
-# Encurtador de urls:
-
-
-https://bitly.com/
-
-
-# Ferramentas e sites para aprender a desenvolver raciocinio lógico:
-
+# Ferramentas e sites para aprender e desenvolver raciocínio lógico
 
 https://www.sololearn.com/
 
