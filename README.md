@@ -66,237 +66,314 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 ---
 # Ideias de projetos para o seu portfolio:
 
+[Desafios de códigos com foco em Front-end](https://www.frontendmentor.io)
 
-Desafios de códigos com foco em Front-end: https://www.frontendmentor.io/
+[Repositório com idéias para incrementar no seu código](https://github.com/florinpop17/app-ideas)
 
-Repositório com idéias para incrementar no seu código: https://github.com/florinpop17/app-ideas
-Acervo com 40 projetos para começar na programação: https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/
+[Acervo com 40 projetos para começar na programação](https://www.freecodecamp.org/portuguesenews/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/)
 
-10 ideias de projetos do canal Filipe Deschamps: https://www.youtube.com/watch?v=fYR9L2ZmodM
+[10 ideias de projetos do canal Filipe Deschamps](https://www.youtube.com/watch?v=fYR9L2ZmodM)
 
-3 ideias de projetos projetos do canal Dev em Dobro: https://www.youtube.com/watch?v=VvyjQE7pJ8s
+[3 ideias de projetos projetos do canal Dev em Dobro](https://www.youtube.com/watch?v=VvyjQE7pJ8s)
 
-6 ideias de projetos projetos do canal Dev Batista:https://www.youtube.com/watch?v=nZJXfnULZyI
+[6 ideias de projetos projetos do canal Dev Batista](https://www.youtube.com/watch?v=nZJXfnULZyI)
 
-5 inspirações de projetos: https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996
+[5 inspirações de projetos](https://betterprogramming.pubhere-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996)
 
 
 # Referências para design de sites:
 
 
-Acervo no Pinterest para inspirar seu Front-end: https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped
+[Acervo no Pinterest para inspirar seu Front-end](https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped)
 
-Acervo no Behance para inspirar seu Front-end: https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=web%20site
+[Acervo no Behance para inspirar seu Front-end](https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=web%20site)
 
-Acervo no Envato Elements para inspirar seu Front-end: https://elements.envato.com/pt-br/web-templates</br>
+[Acervo no Envato Elements para inspirar seu Front-end](https://elements.envato.com/pt-br/web-templates)
 
-Acervo na Alura para inspirar seu Front-end: https://www.alura.com.br/artigos/as-8-melhores-ferramentas-gratuitas-de-design</br>
+[Acervo na Alura para inspirar seu Front-end](https://www.alura.com.br/artigos/as-8-melhores-ferramentas-gratuitas-de-design)
 
-Acervo no Dribbble para inspirar seu Front-end: https://dribbble.com/
+[Acervo no Dribbble para inspirar seu Front-end](https://dribbble.com/)
 
-Acervo no Figma para inspirar seu Front-end: https://figmaresource.com/
+[Acervo no Figma para inspirar seu Front-end](https://figmaresource.com/)
 
-Acervo no Haikei de SVG para inspirar seu Front-end: https://haikei.app/
+[Acervo no Haikei de SVG para inspirar seu Front-end](https://haikei.app/)
 
 
 # Encontre combinações de cores legais para usar no seu projeto:
 
 
-Paleta de cores no MyColor: https://mycolor.space/
+[Paleta de cores no MyColor](https://mycolor.space/)
 
-Paleta de cores na Adobe: https://color.adobe.com/
+[Paleta de cores na Adobe](https://color.adobe.com/)
 
-Paleta de cores na Couleur: https://couleur.io/
+[Paleta de cores na Couleur](https://couleur.io/)
 
 
 # Onde achar imagens para o seu projeto:
 
 
-https://www.freepik.com/
+[Freepik](https://www.freepik.com/)
 
-https://unsplash.com/
+[Unsplash](https://unsplash.com/)
 
-https://www.envato.com/
+[Envato](https://www.envato.com/)
 
-https://tinypng.com/
+[Tinypng](https://tinypng.com/)
 
-https://imgbox.com/
+[IMGbox](https://imgbox.com/)
 
-https://encr.pw/iKOuY
+[Encr.pw](https://encr.pw/iKOuY)
 
-https://www.shopify.com.br/burst
+[Shopify](https://www.shopify.com.br/burst)
 
-https://cupcake.nilssonlee.se/
+[NilssonLee](https://cupcake.nilssonlee.se/)
 
-https://www.drawkit.io
+[DrawKit](https://www.drawkit.io)
 
-https://nappy.co/
+[Nappy](https://nappy.co/)
 
-https://undraw.co/
+[Undraw](https://undraw.co/)
 
 
 # Onde achar ícones para o seu projeto:
 
 
-https://www.streamlinehq.com/
+[StreamLine](https://www.streamlinehq.com/)
 
-https://iconfinder.com
+[Iconfinder](https://iconfinder.com)
 
-https://emojipedia.org/
+[Emojipedia](https://emojipedia.org/)
 
-https://www.cursor.cc/
+[Cursor](https://www.cursor.cc/)
 
-https://favpng.com/
+[FavPNG](https://favpng.com/)
 
-https://fontawesome.com/
+[Fontawesome](https://fontawesome.com/)
 
-https://lordicon.com/
+[LordIcon](https://lordicon.com/)
 
-https://drawkit.com/free-icons
+[DrawKit](https://drawkit.com/free-icons)
 
-https://feathericons.com/
+[FeatherIcons](https://feathericons.com/)
 
-https://heroicons.dev/
+[HeroIcons](https://heroicons.dev/)
 
-https://icons.getbootstrap.com/
+[GetBootstrap](https://icons.getbootstrap.com/)
 
-https://icons8.com/line-awesome
+[Icons8](https://icons8.com/line-awesome)
 
-https://www.flaticon.com/
+[FlatIcon](https://www.flaticon.com/)
 
-https://phosphoricons.com/
+[Phosphoricons](https://phosphoricons.com/)
 
 # Editores de imagem simples de usar:
 
 
-https://www.photopea.com/
+[Photoshopea](https://www.photopea.com/)
 
-https://www.canva.com/
+[Canva](https://www.canva.com/)
 
-https://pixlr.com/br/
+[Pixlr](https://pixlr.com/br/)
 
-https://www.screentogif.com/
+[ScreenToGif](https://www.screentogif.com/)
 
-https://www.adobe.com/br/express/feature/image/resize
+[AdobeIMGResize](https://www.adobe.com/br/express/feature/image/resize)
 
-https://tinypng.com/
+[Tinypng](https://tinypng.com/)
 
-https://app.prntscr.com/pt-br/help.html
+[PrntScr](https://app.prntscr.com/pt-br/help.html)
 
 
 # Hospede suas imagens gratuitamente:
 
-https://imgbox.com/
+[Imgbox](https://imgbox.com/)
 
-https://postimages.org/
+[PostImages](https://postimages.org/)
+
+[Flickr](https://flickr.com/)
+
+[Imgur](https://imgur.com/)
+
+[GooglePhotos](https://www.google.com/intl/pt-BR/photos/about/)
+
+[FreeImageHosting](https://freeimagehosting.net/)
+
+[KeKgg](https://kek.gg/)
+
+[UnSee](https://unsee.cc/)
+
+
 
 # Treine o uso do flexbox no CSS de forma divertida:
 
-https://flexboxfroggy.com/
+[Flexbox Froggy](https://flexboxfroggy.com/)
 
-https://cssgridgarden.com/
+[Css Grid Garden](https://cssgridgarden.com/)
 
-https://flukeout.github.io/
+[Fluke Out](https://flukeout.github.io/)
 
-https://mastery.games/flexboxzombies/
+[Flex Zombies](https://mastery.games/flexboxzombies/)
 
-http://www.flexboxdefense.com/
+[Flexbox Defense](http://www.flexboxdefense.com/)
 
 
 # Gere textos para tests no seu site:
 
 
-https://www.lipsum.com
+[LoremIpsum](https://www.lipsum.com)
 
+[CompadreIpsum](http://compadreipsum.com.br/)
+
+[Hipsum](https://hipsum.co/)
+
+[SatoriStudio](https://satoristudio.net/delorean-ipsum/)
+
+[Slipsum](https://slipsum.com/)
+
+[Cipsum](https://www.cipsum.com/)
 
 # APIs públicas para usar no seu projeto:
 
+[ANY API](https://any-api.com/)
 
-https://any-api.com/
+[Developer](https://developer.nytimes.com/)
 
-https://public-apis.xyz/
+[JsonPlaceHolder](https://jsonplaceholder.typicode.com/)
 
-https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+[MixedAnalytics](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 
-http://www.omdbapi.com/
+[OmbAPI](http://www.omdbapi.com/)
 
-https://developer.nytimes.com/
+[OpenWeatherMap](https://openweathermap.org/api)
 
-https://openweathermap.org/api
+[Public API's](https://public-apis.xyz/)
 
-https://jsonplaceholder.typicode.com/
+[Repositorios de API's Publicas](https://github.com/public-apis/public-apis)
 
 
 # Teste se sua API está funcionando:
 
+[Postman](https://www.postman.com/)
 
-https://resttesttest.com/
+[Rest Test](https://resttesttest.com/)
 
+[RestNinja](https://restninja.io/)
+
+[ReqBin](https://reqbin.com/)
 
 # Onde hospedar seu site gratuitamente:
 
-https://pages.github.com/
+[GitHub Pages](https://pages.github.com/)
 
-https://herokuapp.com/
+[Heroku](https://herokuapp.com/)
 
-https://www.netlify.com/
+[Netlify](https://www.netlify.com/)
 
-https://vercel.com/
+[Vercel](https://vercel.com/)
 
-https://www.awardspace.com/
+[AwardSpace](https://www.awardspace.com/)
 
-https://byet.host/
+[Byet](https://byet.host/)
 
-https://www.infinityfree.net/
+[InfinityFree](https://www.infinityfree.net/)
 
-https://aws.amazon.com/pt/
+[Amazon AWS](https://aws.amazon.com/pt/)
 
-https://www.1freehosting.com/
+[1FreeHosting](https://www.1freehosting.com/)
 
 
 # SEO & Otimização:
 
 
-https://web.dev/measure/
+[Web Dev](https://web.dev/measure/)
 
-https://developers.google.com/web/tools/lighthouse?hl=pt-br
+[Developers Google](https://developers.google.com/web/tools/lighthouse?hl=pt-br)
 
 
 # Compare seu site com outros similares:
 
-https://www.similarweb.com/pt/
+[SimilarWeb](https://www.similarweb.com/pt/)
 
 # Encurtador de urls:
 
 
-https://bitly.com/
+[BitLy](https://bitly.com/)
 
 
 # Ferramentas e sites para aprender a desenvolver raciocinio lógico:
 
 
-https://www.sololearn.com/
+[SoloLearn](https://www.sololearn.com/)
 
-https://www.hackerrank.com/dashboard
+[HackerRank](https://www.hackerrank.com/dashboard)
 
-https://www.beecrowd.com.br/judge/
+[URI Atual Beecrowd](https://www.beecrowd.com.br/judge/)
 
+[Coding Game](https://www.codingame.com/)
+
+[FreeCodeCam](https://freecodecamp.org/)
+
+[CodeWars](https://www.codewars.com/)
+
+[Hacker Earth](http://hackerearth.com/)
+
+[Programiz](http://programiz.com/)
+
+[CodeChef](http://codechef.com/)
+
+[Spoj](http://spoj.com/)
+
+[Exercism](http://exercism.org/)
+
+[CodeCademy](http://codecademy.com/)
+
+[LeetCode](http://leetcode.com/)
+
+[CoderByte](http://coderbyte.com/)
+
+[JS Challenger](https://www.jschallenger.com/start)
 
 # Criar formulários de email e campanhas gratuitamente:
 
 
-https://mailchimp.com/
+[MailChimp](https://mailchimp.com/)
+
+[FormsAPP](https://forms.app/pt)
 
 
 # Produtividade e Organização:
 
+[Notion](https://www.notion.so/)
 
-hhttps://www.notion.so/
+[Widgets para notion so](http://apption.co/)
 
-Widgets para notion so: http://apption.co/
+[Como utilizar o Notion](https://www.digitalhouse.com/br/blog/como-usar-o-notion/)
 
-https://www.digitalhouse.com/br/blog/como-usar-o-notion/
+[NoteLedge](https://www.kdanmobile.com/noteledge)
 
+[ClickUp](https://clickup.com/?fp_ref=vlad99)
+
+[EverNote](https://evernote.com/intl/pt/)
+
+[Confluence](https://www.atlassian.com/br/software/confluence)
+
+[MilaNote](https://milanote.com/)
+
+[DropboxPaper](https://www.dropbox.com/paper)
+
+[Nuclio](https://www.nuclino.com/)
+
+[Workspace Google](https://workspace.google.com/)
+
+[Microsoft One Note](https://www.microsoft.com/pt-pt/microsoft-365/onenote/digital-note-taking-app?rtc=1)
+
+[NumbusWeb](https://nimbusweb.me/)
+
+[Zoho](https://www.zoho.com/pt-br/notebook/)
+
+[nTask](https://www.ntaskmanager.com/)
+
+[WorfFlowy](https://workflowy.com/)
 
 # Extensões úteis para VSCode:
 
@@ -307,90 +384,87 @@ https://x-team.com/blog/best-vscode-extensions
 # Extensões para navegador úteis para devs:
 
 
-CSS Viewer - descubra facilmente o CSS dos elementos da página: 
-https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt
+[CSS Viewer - descubra facilmente o CSS dos elementos da página](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt)
 
-ColorZilla - descubra quais cores estão sendo usadas no site: 
-https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt
+[ColorZilla - descubra quais cores estão sendo usadas no site](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt)
 
-FontsNinja - descubra quais fontes estão usadas no site: 
-https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
+[FontsNinja - descubra quais fontes estão usadas no site](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
 
-WhatFont - descubra a fonte usada no site (mais leve):
-https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
+[WhatFont - descubra a fonte usada no site (mais leve)](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt)
 
-Windows Resizer - teste a responsividade do seu site em diferentes resoluções: 
-https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR
+[Windows Resizer - teste a responsividade do seu site em diferentes resoluções](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR)
 
-Smart Page Ruler - meça dimensões em pixels nas paginas:  
-https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg
+[Smart Page Ruler - meça dimensões em pixels nas paginas](https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg)
 
-GoFullPage - Tire prints das suas paginas web por inteiro: 
-https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
+[GoFullPage - Tire prints das suas paginas web por inteiro](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
 
-File Icons for GitHub and GitLab - extensão simples para substituir o ícone do arquivo original por ícones específicos do tipo de arquivo. Isso melhora o reconhecimento visual no GitHub e GitLab: 
-https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe
+[File Icons for GitHub and GitLab - extensão simples para substituir o ícone do arquivo original por ícones específicos do tipo de arquivo. Isso melhora o reconhecimento visual no GitHub e GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe)
 
-Web Developer - A extensão Web Developer adiciona um botão de barra de ferramentas ao navegador com várias ferramentas de desenvolvedor Web: 
-https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR
+[Web Developer - A extensão Web Developer adiciona um botão de barra de ferramentas ao navegador com várias ferramentas de desenvolvedor Web](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)
 
 
 
 # Dicas para arrumar Jobs:
 
 
-Currículo online -> https://gitconnected.com/
+[Currículo online Git Connected](https://gitconnected.com/)
 
-Currículo online -> https://cvkeep.com/
+[Currículo online CV Keep](https://cvkeep.com/)
 
-Currículo online -> https://www.resumemaker.online/pt
+[Currículo online ResumeMaker](https://www.resumemaker.online/pt)
 
-dicas emprego exterior -> https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/ 
+[Dicas emprego exterior](https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/) 
 
-10 dicas para melhorar seu portfolio -> https://www.youtube.com/watch?v=ReKskgcdG5w
+[10 dicas para melhorar seu portfolio](https://www.youtube.com/watch?v=ReKskgcdG5w)
 
-Lista melhor empresas para se trabalhar https://gptw.com.br/ranking/melhores-empresas/?ano=2020&tipo=Setorial&ranking=Tecnologia&corte=30+%C3%A0+99+funcion%C3%A1rios
+[Lista melhor empresas para se trabalha](https://gptw.com.br/ranking/melhores-empresas/?ano=2020&tipo=Setorial&ranking=Tecnologia&corte=30+%C3%A0+99+funcion%C3%A1rios)
 
-Personalize seu GitHub: https://www.youtube.com/watch?v=cRoBt6AZgjc
+[Personalize seu GitHub](https://www.youtube.com/watch?v=cRoBt6AZgjc)
 
 
 # Sites para procurar vagas:
 
-Sites gerais https://docs.google.com/document/d/1hSxsKe4D5eUIguhYgac5zMaLxSzEisgpwmNI6qvm4r8/edit
+[Sites gerais](https://docs.google.com/document/d/1hSxsKe4D5eUIguhYgac5zMaLxSzEisgpwmNI6qvm4r8/edit)
 
-Vagas BR React https://github.com/react-brasil/vagas
+[Vagas BR React](https://github.com/react-brasil/vagas)
 
-Vagas Front-End BR https://github.com/frontendbr/vagas
+[Vagas Front-End BR](https://github.com/frontendbr/vagas)
 
-Vagas Back-End BR https://github.com/backend-br/vagas
+[Vagas Back-End BR](https://github.com/backend-br/vagas)
 
-Lista empresas trabalho remoto internacional https://github.com/remoteintech/remote-jobs
+[Lista empresas trabalho remoto internacional](https://github.com/remoteintech/remote-jobs)
 
-Lista empresas remoto nacional https://github.com/thiagolucio/remote-jobs-brazil
+[Lista empresas remoto nacional](https://github.com/thiagolucio/remote-jobs-brazil)
 
-Lista empresas trabalho remoto internacional https://github.com/remoteintech/remote-jobs
+[Lista empresas trabalho remoto internacional](https://github.com/remoteintech/remote-jobs)
 
-Lista empresas remoto nacional https://github.com/thiagolucio/remote-jobs-brazil
+[Lista empresas remoto nacional](https://github.com/thiagolucio/remote-jobs-brazil)
 
-Programathor https://programathor.com.br/
+[Programathor](https://programathor.com.br/)
+
+[Trampos](https://trampos.co/)
+
+[99Freelas](https://www.99freelas.com.br/)
 
 
 # Sites que podem ajudar na sua carreira dev:
 
 
-Crie sites 5x mais responsivos: https://responsively.app/
+[Crie sites 5x mais responsivos](https://responsively.app/)
 
-Adicione e personalize todas as seções no readme do seu projeto: https://readme.so/
+[Adicione e personalize todas as seções no readme do seu projeto](https://readme.so/)
 
-Crie e compartilhe imagens do seu código: https://carbon.now.sh
+[Crie e compartilhe imagens do seu código](https://carbon.now.sh)
 
-Pesquise e veja imagens com base nas que você curtiu anteriormente: https://unsplash.com/developers
+[Pesquise e veja imagens com base nas que você curtiu anteriormente](https://unsplash.com/developers)
 
-Saiba quais empresas visitaram seu site com relatórios semanais: https://clearbit.com/resources/tools/visitor-report
+[Saiba quais empresas visitaram seu site com relatórios semanais](https://clearbit.com/resources/tools/visitor-report)
 
-Remova o backgroud de imagens: https://www.remove.bg/pt-br
+[Remova o backgroud de imagens](https://www.remove.bg/pt-br)
 
 # Canais do YouTube com conteúdo para Devs:
+
+a Escola de Sites
 
 Adriana Saty
 
@@ -418,9 +492,13 @@ Dev em dobro
 
 Dev Jr Br
 
+DevMedia
+
 Dev Soutinho
 
 Dio
+
+EscolaFrontEnd
 
 Fabio Akita
 
@@ -457,7 +535,15 @@ Tsunode
 
 # Páginas do Instagram com Conteúdo para Devs:
 
-One Bit Code -> https://www.instagram.com/onebitcode/
+[One Bit Code](https://www.instagram.com/onebitcode/)
+
+[Dev Em Dobro](https://www.instagram.com/devemdobro/)
+
+[Dev Jr Br](https://www.instagram.com/devjrbr/)
+
+[Programmers Community](https://www.instagram.com/programmers_community_/)
+
+[Code Clash](https://www.instagram.com/code.clash/)
 
 # Diversas comunidades Brs:
 
@@ -466,21 +552,31 @@ https://github.com/ielepassos/comunidades-TI
 
 # Comunidades no Discord:
 
-Dev Jr Br -> https://discord.gg/6FcqV4q6
+[Ballerini](https://discord.gg/ballerini)
 
-Digital Innovation one -> https://discord.gg/VTZpDjwN
+[Codelândia](https://discord.gg/9HgRe4D5)
 
-Let's Code -> https://discord.gg/VXYEKdb7
+[Colab Code](https://discord.gg/DuFpVhYg)
 
-Codelândia -> https://discord.gg/9HgRe4D5
+[Dev Em Dobro](https://discord.gg/Wpumetym)
 
-Portal DEV -> https://discord.gg/zV2ATsJxH7
+[Dev Jr Br](https://discord.gg/6FcqV4q6)
 
-Guia Dev Brasil -> https://discord.gg/RnJC9wAq
+[Digital Innovation one](https://discord.gg/NXeQjk3F)
+
+[Guia Dev Brasil](https://discord.gg/RnJC9wAq)
+
+[Let's Code](https://discord.gg/VXYEKdb7)
+
+[Montanno](https://discord.gg/6Um7DnFZ)
+
+[Portal DEV](https://discord.gg/zV2ATsJxH7)
+
+[Rocketseat](https://discord.gg/bjbg96KS)
 
 # Grupos do Telegram:
 
-Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
+[Dev Jr Br](https://t.me/+-V6Xw29WpU9lZjU5)
 
 
 # Grupos do Whatsapp:
@@ -490,21 +586,21 @@ Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
 
 # Cursos Gratuitos:
 
-https://www.opensourcecourses.com.br/
+[OpenSourceCourses](https://www.opensourcecourses.com.br/)
 
-https://jornadadodev.com.br/
+[JornadaDoDev](https://jornadadodev.com.br/)
 
-https://www.rocketseat.com.br/
+[RocketSeat](https://www.rocketseat.com.br/)
 
-https://www.dio.me/
+[DIO](https://www.dio.me/)
 
-https://www.cursoemvideo.com/
+[CursoEmVideo](https://www.cursoemvideo.com/)
 
-https://www.origamid.com/
+[Origamid](https://www.origamid.com/)
 
-https://www.coursera.org/
+[Coursera](https://www.coursera.org/)
 
-https://www.freecodecamp.org/
+[FreeCodeCamp](https://www.freecodecamp.org/)
 
 
 # Eventos para Devs:
@@ -512,22 +608,33 @@ https://www.freecodecamp.org/
 https://www.meetup.com/pt-BR/
 
 
-# Repositórios do GitHub:
+# Melhores Repositórios do GitHub:
 
-Roadmap para devs -> https://github.com/kamranahmedse/developer-roadmap
+[Roadmap para devs](https://github.com/kamranahmedse/developer-roadmap)
 
-Guia Dev Brasil -> https://github.com/arthurspk/guiadevbrasil
+[Guia Dev Brasil](ttps://github.com/arthurspk/guiadevbrasil)
 
-Guia do Front-End -> https://github.com/arthurspk/guiadofrontend
+[Guia do Front-End](https://github.com/arthurspk/guiadofrontend)
+
+[Repositorio de API's públicas](https://github.com/public-apis/public-apis)
+
+[Livros gratuitos de programação em vários idiomas](https://github.com/EbookFoundation/free-programming-books)
+
+[Recursos para entrevistas de programação](https://github.com/jwasham/coding-interview-university)
+
+[Tutoriais para fazer SO, Editores de texto, blockchains etc](https://github.com/codecrafters-io/build-your-own-x)
+
+[A arte da linha de comando](https://github.com/jlevy/the-art-of-command-line)
+
+[Listas maravilhosas de listas maravilhosas](https://github.com/sindresorhus/awesome)
+
+[Questões e respostas de entrevistas com código](https://github.com/sudheerj/javascript-interview-questions)
 
 
 # Links que não se encaixaram em nenhuma das categorias acima:
 
-Guia de TI (Guia para cursos gartuitos): https://guiadeti.com.br/
+[Guia de TI (Guia para cursos gartuitos)](https://guiadeti.com.br/)
 
 contrib.rocks - exiba os contribuidores de um repo no README: https://contrib.rocks
 
 ---
-
-
-
