@@ -322,7 +322,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [CV Keep (Currículo online 2)](https://cvkeep.com/)
 
-[ResumeMaker.online(Currículo online 3)](https://www.resumemaker.online/pt)
+[ResumeMaker.online (Currículo online 3)](https://www.resumemaker.online/pt)
 
 [Dicas emprego exterior](https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/) 
 
