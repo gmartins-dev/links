@@ -21,7 +21,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 <a href="https://github.com/guilhermemm-dev/links/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=guilhermemm-dev/links" />
 </a></p>
-<p align="center">https://github.com/guilhermemm-dev/links/graphs/contributors</p>
+<p align="center"><a href="https://github.com/guilhermemm-dev/links/graphs/contributors">Veja mais sobre nossos contribuidores aqui!</a></p>
 
 
 
