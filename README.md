@@ -210,7 +210,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Public APIs](https://public-apis.xyz/)
 
-[Big List of Free and Open Public APIs (No Auth Needed)By:Ana Kravitz](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
+[Big List of Free and Open Public APIs (No Auth Needed) by Ana Kravitz](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 
 [Open Movie Database API](http://www.omdbapi.com/)
 
