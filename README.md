@@ -63,7 +63,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 - [Links que não se encaixaram em nenhuma das categorias acima:](#links-que-não-se-encaixaram-em-nenhuma-das-categorias-acima)
   
   
----
+
 # Ideias de projetos para o seu portfolio
 
 
@@ -79,7 +79,6 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [6 ideias de projetos projetos do canal Dev Batista](https://www.youtube.com/watch?v=nZJXfnULZyI)
 
-=======
 [5 inspirações de projetos](https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996)
 
 # Referências para design de sites
@@ -98,7 +97,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Acervo no Haikei de SVG para inspirar seu Front-end](https://haikei.app/)
 
-=======
+
 # Encontre combinações de cores legais para usar no seu projeto
 
 [Paleta de cores no MyColor](https://mycolor.space/)
