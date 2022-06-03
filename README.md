@@ -7,8 +7,6 @@ Então por favor contribuam (através de pull requests ou issues nesse repositó
 
 ---
 
-</br>
-
 <h3 align="center"> Projeto colaborativo!  </h3>
 
 <p align="center">
@@ -18,7 +16,6 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
  Muito obrigado a todos os devs que já contribuíram com o projeto!!! </p>
 <p align="center">👏👏👏🤗👨‍💻👩‍💻💙</p>
 
-</br>
 
 <p align="center">
 <a href="https://github.com/guilhermemm-dev/links/graphs/contributors">
