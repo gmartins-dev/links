@@ -163,148 +163,145 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 # Editores de imagem simples de usar
 
-https://www.photopea.com/
+[Photopea](https://www.photopea.com/)
 
-https://www.canva.com/
+[Canva](https://www.canva.com/)
 
-https://pixlr.com/br/
+[Pixlr](https://pixlr.com/br/)
 
-https://www.screentogif.com/
+[Screen To Gif](https://www.screentogif.com/)
 
-https://www.adobe.com/br/express/feature/image/resize
+[Adobe Express](https://www.adobe.com/br/express/feature/image/resize)
 
-https://tinypng.com/
+[Tiny PNG](https://tinypng.com/)
 
-https://app.prntscr.com/pt-br/help.html
+[LightShot](https://app.prntscr.com/pt-br/help.html)
 
 
 # Hospede suas imagens gratuitamente:
 
-https://imgbox.com/
+[ImgBox](https://imgbox.com/)
 
-https://postimages.org/
+[PostImage](https://postimages.org/)
 
 # Treine o uso do flexbox no CSS de forma divertida:
 
-https://flexboxfroggy.com/
+[FlexBox Froggy](https://flexboxfroggy.com/)
 
-https://cssgridgarden.com/
+[Grid Garden](https://cssgridgarden.com/)
 
-https://flukeout.github.io/
+[Css Diner](https://flukeout.github.io/)
 
-https://mastery.games/flexboxzombies/
+[Flexbox Zombies](https://mastery.games/flexboxzombies/)
 
-http://www.flexboxdefense.com/
+[Flexbox Defense](http://www.flexboxdefense.com/)
 
 
 # Gere textos para tests no seu site:
 
 
-https://www.lipsum.com
+[Lorem Ipsum](https://www.lipsum.com)
 
 
 # APIs públicas para usar no seu projeto:
 
 
-https://any-api.com/
+[Any API](https://any-api.com/)
 
-https://public-apis.xyz/
+[Public APIs](https://public-apis.xyz/) //Inativo
 
-https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+[List of free and open APIs By:Ana Kravitz](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 
-http://www.omdbapi.com/
+[Open Movie Database API](http://www.omdbapi.com/)
 
-https://developer.nytimes.com/
+[The New York Times Developer Network](https://developer.nytimes.com/)
 
-https://openweathermap.org/api
+[Weather API](https://openweathermap.org/api)
 
-https://jsonplaceholder.typicode.com/
+[JSON Placeholder](https://jsonplaceholder.typicode.com/)
 
 
 # Teste se sua API está funcionando:
 
 
-https://resttesttest.com/
+[REST test test...](https://resttesttest.com/)
 
 
 # Onde hospedar seu site gratuitamente:
 
-https://pages.github.com/
+[GitHub Pages](https://pages.github.com/)
 
-https://herokuapp.com/
+[https://www.heroku.com/](https://herokuapp.com/)
 
-https://www.netlify.com/
+[Netlify](https://www.netlify.com/)
 
-https://vercel.com/
+[Varcel](https://vercel.com/)
 
-https://www.awardspace.com/
+[AwardSpace](https://www.awardspace.com/)
 
-https://byet.host/
+[BYET Internet Services](https://byet.host/)
 
-https://www.infinityfree.net/
+[Infinity Free](https://www.infinityfree.net/)
 
-https://aws.amazon.com/pt/
+[AWS(Amazon Web Services)](https://aws.amazon.com/pt/)
 
-https://www.1freehosting.com/
+[1FreeHosting](https://www.1freehosting.com/)
 
 
 # SEO & Otimização:
 
 
-https://web.dev/measure/
+[Measure Page Quality](https://web.dev/measure/)
 
-https://developers.google.com/web/tools/lighthouse?hl=pt-br
+[LightHouse Guide](https://developers.google.com/web/tools/lighthouse?hl=pt-br)
 
 
 # Compare seu site com outros similares:
 
-https://www.similarweb.com/pt/
+[SimilarWeb](https://www.similarweb.com/pt/)
 
 # Encurtador de urls:
 
 
-https://bitly.com/
+[Bitly](https://bitly.com/)
 
 
 # Ferramentas e sites para aprender a desenvolver raciocinio lógico:
 
+[Sololearn](https://www.sololearn.com/)
 
-https://www.sololearn.com/
+[HackerRank](https://www.hackerrank.com/dashboard)
 
-https://www.hackerrank.com/dashboard
-
-https://www.beecrowd.com.br/judge/
+[BeeCrowd](https://www.beecrowd.com.br/judge/)
 
 
 # Criar formulários de email e campanhas gratuitamente:
 
 
-https://mailchimp.com/
+[MailChimp](https://mailchimp.com/)
 
 
 # Produtividade e Organização:
 
 
-hhttps://www.notion.so/
+[Notion Website](https://www.notion.so/)
 
-[Widgets para notion so](http://apption.co/)
+[Widgets para Notion](http://apption.co/)
 
-https://www.digitalhouse.com/br/blog/como-usar-o-notion/
+[Notion Guide by DigitalHouse](https://www.digitalhouse.com/br/blog/como-usar-o-notion/)
 
 
 # Extensões úteis para VSCode:
 
 
-https://x-team.com/blog/best-vscode-extensions
+[20 Best VsCode Extensions by X-Team](https://x-team.com/blog/best-vscode-extensions)
 
 
 # Extensões para navegador úteis para devs:
 
-Wappalyzer - descubra quais tecnologias estão sendo utilizadas na página:
-https://lnkd.in/ehxsbHWm
+[Wappalyzer - descubra quais tecnologias estão sendo utilizadas na página](https://lnkd.in/ehxsbHWm)
 
-React Developer Tools - confirme se o webapp está utilizando React:
-https://lnkd.in/erXSzbVa
+[React Developer Tools - confirme se o webapp está utilizando React](https://lnkd.in/erXSzbVa)
 
 [CSS Viewer - descubra facilmente o CSS dos elementos da página](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt)
 
@@ -329,11 +326,11 @@ https://lnkd.in/erXSzbVa
 # Dicas para arrumar Jobs:
 
 
-[Currículo online 1](https://gitconnected.com/)
+[GitConnected](https://gitconnected.com/)
 
-[Currículo online 2](https://cvkeep.com/)
+[CV Keep](https://cvkeep.com/)
 
-[Currículo online](https://www.resumemaker.online/pt)
+[ResumeMaker.online](https://www.resumemaker.online/pt)
 
 [Dicas emprego exterior](https://devporai.com.br/3-maneiras-de-trabalhar-remotamente-para-empresas-estrangeiras/) 
 
@@ -487,7 +484,7 @@ https://lnkd.in/erXSzbVa
 
 # Grupos do Telegram:
 
-Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
+[Dev Jr Br](https://t.me/+-V6Xw29WpU9lZjU5)
 
 [Cafeina Vagas](https://t.me/CafeinaVagas)
 
@@ -498,26 +495,27 @@ Dev Jr Br -> https://t.me/+-V6Xw29WpU9lZjU5
 
 # Cursos Gratuitos:
 
-https://www.opensourcecourses.com.br/
+[OpenSource Courses](https://www.opensourcecourses.com.br/)
 
-https://jornadadodev.com.br/
+[Jornada do Dev](https://jornadadodev.com.br/)
 
-https://www.rocketseat.com.br/
+[Rocketseat](https://www.rocketseat.com.br/)
 
-https://www.dio.me/
+[Dio](https://www.dio.me/)
 
-https://www.cursoemvideo.com/
+[Curso em Video](https://www.cursoemvideo.com/)
 
-https://www.origamid.com/
+[Origamid](https://www.origamid.com/)
 
-https://www.coursera.org/
+[Coursera](https://www.coursera.org/)
 
-https://www.freecodecamp.org/
+[Fire Code Camp](https://www.freecodecamp.org/)
 
 
 # Eventos para Devs:
 
-https://www.meetup.com/pt-BR/
+[Meetup](https://www.meetup.com/pt-BR/)
+[Shawee](https://shawee.io/)
 
 
 # Repositórios do GitHub:
@@ -533,7 +531,7 @@ https://www.meetup.com/pt-BR/
 
 [Guia de TI (Guia para cursos gartuitos)](https://guiadeti.com.br/)
 
-contrib.rocks - exiba os contribuidores de um repo no README: https://contrib.rocks
+[contrib.rocks - exiba os contribuidores de um repo no README](https://contrib.rocks)
 
 ---
 
