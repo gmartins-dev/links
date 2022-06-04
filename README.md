@@ -360,7 +360,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Microsoft One Note](https://www.microsoft.com/pt-pt/microsoft-365/onenote/digital-note-taking-app?rtc=1)
 
-[NumbusWeb](https://nimbusweb.me/)
+[NimbusWeb](https://nimbusweb.me/)
 
 [Zoho](https://www.zoho.com/pt-br/notebook/)
 
