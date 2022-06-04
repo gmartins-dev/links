@@ -366,7 +366,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [nTask](https://www.ntaskmanager.com/)
 
-[WorfFlowy](https://workflowy.com/)
+[WorkFlowy](https://workflowy.com/)
 
 
 
