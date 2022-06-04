@@ -300,7 +300,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [HackerRank](https://www.hackerrank.com/dashboard)
 
-[URI Atual Beecrowd](https://www.beecrowd.com.br/judge/)
+[URI / Beecrowd](https://www.beecrowd.com.br/judge/)
 
 [Codingame](https://www.codingame.com/)
 
