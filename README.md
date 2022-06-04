@@ -601,7 +601,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Ballerini](https://discord.gg/ballerini)
 
-[Montanno](https://discord.gg/6Um7DnFZ)
+[Montano](https://discord.gg/6Um7DnFZ)
 
 ## Grupos do Telegram
 
