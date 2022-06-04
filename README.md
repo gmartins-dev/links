@@ -302,7 +302,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [URI Atual Beecrowd](https://www.beecrowd.com.br/judge/)
 
-[Coding Game](https://www.codingame.com/)
+[Codingame](https://www.codingame.com/)
 
 [FreeCodeCam](https://freecodecamp.org/)
 
