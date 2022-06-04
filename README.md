@@ -379,7 +379,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Veja as cores que selecionou](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
-[Veja o preview da imagem no codigo](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+[Veja o preview da imagem no código](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 
 [Codigo inteligente](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
