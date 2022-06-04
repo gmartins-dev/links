@@ -381,7 +381,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Veja o preview da imagem no código](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 
-[Codigo inteligente](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+[Código inteligente](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
