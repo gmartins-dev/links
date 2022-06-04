@@ -190,6 +190,18 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [PostImages](https://postimages.org/)
 
+[Flickr](https://flickr.com/)
+
+[Imgur](https://imgur.com/)
+
+[GooglePhotos](https://www.google.com/intl/pt-BR/photos/about/)
+
+[FreeImageHosting](https://freeimagehosting.net/)
+
+[KeKgg](https://kek.gg/)
+
+[UnSee](https://unsee.cc/)
+
 # Treine o uso do flexbox no CSS de forma divertida
 
 [FlexBoxFroggy](https://flexboxfroggy.com/)
@@ -206,6 +218,16 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 # Gere textos para tests no seu site
 
 [Lipsum](https://www.lipsum.com)
+
+[CompadreIpsum](http://compadreipsum.com.br/)
+
+[Hipsum](https://hipsum.co/)
+
+[SatoriStudio](https://satoristudio.net/delorean-ipsum/)
+
+[Slipsum](https://slipsum.com/)
+
+[Cipsum](https://www.cipsum.com/)
 
 
 # APIs públicas para usar no seu projeto
@@ -224,11 +246,18 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 
+[Repositorios de API's Publicas](https://github.com/public-apis/public-apis)
+
 
 # Teste se sua API está funcionando
 
+[Postman](https://www.postman.com/)
+
 [REST test test...](https://resttesttest.com/)
 
+[RestNinja](https://restninja.io/)
+
+[ReqBin](https://reqbin.com/)
 
 # Onde hospedar seu site gratuitamente
 
@@ -267,17 +296,41 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 # Ferramentas e sites para aprender e desenvolver raciocínio lógico
 
-[Sololearn](https://www.sololearn.com/)
+[SoloLearn](https://www.sololearn.com/)
 
 [HackerRank](https://www.hackerrank.com/dashboard)
 
-[BeeCrowd](https://www.beecrowd.com.br/judge/)
+[URI Atual Beecrowd](https://www.beecrowd.com.br/judge/)
 
-[LeetCode](https://leetcode.com/problemset/all/)
+[Coding Game](https://www.codingame.com/)
+
+[FreeCodeCam](https://freecodecamp.org/)
+
+[CodeWars](https://www.codewars.com/)
+
+[Hacker Earth](http://hackerearth.com/)
+
+[Programiz](http://programiz.com/)
+
+[CodeChef](http://codechef.com/)
+
+[Spoj](http://spoj.com/)
+
+[Exercism](http://exercism.org/)
+
+[CodeCademy](http://codecademy.com/)
+
+[LeetCode](http://leetcode.com/)
+
+[CoderByte](http://coderbyte.com/)
+
+[JS Challenger](https://www.jschallenger.com/start)
 
 # Criar formulários de email e campanhas gratuitamente
 
 [MailChimp](https://mailchimp.com/)
+
+[FormsAPP](https://forms.app/pt)
 
 # Produtividade e Organização
 
@@ -287,10 +340,58 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Como usar o Notion by DigitalHouse](https://www.digitalhouse.com/br/blog/como-usar-o-notion/)
 
+[Mind Meister - Construa seu mapa mental](https://www.mindmeister.com/pt/)
+
+[NoteLedge](https://www.kdanmobile.com/noteledge)
+
+[ClickUp](https://clickup.com/?fp_ref=vlad99)
+
+[EverNote](https://evernote.com/intl/pt/)
+
+[Confluence](https://www.atlassian.com/br/software/confluence)
+
+[MilaNote](https://milanote.com/)
+
+[DropboxPaper](https://www.dropbox.com/paper)
+
+[Nuclio](https://www.nuclino.com/)
+
+[Workspace Google](https://workspace.google.com/)
+
+[Microsoft One Note](https://www.microsoft.com/pt-pt/microsoft-365/onenote/digital-note-taking-app?rtc=1)
+
+[NumbusWeb](https://nimbusweb.me/)
+
+[Zoho](https://www.zoho.com/pt-br/notebook/)
+
+[nTask](https://www.ntaskmanager.com/)
+
+[WorfFlowy](https://workflowy.com/)
+
+
+
 
 # Extensões úteis para VSCode
 
 [Best VSCode Extensions by X-Team](https://x-team.com/blog/best-vscode-extensions)
+
+[Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+
+[Veja as cores que selecionou](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+[Veja o preview da imagem no codigo](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+
+[Codigo inteligente](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+[Tabnine uma das melhores extensões](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+
+[Prettier para melhorar o codigo](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+[Veja onde abre e fecha seus parenteses, chaves e colchetes](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
+
+[VS Code Icons - Icones de pastas e linguagens](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 
 # Extensões para navegador úteis para devs
@@ -335,6 +436,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Personalize seu GitHub](https://www.youtube.com/watch?v=cRoBt6AZgjc)
 
+[99 Juniors - Facilita a pesquisa de empresas que buscam juniors](https://99juniors.com/)
+
 
 # Sites para procurar vagas
 
@@ -355,6 +458,10 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Lista empresas remoto nacional](https://github.com/thiagolucio/remote-jobs-brazil)
 
 [Programathor](https://programathor.com.br/)
+
+[Trampos](https://trampos.co/)
+
+[99Freelas](https://www.99freelas.com.br/)
 
 
 # Sites que podem ajudar na sua carreira dev
@@ -462,6 +569,14 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [One Bit Code](https://www.instagram.com/onebitcode/)
 
+[Dev Em Dobro](https://www.instagram.com/devemdobro/)
+
+[Dev Jr Br](https://www.instagram.com/devjrbr/)
+
+[Programmers Community](https://www.instagram.com/programmers_community_/)
+
+[Code Clash](https://www.instagram.com/code.clash/)
+
 # Comunidades Tech brasileiras
 
 [COMUNIDADES TECH (Repositório)](https://github.com/ielepassos/comunidades-TI)
@@ -486,6 +601,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Ballerini](https://discord.gg/ballerini)
 
+[Montanno](https://discord.gg/6Um7DnFZ)
 
 ## Grupos do Telegram
 
@@ -532,6 +648,20 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Guia Dev Brasil](https://github.com/arthurspk/guiadevbrasil)
 
 [Guia do Front-End](https://github.com/arthurspk/guiadofrontend)
+
+[Repositorio de API's públicas](https://github.com/public-apis/public-apis)
+
+[Livros gratuitos de programação em vários idiomas](https://github.com/EbookFoundation/free-programming-books)
+
+[Recursos para entrevistas de programação](https://github.com/jwasham/coding-interview-university)
+
+[Tutoriais para fazer SO, Editores de texto, blockchains etc](https://github.com/codecrafters-io/build-your-own-x)
+
+[A arte da linha de comando](https://github.com/jlevy/the-art-of-command-line)
+
+[Listas maravilhosas de listas maravilhosas](https://github.com/sindresorhus/awesome)
+
+[Questões e respostas de entrevistas com código](https://github.com/sudheerj/javascript-interview-questions)
 
 
 # Banco de Dados em Cloud
