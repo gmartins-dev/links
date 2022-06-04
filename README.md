@@ -354,7 +354,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [DropboxPaper](https://www.dropbox.com/paper)
 
-[Nuclio](https://www.nuclino.com/)
+[Nuclino](https://www.nuclino.com/)
 
 [Workspace Google](https://workspace.google.com/)
 
