@@ -246,7 +246,6 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 
-[Repositorios de API's Publicas](https://github.com/public-apis/public-apis)
 
 
 # Teste se sua API está funcionando
