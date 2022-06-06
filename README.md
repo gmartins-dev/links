@@ -369,6 +369,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [WorkFlowy](https://workflowy.com/)
 
+[Trello](https://trello.com/)
+
 
 
 
@@ -462,7 +464,9 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Trampos](https://trampos.co/)
 
-[99Freelas](https://www.99freelas.com.br/)
+[99Freelas](https://www.99freelas.com.br
+
+[Vagas.com.br](https://www.vagas.com.br/)
 
 
 # Sites que podem ajudar na sua carreira dev
@@ -564,6 +568,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 
 [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+
+[Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers)
+
+[Curso em Video](https://www.youtube.com/c/CursoemVideo)
+
 
 
 # Páginas do Instagram com Conteúdo para Devs
