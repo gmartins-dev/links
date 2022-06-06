@@ -234,6 +234,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Any API](https://any-api.com/)
 
+[API Grátis](https://apigratis.com.br/)
+
 [Public APIs](https://publicapis.dev/)
 
 [Big List of Free and Open Public APIs (No Auth Needed) by Ana Kravitz](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
