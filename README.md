@@ -464,7 +464,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Trampos](https://trampos.co/)
 
-[99Freelas](https://www.99freelas.com.br
+[99Freelas](https://www.99freelas.com.br)
 
 [Vagas.com.br](https://www.vagas.com.br/)
 
