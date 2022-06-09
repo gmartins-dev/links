@@ -643,6 +643,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [FreeCodeCamp](https://www.freecodecamp.org/)
 
+[FIAP](https://on.fiap.com.br/)
+
 
 # Eventos para Devs
 
