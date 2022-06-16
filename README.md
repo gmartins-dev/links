@@ -327,6 +327,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [JS Challenger](https://www.jschallenger.com/start)
 
+[TopCoder](https://www.topcoder.com/)
+
 # Criar formulários de email e campanhas gratuitamente
 
 [MailChimp](https://mailchimp.com/)
@@ -677,6 +679,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Gerador de Readme para seu Perfil do GitHub](https://github.com/rahuldkjain/github-profile-readme-generator)
 
+[Projetos incríveis em javascript](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
 
 # Banco de Dados em Cloud
 
