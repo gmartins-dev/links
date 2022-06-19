@@ -755,7 +755,9 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 # Comunidades Tech brasileiras
 
-[COMUNIDADES TECH (Repositório)](https://github.com/ielepassos/comunidades-TI)
+[COMUNIDADES TECH (repo)](https://github.com/ielepassos/comunidades-TI)
+
+[Comunidades Brasileiras Incríveis (repo)](https://github.com/codecon-dev/awesome-communities-brazil)
 
 ## Comunidades no Discord
 
@@ -841,6 +843,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [MeetUp](https://www.meetup.com/pt-BR/)
 
+[CODE<CON>](https://www.codecon.dev/)
+
 
 <br>
 <p align="right"><sub><a href="#top">back to top</a></sub></p> 
@@ -893,7 +897,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 # Links que não se encaixaram em nenhuma das categorias acima
 
-[Guia de TI (Guia para cursos gartuitos)](https://guiadeti.com.br/)
+[Guia de TI (Guia para cursos gratuitos)](https://guiadeti.com.br/)
 
 [Contrib.rocks - exiba os contribuidores de um repo dinamicamente no README](https://contrib.rocks) ➡️ Usado neste README ✨
 
