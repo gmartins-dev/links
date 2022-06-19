@@ -83,6 +83,9 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [5 inspirações de projetos](https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996)
 
 
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 # Referências para design de sites
 
 [Acervo no Pinterest para inspirar seu Front-end](https://br.pinterest.com/search/pins/?q=web%20site&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=site%7Ctyped)
@@ -100,6 +103,10 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Acervo no Haikei de SVG para inspirar seu Front-end](https://haikei.app/)
 
 
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
 # Encontre combinações de cores legais para usar no seu projeto
 
 [Paleta de cores no MyColor](https://mycolor.space/)
@@ -109,6 +116,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Paleta de cores na Couleur](https://couleur.io/)
 
 [Paleta de cores na Design Seeds](https://www.design-seeds.com/)
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 
 
 # Onde achar imagens para o seu projeto
@@ -140,6 +152,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 > **Extra:** 
 >
 > Ilustrações criativas de páginas não encontradas em [404 Illustrations](https://www.kapwing.com/404-illustrations)
+
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
 
 
 # Onde achar ícones para o seu projeto
@@ -181,6 +198,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 
 
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
+
 # Editores de imagem simples de usar
 
 [Photopea](https://www.photopea.com/)
@@ -197,6 +219,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [LightShot](https://app.prntscr.com/pt-br/)
 
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
 # Coletâneas de ferramentas para DEVs
 
 [Developer Toolchest](https://developer-toolchest.com/)
@@ -204,6 +231,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [All in One Bookmark Links for Designer](https://www.evernote.design/)
 
 [Tiny Helpers](https://tiny-helpers.dev/)
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 
 
 # Hospede suas imagens gratuitamente
@@ -224,6 +256,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [UnSee](https://unsee.cc/)
 
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
 # Treine o uso do flexbox no CSS de forma divertida
 
 [FlexBoxFroggy](https://flexboxfroggy.com/)
@@ -235,6 +272,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [FlexBoxZombies](https://mastery.games/flexboxzombies/)
 
 [FlexBoxDefense](http://www.flexboxdefense.com/)
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 
 
 # Gere textos para tests no seu site
@@ -250,6 +292,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Slipsum](https://slipsum.com/)
 
 [Cipsum](https://www.cipsum.com/)
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 
 
 # APIs públicas para usar no seu projeto
@@ -272,6 +319,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 
 
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
+
 # Teste se sua API está funcionando
 
 [Postman](https://www.postman.com/)
@@ -283,11 +335,21 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [ReqBin](https://reqbin.com/)
 
 
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
+
 # Visualizadores de JSON
 
 [JSON Hero](https://jsonhero.io/)
 
 [JSON Visio](https://jsonvisio.com/)
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 
 
 # Onde hospedar seu site gratuitamente
@@ -311,19 +373,39 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [1FreeHosting](https://www.1freehosting.com/)
 
 
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
+
 # SEO & Otimização
 
 [Web.Dev - Measure page quality](https://web.dev/measure/)
 
 [Google Lighthouse](https://developers.google.com/web/tools/lighthouse?hl=pt-br)
 
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
 # Compare seu site com outros similares
 
 [similarweb](https://www.similarweb.com/pt/)
 
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
 # Encurtador de urls
 
 [Bit.ly](https://bitly.com/)
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 
 # Ferramentas e sites para aprender e desenvolver raciocínio lógico
 
@@ -361,11 +443,21 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Code Signal](https://codesignal.com/)
 
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
 # Criar formulários de email e campanhas gratuitamente
 
 [MailChimp](https://mailchimp.com/)
 
 [FormsAPP](https://forms.app/pt)
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 
 # Produtividade e Organização
 
@@ -407,6 +499,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 
 
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
+
 
 # Extensões úteis para VSCode
 
@@ -429,6 +526,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Veja onde abre e fecha seus parenteses, chaves e colchetes](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
 
 [VS Code Icons - Icones de pastas e linguagens](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
 
 
 # Extensões para navegador úteis para devs
@@ -457,6 +559,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 
 
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
+
 # Dicas para arrumar Jobs
 
 [GitConnected (Currículo online 1)](https://gitconnected.com/)
@@ -474,6 +581,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Personalize seu GitHub](https://www.youtube.com/watch?v=cRoBt6AZgjc)
 
 [99 Juniors - Facilita a pesquisa de empresas que buscam juniors](https://99juniors.com/)
+
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
 
 
 # Sites para procurar vagas
@@ -503,6 +615,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Vagas.com.br](https://www.vagas.com.br/)
 
 
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
 # Sites que podem ajudar na sua carreira dev
 
 [Crie sites 5x mais responsivos](https://responsively.app/)
@@ -516,6 +633,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Saiba quais empresas visitaram seu site com relatórios semanais](https://clearbit.com/resources/tools/visitor-report)
 
 [Remova o backgroud de imagens](https://www.remove.bg/pt-br)
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 
 # Canais do YouTube com conteúdo para Devs
 
@@ -609,6 +731,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 
 
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
+
 # Páginas do Instagram com Conteúdo para Devs
 
 [One Bit Code](https://www.instagram.com/onebitcode/)
@@ -620,6 +747,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Programmers Community](https://www.instagram.com/programmers_community_/)
 
 [Code Clash](https://www.instagram.com/code.clash/)
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 
 # Comunidades Tech brasileiras
 
@@ -654,9 +786,15 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Cafeína Vagas](https://t.me/CafeinaVagas)
 
 
+
 ## Grupos do Whatsapp
 
 (...)
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 
 
 # Cursos Gratuitos
@@ -692,11 +830,21 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 > Diversas trilhas de conhecimento com certificado e programas divididos em níveis de aprendizado (iniciante, intermediário e avançado).
 
 
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
 # Eventos para Devs
 
 [Shawee](https://shawee.io/)
 
 [MeetUp](https://www.meetup.com/pt-BR/)
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 
 
 # Repositórios do GitHub
@@ -725,6 +873,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Projetos incríveis em javascript](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
 
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
 # Banco de Dados em Cloud
 
 [Supabase](https://supabase.com/)
@@ -733,10 +886,20 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Planetscale](https://planetscale.com/pricing)
 
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
 # Links que não se encaixaram em nenhuma das categorias acima
 
 [Guia de TI (Guia para cursos gartuitos)](https://guiadeti.com.br/)
 
 [Contrib.rocks - exiba os contribuidores de um repo dinamicamente no README](https://contrib.rocks) ➡️ Usado neste README ✨
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
 
 ---
