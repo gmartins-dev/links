@@ -166,6 +166,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Phospor icons](https://phosphoricons.com/)
 
+[GitHub Emoticons]([https://phosphoricons.com/](https://gist.github.com/guilhermemm-dev/9e8207dde73545d226d2a68d2450baa7))
+
 
 # Editores de imagem simples de usar
 
