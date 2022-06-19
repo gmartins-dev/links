@@ -34,12 +34,14 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 - [Onde achar imagens para o seu projeto](#onde-achar-imagens-para-o-seu-projeto)
 - [Onde achar ícones para o seu projeto](#onde-achar-ícones-para-o-seu-projeto)
 - [Editores de imagem simples de usar](#editores-de-imagem-simples-de-usar)
+- [Coletâneas de ferramentas para DEVs](#coletâneas-de-ferramentas-para-devs)
 - [Hospede suas imagens gratuitamente](#hospede-suas-imagens-gratuitamente)
 - [Treine o uso do flexbox no CSS de forma divertida](#treine-o-uso-do-flexbox-no-css-de-forma-divertida)
 - [Gere textos para tests no seu site](#gere-textos-para-tests-no-seu-site)
 - [APIs públicas para usar no seu projeto](#apis-públicas-para-usar-no-seu-projeto)
 - [Teste se sua API está funcionando](#teste-se-sua-api-está-funcionando)
 - [Onde hospedar seu site gratuitamente](#onde-hospedar-seu-site-gratuitamente)
+- [Visualizadores de JSON](#visualizadores-de-json)
 - [SEO & Otimização](#seo--otimização)
 - [Compare seu site com outros similares](#compare-seu-site-com-outros-similares)
 - [Encurtador de urls](#encurtador-de-urls)
@@ -135,6 +137,10 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Pexels.com](https://www.pexels.com/pt-br/)
 
+> **Extra:** 
+>
+> Ilustrações criativas de páginas não encontradas em [404 Illustrations](https://www.kapwing.com/404-illustrations)
+
 
 # Onde achar ícones para o seu projeto
 
@@ -170,7 +176,9 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 > **Extra:** 
 >
->Crie gratuitamente uma logo para seu projeto ou organização em [freeLogoDesign.org](https://pt.freelogodesign.org/)
+> Crie gratuitamente uma logo para seu projeto ou organização em [freeLogoDesign.org](https://pt.freelogodesign.org/)
+
+
 
 
 # Editores de imagem simples de usar
@@ -188,6 +196,14 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [TinyPNG](https://tinypng.com/)
 
 [LightShot](https://app.prntscr.com/pt-br/)
+
+# Coletâneas de ferramentas para DEVs
+
+[Developer Toolchest](https://developer-toolchest.com/)
+
+[All in One Bookmark Links for Designer](https://www.evernote.design/)
+
+[Tiny Helpers](https://tiny-helpers.dev/)
 
 
 # Hospede suas imagens gratuitamente
@@ -265,6 +281,14 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [RestNinja](https://restninja.io/)
 
 [ReqBin](https://reqbin.com/)
+
+
+# Visualizadores de JSON
+
+[JSON Hero](https://jsonhero.io/)
+
+[JSON Visio](https://jsonvisio.com/)
+
 
 # Onde hospedar seu site gratuitamente
 
