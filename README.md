@@ -655,6 +655,18 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [FIAP](https://on.fiap.com.br/)
 
+[The Odin Project](https://www.theodinproject.com/) (EN)
+> Currículo completo, comunidade forte e ativa. Duas trilhas: Ruby on Rails ou JavaScript (em inglês)
+
+[Escola do Trabalhador 4.0](https://ead.escoladotrabalhador40.com.br/)
+> Diversos cursos gratuitos em parceria com Microsoft, dentre eles:  *Desenvolvedor de Software Azure, Profissional de Inteligência Artificial, Analista de Dados, Analista de Segurança de Dados.*
+
+[Harvard CS50 em português](https://materiais.napratica.org.br/cc50)
+> Versão gratuita traduzida para o português do famoso curso CS50, oferecido por Harvard e ministrado por David J. Malan.
+
+[Fundação Bradesco](https://www.ev.org.br/areas-de-interesse/programacao)
+> Diversas trilhas de conhecimento com certificado e programas divididos em níveis de aprendizado (iniciante, intermediário e avançado).
+
 
 # Eventos para Devs
 
