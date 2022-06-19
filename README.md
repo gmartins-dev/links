@@ -168,6 +168,10 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [GitHub Emoticons](https://gist.github.com/guilhermemm-dev/9e8207dde73545d226d2a68d2450baa7)
 
+> **Extra:** 
+>
+>Crie gratuitamente uma logo para seu projeto ou organização em [freeLogoDesign.org](https://pt.freelogodesign.org/)
+
 
 # Editores de imagem simples de usar
 
