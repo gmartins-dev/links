@@ -334,6 +334,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [ReqBin](https://reqbin.com/)
 
+[Insomnia](https://insomnia.rest/download)
+
 
 <br>
 <p align="right"><sub><a href="#top">back to top</a></sub></p> 
@@ -633,6 +635,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Saiba quais empresas visitaram seu site com relatórios semanais](https://clearbit.com/resources/tools/visitor-report)
 
 [Remova o backgroud de imagens](https://www.remove.bg/pt-br)
+
+[Extensão com notícias e artigos para a comunidade dev](https://daily.dev/)
 
 
 <br>
