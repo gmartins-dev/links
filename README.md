@@ -82,6 +82,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [5 inspirações de projetos](https://betterprogramming.pub/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996)
 
+[Desafio: 100 dias - 100 projetos](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
+
 
 <br>
 <p align="right"><sub><a href="#top">back to top</a></sub></p> 
@@ -190,6 +192,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Phospor icons](https://phosphoricons.com/)
 
 [GitHub Emoticons](https://gist.github.com/guilhermemm-dev/9e8207dde73545d226d2a68d2450baa7)
+
+[Devicon](https://devicon.dev/)
 
 > **Extra:** 
 >
@@ -317,6 +321,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 
+[Fake Store API](https://fakestoreapi.com/)
+
 
 
 <br>
@@ -335,6 +341,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [ReqBin](https://reqbin.com/)
 
 [Insomnia](https://insomnia.rest/download)
+
+[Swagger](https://swagger.io/)
 
 
 <br>
@@ -559,6 +567,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Web Developer - A extensão Web Developer adiciona um botão de barra de ferramentas ao navegador com várias ferramentas de desenvolvedor Web](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)
 
+[Lighthouse - Analisa e oferece soluções para problemas de otimização que o seu webapp possui](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-BR)
+
 
 
 <br>
@@ -638,6 +648,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Extensão com notícias e artigos para a comunidade dev](https://daily.dev/)
 
+[DevDocs - Coletânea de documentações](https://devdocs.io/)
+
 
 <br>
 <p align="right"><sub><a href="#top">back to top</a></sub></p> 
@@ -677,7 +689,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Fabio Akita](https://www.youtube.com/c/FabioAkita1990)
 
-[Felipe Dechamps](https://www.youtube.com/c/FilipeDeschamps)
+[Filipe Deschamps](https://www.youtube.com/c/FilipeDeschamps)
 
 [Guilherme Rodz](https://www.youtube.com/channel/UCbJAKfdCHqjrM63VgTNGYOA)
 
@@ -777,7 +789,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Guia Dev Brasil](https://discord.gg/RnJC9wAq)
 
-[RocketSeat](https://discord.gg/9hxCfTAC)
+[Rocketseat](https://discord.gg/9hxCfTAC)
 
 [CollabCode](https://discord.gg/2FERKT7p)
 
