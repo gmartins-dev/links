@@ -689,7 +689,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Fabio Akita](https://www.youtube.com/c/FabioAkita1990)
 
-[Felipe Deschamps](https://www.youtube.com/c/FilipeDeschamps)
+[Filipe Deschamps](https://www.youtube.com/c/FilipeDeschamps)
 
 [Guilherme Rodz](https://www.youtube.com/channel/UCbJAKfdCHqjrM63VgTNGYOA)
 
