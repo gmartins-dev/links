@@ -321,7 +321,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 
-[Fake Store API](https://fakestoreapi.com/docs)
+[Fake Store API](https://fakestoreapi.com/)
 
 
 
