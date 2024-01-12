@@ -1,6 +1,6 @@
 ![github-header-image (3)](https://user-images.githubusercontent.com/86871991/171687067-bf02ff1b-abae-495f-a578-f9dbbe34a8c0.png)
 
-Sejam bem vindos Devs, esse é um projeto colaborativo criado inicialmente por mim [@guilhermemm-dev](https://github.com/guilhermemm-dev),
+Sejam bem vindos Devs, esse é um projeto colaborativo criado inicialmente por mim [@gmartins-dev](https://github.com/gmartins-dev),
 mas que eu espero que seja algo construído de forma colaborativa por toda a comunidade de devs brs.
 
 Então por favor contribuam (através de pull requests ou issues nesse repositório) sempre que possível enviando suas sugestões de links a serem adicionados na lista.
