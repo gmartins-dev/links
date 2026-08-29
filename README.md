@@ -40,6 +40,7 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 - [Gere textos para tests no seu site](#gere-textos-para-tests-no-seu-site)
 - [APIs públicas para usar no seu projeto](#apis-públicas-para-usar-no-seu-projeto)
 - [Teste se sua API está funcionando](#teste-se-sua-api-está-funcionando)
+- [Teste aplicações web e mobile](#teste-aplicações-web-e-mobile)
 - [Onde hospedar seu site gratuitamente](#onde-hospedar-seu-site-gratuitamente)
 - [Visualizadores de JSON](#visualizadores-de-json)
 - [SEO & Otimização](#seo--otimização)
@@ -347,6 +348,16 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 <br>
 <p align="right"><sub><a href="#top">back to top</a></sub></p> 
+
+
+
+# Teste aplicações web e mobile
+
+[Agent QA - agente de QA com código-fonte disponível para criar e executar testes em linguagem natural, guardar memória das execuções e adaptar fluxos quando a interface muda. Usa FSL-1.1-ALv2; cada versão passa para Apache-2.0 após dois anos.](https://github.com/vostride/agent-qa)
+
+
+<br>
+<p align="right"><sub><a href="#top">back to top</a></sub></p>
 
 
 
