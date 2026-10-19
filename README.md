@@ -356,6 +356,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [JSON Visio](https://jsonvisio.com/)
 
+[Glim (macOS)](https://github.com/NeoPanic/Glim) — Visualizador local de arquivos JSON em árvore, com tabelas CSV e prévias de documentos no mesmo espaço de trabalho, gratuito e de código aberto (MIT).
+
 
 <br>
 <p align="right"><sub><a href="#top">back to top</a></sub></p> 
